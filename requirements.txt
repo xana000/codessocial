@@ -1,0 +1,9 @@
+python-dotenv
+requests
+groq
+PyPDF2
+python-dotenv
+groq
+PyMuPDF
+requests
+beautifulsoup4
