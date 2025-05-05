@@ -1,0 +1,25 @@
+1. les thématiques intéressantes pour une analyse sociologique à partir de cet entretien sont les suivantes :
+2. **perception et acceptation de la technologie** :
+3. "comment définissez-vous chatgpt et l'intelligence artificielle en général ?"
+4. "quelles sont les premières choses qui vous viennent à l'esprit lorsque vous pensez à chatgpt ?"
+5. "comment percevez-vous le fait d’utiliser chatgpt dans le cadre de travaux universitaires ? estimez-vous que son util isation est toujours légitime ?"
+6. **integration des outils technologiques dans l'apprentissage** :
+7. "en quoi chatgpt a-t-il modifié votre façon de travailler ?"
+8. "avez-vous remarqué des situations où chatgpt vous a incité à être plus critique ou à adopter une autre perspective ?"
+9. "comment l'utilisation de chatgpt influence-t-elle l'organisation de votre planning de travail ?"
+10. **impact sur la productivité et la compréhension** :
+11. "estimez-vous que chatgpt vous aide principalement à gagner du temps, à améliorer la qualité de votre travail, ou autre chose ?"
+12. "est-ce que les réponses fournies par chatgpt lors de ces sessions ont répondu à vos attentes ? pourquoi ou pourquoi pas ?"
+13. **dépendance et compétences métacognitives** :
+14. "ressensez-vous une dépendance vis-à-vis de chatgpt pour certaines tâches académiques ?"
+15. "comment évaluez-vous la qualité et la fiabilité des réponses fournies par chatgpt ?"
+16. **éthique et légitimité de l'utilisation de chatgpt** :
+17. "comment vous positionnez-vous face aux enjeux éthiques liés à l'utilisation de chatgpt (par exemple, citer son utilisation, reformuler les réponses fournies) ?"
+18. "avez-vous déjà ressenti un dilemme moral à utiliser chatgpt pour vos travaux ? si oui, pouvez-vous nous en dire plus ?"
+19. **tensions et dilemmes liés à l'utilisation de chatgpt** :
+20. "rencontrez-vous des tensions entre le gain de temps procuré par chatgpt et votre apprentissage personnel ? pouvez-vous nous en dire plus ?"
+21. "pensez-vous que l'utilisation de chatgpt soit légitime pour certains travaux académiques mais non pour d'autres ? pourquoi ?"
+22. **perspectives futures et suggestions d'amélioration** :
+23. "comment pensez-vous que les outils comme chatgpt vont transformer les pratiques d'apprentissage dans les prochaines années ?"
+24. "avez-vous des suggestions pour améliorer l'intégration de chatgpt dans le cadre académique ?"
+25. ces thématiques permettent d'explorer les multiples facettes de l'impact de chatgpt sur les étudiants, allant de la perception et l'acceptation de la technologie à ses implications éthiques et métacognitives, en passant par son impact sur la productivité et l'apprentissage

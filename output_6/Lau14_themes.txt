@@ -1,0 +1,150 @@
+1. pour une analyse sociologique de cet entretien, plusieurs thématiques intéressantes peuvent être identifiées. voici les thèmes principaux avec les verbatims associés :
+2. ### 1. **usage de chatgpt dans le travail universitaire**
+3. **définition et fonctionnalité de chatgpt :**
+4. "chatgpt, donc si je dois le décrire bien, c'est une intelligence artificielle, donc c'est un programme qui est spécialisé dans la génération de textes. [...] il est en capacité de créer du texte ou de comprendre du texte et ou d'en traduire et ou de le reformuler."
+5. "il comprend extrêmement bien le langage machine, ce qui peut donc être utile et ce qui m'a été utile lorsque, par exemple, tu veux faire du codage, des statistiques ou tu veux comprendre des trucs un peu plus techniques en termes de it."
+6. **apprentissage de nouvelles compétences techniques :**
+7. "mais honnêtement, incapable de les coder moi-même. et donc, bah ouais, j'ai utilisé clairement l'ia pour faire ça."
+8. "dans un langage, en plus ce que je ne connaissais pas. alors je comprenais vaguement ce que je lisais, je comprenais les fonctions, mais honnêtement, incapable de les coder moi-même."
+9. **aide à la rédaction et révision :**
+10. "j'ai un article : deux options [...] je lui dis « résume-le-moi » en plusieurs points. [...]"
+11. "moi je suis quelqu'un qui a une forte dyslexie, qui a pas une écriture qui soit très fluide. c'est un peu saccadé mais pensez qu'oralement ça l'est un peu moins, à l'écrit c'est pire. et bien en fait je lui donne les textes que je souhaite écrire et je lui dis « reformule-le moi » ou tout simplement je dis « corrige-moi les fautes »."
+12. **utilisation pour la recherche et les bibliographies :**
+13. "le truc qui est assez pertinent, surtout si ça m'arrive une fois ou deux de devoir faire des bibliographies, tu peux lui demander les références. [...] il n'existe pas ou qu'il a mixé des trucs"
+14. ### 2. **relation avec la technologie et la dépendance**
+15. **flemme et facilité d'accès :**
+16. "je suis flemmard. donc, j'ai un article."
+17. "le prof nous avait donné des bases : allumer une lumière, éteindre une led et connecter le senseur à la machine… moi, je suis assez flémard."
+18. **itération et adaptation des réponses :**
+19. "là, ça marche, mais il y a ça que je veux différent. et en fait, par itération, lui, il te sort à la fin. donc, je crois vraiment, en quatre jours, j'avais sorti un code, j'avais 160 lignes de code parfaitement fonctionnel et mon capteur, il faisait ce que je voulais."
+20. "je vais toujours donner le doi ou alors le lien internet. voilà, ça c'est l'option je suis flemmard mais pas trop."
+21. ### 3. **critiques et limitations de chatgpt**
+22. **qualité des réponses :**
+23. "dans le cadre d'un travail académique, est-ce que c'est bien ou mal, l'utilisation de biogaz en suisse [...] il ne va pas dire si c'est un bon chiffre ou non."
+24. "moi, j'ai grandi à l'école, on me disait, wikipédia, il ne faut pas y croire aveuglément, ça peut conduire à des erreurs. bah, chatgpt, c'est un peu pareil. faut pas y croire aveuglément, faut regarder son sens critique, ça peut contenir des erreurs."
+25. "ça dépend de la précision de mon travail. pour un travail académique, si je vais vraiment reciter mot à mot ce qu'il me dit, je vais lui demander une source."
+26. **niveau de compréhension et de précision :**
+27. "éventuellement, il va réussir à te le mettre, si tu le demandes. par contre, il faut un peu creuser. « mets en perspective ce chiffre par rapport aux autres pays, fais ceci, fais ça.»"
+28. "j'ai rarement souvenir qu'il m'ait sorti une panoplie de réponses sans que j’ai du creusé pour avoir les réponses que je voulais."
+29. ### 4. **éthique et intégrité académique**
+30. **utilisation appropriée des sources :**
+31. "je prends son chiffre. après, si j'ai besoin de... en fait, ça dépend de la précision de mon travail. pour un travail académique, si je vais vraiment reciter mot à mot ce qu'il me dit, je vais lui demander une source. et là, je vais vérifier sa source."
+32. "wikipédia, il ne faut pas y croire aveuglément, ça peut conduire à des erreurs. bah, chatgpt, c'est un peu pareil."
+33. ### 5. **impact personnel et responsabilisation**
+34. **dyslexie et support technique :**
+35. "moi je suis quelqu'un qui a une forte dyslexie, qui a pas une écriture qui soit très fluide. [...] je lui donne les textes que je souhaite écrire et je lui dis « reformule-le moi » ou tout simplement je dis « corrige-moi les fautes »."
+36. "parfois il faut donner l'input en tant qu'utilisateur."
+37. ces thèmes et verbatims permettent d'explorer les usages, les perceptions, et les critiques autour de l'utilisation de l'ia dans le contexte académique, ainsi que les implications éthiques et personnelles de cette utilisation
+38. ### thématiques et verbations associées
+39. **utilisation et efficacité de l'ia (chatgpt)**:
+40. "c'est un outil... si finalement ton outil, tu n'arrives pas à l'adapter à ton travail... change l'outil."
+41. "donc si elle n'arrive pas à te sortir l'article ou s'il n'arrive pas à faire comme il faut, ben tu fais à l'ancienne."
+42. "mais si lui, il n'arrive pas à te sortir l'article ou s'il n'arrive pas à faire comme il faut, ben tu fais à l'ancienne, des mots-clés, des trucs bouléens pour avoir le bon article qui correspond à ton sujet, tu lis l'article."
+43. **formation et apprentissage**:
+44. "j'ai appris à utiliser chatgpt avant d'utiliser cette ia. j'ai regardé beaucoup de vidéos sur internet de gens qui en parlaient, de comment ça fonctionnait. c’est une chaîne youtube qui s'appelle mecode..."
+45. "c'est à travers ces vidéos ... qu'il expliquait comment optimiser l'utilisation de l'ia, que je me suis dit, ok, je vais essayer."
+46. **impact sur la méthodologie de travail**:
+47. "ça me fait gagner beaucoup de temps."
+48. "je suis plus rapide dans le sens où à la place de passer plusieurs heures ou minutes sur une base de données à chercher des articles, en trois phrases écrites, donc en 45 secondes, tu peux avoir une liste d'articles qui correspond à tes topics."
+49. "ensuite, à la place de les lire moi, ou en entier, ou de lire l'abstract comme font la majorité des scientifiques, « résume-moi l'abstract »."
+50. **qualité des réponses et fiabilité**:
+51. "est-ce que tu as l'impression d'être plus efficient ou d'être plus rapide ? les deux."
+52. "j'ai l'impression qu'on passe à côté de certaines informations, je pense qu'on n'a pas une full pictures, mais on a, je pense, 80 à 90% de corrects en fait."
+53. **limites et défis**:
+54. "ça, c'est des ressources en ligne que j'ai trouvées qui m'aident aussi à utiliser cet outil. il y a tout ça."
+55. "ils donnent pas toujours des astuces qui sont hyper efficientes. là, il y a quand même un aspect pour les travaux pratiques, que ce soit du bricolage ou des informations, disons techniques, physiques, il va pas t'aider. il peut te donner des normes grosso merdo, mais il va être très vague... il est un peu moisi sur ça malheureusement, paradoxalement."
+56. **confiance et véracité des réponses**:
+57. "par contre, je n'ai pas non plus une confiance aveugle non plus. le seul moment où je fais une confiance quasi aveugle, c'est quand je lui demande de reformuler un texte que je sais être juste."
+58. **impact sur la qualité du travail et la créativité**:
+59. "et donc dans ce cas-là, c'est plus efficient. avant de connaître le chat, j'utilisais d'autres ia ou d'autres programmes qui corrigeaient mon orthographe. et encore avant ça, je relisais mes phrases et je trouvais pas toutes les fautes et je faisais des fautes puis c'était pas crédible."
+60. "c'est-à-dire pour faire des travaux académiques, pour brasser de la merde et juste dire des mots."
+61. **impact sur la perspective et la réflexion critique**:
+62. "il permet d'aller plus loin dans certaines réflexions. après, il y a tout ce qui dit que c'est quand même assez générique. donc c'est toujours à approfondir et puis il faut toujours avoir des articles à côté, des sources."
+63. ces thématiques et verbatims associés permettent d'explorer les multiples facettes de l'utilisation de chatgpt, incluant l'efficacité, les limites, l'impact sur les méthodes de travail, la qualité des réponses, et l'influence sur la créativité et la réflexion critique
+64. ### thématiques intéressantes pour une analyse sociologique et verbatims associés
+65. **utilisation de l'ia dans le travail académique et scientifique**
+66. **verbatims :**
+67. "en fait, ce qui est interdit et ce qui a été un peu rappelé à l'ordre du jour, c'est le plagiat"
+68. "dans notre institut, on rappelle beaucoup les normes du plagiat"
+69. "on ne sait pas si notre boulot il va pas être remplacé par une machine"
+70. "je prends un texte de l'ia, si je peux dire quelle source il a utilisé, ou si je peux citer des sources qui disent la même chose que lui, alors je peux citer les sources sous son texte à lui, et c'est bon."
+71. "nous, on est scientifiques donc on est factuels"
+72. **impact de l'ia sur les compétences et les méthodes de travail**
+73. **verbatims :**
+74. "je le vois comme une façon d'apprendre et ou comme une façon de faire ce que je ne sais pas faire ou que je n'ai pas envie de faire."
+75. "chatgpt, c'est un espèce de couteau suisse de la recherche."
+76. "chatgpt, pour moi, c'est un outil supplémentaire dans ma main, dans ma boîte à outils."
+77. "chatgpt, effectivement, c'est un peu comme l'iphone. il est devenu phare parce qu'il faisait téléphone, calculatrice et gps en même temps."
+78. "on utilisait d'autre outils avant. chatgpt est un peu comme l'iphone."
+79. **dépendance et intégration de l'ia dans le travail**
+80. **verbatims :**
+81. "je ne ressens pas forcément une dépendance à chatgpt pour ma manière de travailler."
+82. "avant il y avait d'autres outils qui existed. c'est juste que chatgpt, effectivement, c'est un peu comme l'iphone."
+83. "ça décharge mentalement et ça marche, quoi, donc pas plus long."
+84. **sécurité et éthique de l'utilisation de l'ia**
+85. **verbatims :**
+86. "là, on touchait de l'éthique et sur de la réglementation de l'ia, et c'est pas du tout mon domaine et honnêtement je m'en fous, mais le fait qu'il y ait besoin déjà d'un petit firewall c'est bien, maintenant le fait que cette brèche elle soit connue de tous, ou pratiquement tous, et qu'elle permette d'avoir un plus grand accès à de l'information, disons sensible ou sensitive."
+87. "à partir du moment où je le dis, je suis biologiste, j'ai les accréditations et le savoir-faire pour utiliser ces produits, je ne me souviens juste plus du nom."
+88. "chatgpt n'avait pas les précautions nécessaires, il arrête pas de me dire des produits avec précaution, etc."
+89. **discours institutionnels et règlementations autour de l'ia**
+90. **verbatims :**
+91. "ce qui est interdit et ce qui a été un peu rappelé à l'ordre du jour, c'est le plagiat."
+92. "c'est peut-être pas le tien le boulot, mais"
+93. "on rappelle beaucoup les normes du plagiat."
+94. **avantages et désavantages de l'utilisation de l'ia**
+95. **verbatims :**
+96. "j'arrive à obtenir une meilleure information, de meilleure qualité et plus précise que ce que quelqu'un qui n'a pas, qui ne sait pas, par exemple, qui doit entraîner l'ia, qui doit l'aiguiller aura."
+97. "chatgpt a un petit firewall"
+98. "les réglementations sont un peu débiles"
+99. **rôle de la formation et de l'expérience dans l'utilisation de l'ia**
+100. **verbatims :**
+101. "on ne connait personne qui n'utilise pas chatgpt dans le milieu académique."
+102. "je le pai le noterais pas sur mon cv."
+103. "un abonnement à chatgpt, là effectivement, en payant, t'as la meilleure version"
+104. ces thématiques et verbatims peuvent être analysés plus en profondeur pour comprendre les dynamiques sociales, les perceptions et les pratiques des utilisateurs d'ia dans le contexte académique et scientifique
+105. ### thématiques sociologiques identifiées
+106. **usage de l'ia dans l'éducation et la recherche académique**
+107. **impact de l'ia sur les méthodes d'apprentissage et de recherche**
+108. **éthique et légitimité de l'utilisation de l'ia**
+109. **réglementation et directives sur l'utilisation de l'ia**
+110. **perception des enseignants et des étudiants vis-à-vis de l'ia**
+111. ### verbatim associés à chaque thématique
+112. #### 1. usage de l'ia dans l'éducation et la recherche académique
+113. **00:48:49,936 [james]:** "mais oui, c'est... moi, en tout cas, mon prof sur mon travail de master m'a dit, « attention au usage de chatgpt, fais gaffe à la composante de plagiat. et fais gaffe à ce que les phrases que tu sors, elles aient du sens »."
+114. **00:49:35,327 [james]:** "non. y'a des moments où c'est pas pertinent de le faire, parce que c'est pas le bon outil. mais aucun moment je me priverais de l'utilisation de l'outil."
+115. **01:00:54,304 [james]:** "ouais, je pense que documenter, c'est bien."
+116. #### 2. impact de l'ia sur les méthodes d'apprentissage et de recherche
+117. **00:50:36,443 [james]:** "je passe moins de temps à purement apprendre et à mémoriser le concept. parce que finalement, apprendre par cœur ne me sert à rien, sachant que l'on vit dans une ère où il suffit non pas de savoir l'information, mais de savoir la retrouver. et donc, le temps que je le mets à profit, j'apprends d'autres choses, ou des choses différemment, qui vont avoir une application de celles-ci encore différente."
+118. **01:00:54,304 [james]:** "finalement, ils vont moins chercher à apprendre, mais plus à comprendre."
+119. #### 3. éthique et légitimité de l'utilisation de l'ia
+120. **00:50:18,510 [james]:** "le temps c'est de l'argent, d'autant plus c'est une ressource hyper précieuse. tu en fais ce que tu en veux mais..."
+121. **01:00:03,147 [james]:** "si y a des gens qui se brûlent les ailes en utilisant trop l'ia, qui se font chopper par plagiat, s'il y en a qui finalement ne rédigent plus leurs travaux parce qu'ils se sentent trop malins et qui laissent tout l'ia générer et que finalement ça se sait et qu'ils sont pénalisés pour, pour moi c'est ces gens-là d'assumer les conséquences de leur acte. je ne pleurerais pas un étudiant qui a fait un usage inconsidéré de l'ia dans son travail et qui a une mauvaise note à cause de ça."
+122. #### 4. réglementation et directives sur l'utilisation de l'ia
+123. **00:49:21,075 [james]:** "non. y'a des moments où c'est pas pertinent de le faire, parce que c'est pas le bon outil. mais aucun moment je me priverais de l'utilisation de l'outil."
+124. **00:52:06,248 [james]:** "mais ça, c'est quelque chose de très personnel. pas tout le monde est comme moi, voire même pas grand monde. donc dans ce cadre-là, oui, je n'utiliserai pas l'ia si c'est une demande explicitement formulée et bien argumentée."
+125. **01:02:32,835 [james]:** "mais là, dans les règles de plagiat, je suis pas assez à jour pour savoir. je prends l'article de m. english, je le traduis par deepl en français, je leur cite. est-ce que je cite m. english ou je cite deepl parce que je l'ai traduit ?"
+126. #### 5. perception des enseignants et des étudiants vis-à-vis de l'ia
+127. **00:53:04,167 [james]:** "ça se trouve, les gens vont devenir extrêmement intelligents, vont faire de la recherche de qualité, ou alors ils vont devenir débiles, ils vont pas plus savoir se faire cuire un œuf, et puis ils vont tous, par exemple, ne plus aller en cours. j'en sais rien du tout. et honnêtement, c'est pas mon problème, en fait."
+128. **00:57:13,408 [james]:** "je suis biologiste je crois en la sélection naturelle."
+129. **00:58:36,551 [james]:** "enfin, cette ia, a priori elle a rien de méchant mais il y a des ia qui ont déjà poussé des gens à la mort. mais pour moi c'est pas la faute de l'ia. c'est la faute du fait que le gars qui l'utilisait n'était pas instruit."
+130. ces thèmes et verbatims permettent d'explorer les perceptions, les pratiques et les enjeux éthiques et réglementaires liés à l'utilisation de l'ia dans le contexte universitaire
+131. à partir du texte de l'entretien, plusieurs thématiques sociologiques peuvent être identifiées. voici les principales thématiques et les verbatims associés :
+132. ### 1. **normes et conformité**
+133. **verbatim** : "il n'y a pas d'avis là-dessus. donc, tu n'as pas d'avis, mais tu es conforme à l'avis qu'on te donnera des gens plus éclairés que toi sur la question."
+134. ### 2. **autorité et hierarchie**
+135. **verbatim** : "il n'y a pas d'avis là-dessus. donc, tu n'as pas d'avis, mais tu es conforme à l'avis qu'on te donnera des gens plus éclairés que toi sur la question."
+136. ### 3. **communication et interaction sociale**
+137. **verbatim** : "est-ce qu'on a fait un peu le tour, on a gentiment fini ? est-ce qu'il y a d'autres choses que tu souhaiterais rajouter, mentionner ? des trucs qu'on n'a pas forcément discuté mais que tu souhaiterais un peu mettre en avant ?"
+138. ### 4. **power dynamics**
+139. **verbatim** : "c'est toi qui pose les questions, donc non, c'est bon."
+140. ### 5. **réseaux sociaux et modes de communication**
+141. **verbatim** : "tu me rappelles si t'as besoin de moi."
+142. **verbatim** : "je t'écris, je t'envoie un sms."
+143. **verbatim** : "t'as mon mail."
+144. ### 6. **expression de la gratitude**
+145. **verbatim** : "d'accord, ça marche. eh bien, merci beaucoup."
+146. **verbatim** : "de rien."
+147. ### 7. **sujets non-négociables**
+148. **verbatim** : "il n'y a pas d'avis là-dessus."
+149. **verbatim** : "tu n'as pas d'avis."
+150. ces thématiques et verbatims peuvent être utilisés pour analyser divers aspects de la société, tels que les dynamiques de pouvoir, les normes sociale, les pratiques de communication, et les influences culturelles sur les attitudes et les comportements individuels

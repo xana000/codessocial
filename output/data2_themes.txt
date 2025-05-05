@@ -1,0 +1,31 @@
+Pour une analyse sociologique des entretiens contenus dans Data1 et Data2, plusieurs thématiques et sous-thèmes peuvent être identifiés. Voici une suggestion de structure basée sur les informations fournies dans l'extrait de Data2:
+
+### 1. **Uso des outils technologiques dans l'éducation**
+   - **Sub-thème 1 : Utilisation des GPT dans les études**
+     - "Ça ne s'est pas encore vraiment complètement institutionnalisé."
+     - "C'est un outil qui est de plus en plus utilisé dans de multiples contextes."
+   - **Sub-thème 2 : Acceptation et institutionnalisation des GPT**
+     - "Il y a des institutions qui prennent conscience de la manière dont ça peut affecter le travail, d'autres pas du tout."
+     - "On verra peut-être ce qui est dit dans le milieu dans lequel tu évolues."
+
+### 2. **Confidentialité et éthique des données**
+   - **Sub-thème 1 : Confidentialité des données recueillies**
+     - "Tout ce qui va être dit ici ne va pas sortir du contexte du cours pour lequel je fais la récolte de données."
+     - "Pour être plus précis, à part mes camarades et notre enseignant, personne n’aura accès aux données."
+     - "Si quelque chose change, je te demanderai de toute façon ta permission et on avisera."
+
+### 3. **Perception et impact des GPT sur le travail et l'apprentissage**
+   - **Sub-thème 1 : Compréhension des GPT par les étudiants"
+     - "Du coup t'es au courant que chaque GPT c'est un outil qui est de plus en plus utilisé dans de multiples contextes."
+     - "Ça ne s'est pas encore vraiment complètement institutionnalisé."
+   - **Sub-thème 2 : Conscience institutionnelle de l'impact des GPT**
+     - "Finalement un institution qui prennent conscience de la manière dont ça peut affecter le travail, d'autres pas du tout."
+
+### 4. **Rôle des enseignants et des institutions**
+   - **Sub-thème 1 : Participation des enseignants à la collecte de données**
+     - "À part mes camarades et notre enseignant, personne n’aura accès aux données."
+     - "Si quelque chose change, je te demanderai de toute façon ta permission et on avisera."
+   - **Sub-thème 2 : Rôle des institutions dans l'intégration des GPT**
+     - "Des institutions qui prennent conscience de la manière dont ça peut affecter le travail, d'autres pas du tout."
+
+Ces thématiques et sous-thèmes permettent d'explorer les différentes dimensions de l'impact des outils technologiques comme les GPT sur l'éducation et la confidentialité des données. Ils peuvent être comparés avec Data1 pour identifier les tendances générales et les différences spécifiques entre les deux ensembles de données.

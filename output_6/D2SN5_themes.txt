@@ -1,0 +1,66 @@
+1. voici les thématiques intéressantes pour une analyse sociologique extraites de l'entretien, accompagnées des verbatims associés :
+2. ### 1. **utilisation de la technologie dans le quotidien**
+3. "mon rapport à la technologie est assez fréquent, car on utilise tous nos téléphones portables et nos ordinateurs à longueur de journée, même en vacances."
+4. "je dirais que mon rapport à la technologie est comme celui de toute personne du xxiᵉ siècle : très fréquent."
+5. "je pense qu'on a toujours un appareil technologique avec nous."
+6. "en soi, je dirais que mon rapport à la technologie est comme celui de toute personne du xxiᵉ siècle : très fréquent."
+7. ### 2. **impact de chatgpt sur les méthodes de travail**
+8. "modifier ma façon de travailler, je dirais que c'est un bien grand mot. il a juste accéléré et même amélioré mon travail."
+9. "il ne change pas ma façon de travailler, comme je l'ai dit, il l'accélère et l'améliore."
+10. "je dirais plus que la qualité de mon travail a été améliorée."
+11. ### 3. **relation avec les technologies et l'authenticité**
+12. "mais j'essaie quand même de garder une certaine distance, de savoir savourer un livre, écrire manuellement, et ça me donne une certaine proximité avec tout ce qui est authentique."
+13. "je trouve ça assez poétique. […]; envoyer des cartes postales, même si ça se fait de moins en moins."
+14. ### 4. **perception et adoption de nouvelles technologies**
+15. "en règle générale, es-tu satisfait des résultats que tu obtiens avec chatgpt ?"
+16. "en soi, je vois que tu es passé maître dans l'art du prompt, c'est bien, tu sais mieux parler aux intelligences artificielles que certains dans le domaine !"
+17. ### 5. **fiabilité et vérification des informations**
+18. "mais il y a des moments où il se trompe, mais en même temps il n’est jamais sûr."
+19. "des fois, dans mes questions, c'était limite si je l'incitais à me donner une réponse à laquelle je m'attendais, alors que cette réponse était fausse, sans que je m'en rende compte bien sûr."
+20. "sinon, je lui demande toujours de citer ses sources et je clique sur le lien pour vérifier qu’il s’agit bien d’une source fiable."
+21. ### 6. **stress et gestion des échéances académiques**
+22. "as-tu l’impression que l’utilisation de chatgpt t’aide à mieux comprendre les sujets abordés en cours ?"
+23. "dans quelle mesure l'utilisation de chatgpt affecte-t-elle le niveau de stress lié aux échéances académiques ?"
+24. ### 7. **utilisation et légitimité des technologies dans le milieu académique**
+25. "je perçois son utilisation comme légitime, car tout le monde l’utilise, que ce soit à l’université ou dans le monde professionnel. c’est un outil global et pas juste propre aux étudiants."
+26. "par contre, je pense qu’il faudrait encadrer son utilisation pour les générations futures."
+27. ### 8. **comparaison intergénérationnelle**
+28. "pour notre génération par rapport aux générations précédentes, oui, c'est un outil avantageux."
+29. ### 9. **dépendance et autonomie technologique**
+30. "si je te demandais si tu es dépendant de chatgpt, que me répondrais-tu ?"
+31. "je dirais que c'est totalement faux. c'est vrai qu’il m’aide et que ça me permet de gagner du temps, mais je parviendrais à faire mon travail avec ou sans lui."
+32. ### 10. **perception et acceptation par les enseignants et les pairs**
+33. "les enseignants savent qu’on l’utilise, et ils nous encouragent."
+34. "a ma connaissance, jusqu'à maintenant, non [en réponse à la question de savoir si un camarade a reçu des retours négatifs pour l'utilisation de chatgpt]."
+35. ces thématiques peuvent servir de base pour une analyse sociologique approfondie de l'impact de la technologie et des outils d'intelligence artificielle comme chatgpt sur les étudiants, leur pratique académique, et leur relation avec les enseignants et les technologies en général
+36. voici les thématiques intéressantes pour une analyse sociologique à partir de l'entretien, ainsi que les verbatims associés à ces thèmes :
+37. ### 1. **adoption et acceptation technologique**
+38. **verbatims :**
+39. "ceux qui nous encouragent savent que c’est un outil et qu’il faut apprendre à l’utiliser et à l’appréhender de plus en plus tôt pour améliorer notre rendement de travail et, parfois, même la qualité de nos productions."
+40. "ceux qui sont contre sont, je dirais, plutôt de la vieille école."
+41. ### 2. **enjeux éthiques**
+42. **verbatims :**
+43. "je pense que ça importe peu. en soi, même le fait de savoir l’utiliser fait partie du professionnalisme et du niveau de son utilisateur."
+44. "pour son utilisation, qu’il soit mentionné ou non qu’il a été utilisé, je pense que ça importe peu. en soi, même le fait de savoir l’utiliser fait partie du professionnalisme et du niveau de son utilisateur."
+45. ### 3. **impact sur l'apprentissage**
+46. **verbatims :**
+47. "je me sers de la base qui est mon travail, et lui ne fait que le finaliser, pas le générer entièrement."
+48. "dans certains cas, il m'arrive de lui demander de me faire des suggestions après lui avoir écrit les miennes dans la requête, et ça m'est déjà arrivé de mieux comprendre les attentes du projet grâce à ses réponses."
+49. "je l'utilise d'une manière plutôt modérée. mais j'avoue que si je l'utilisais comme certains le font, c'est-à-dire en lui déléguant 90 à 100 % du travail, je m’en voudrais un peu."
+50. ### 4. **légitimité et utilisation dans les travaux académiques**
+51. **verbatims :**
+52. "cela dépend du type de travail à réaliser, mais généralement, dans la majeure partie des cas, son utilisation est légitime en vue de son impact pour accroître et améliorer le niveau des travaux."
+53. "dans un contexte académique ou éducatif, il est normal de l’utiliser, et même dans un contexte professionnel."
+54. ### 5. **risques et préoccupations sur la sécurité des données**
+55. **verbatims :**
+56. "il faut faire attention à ce que l’on écrit, on n’est jamais à l’abri d’une fuite de données, comme cela s’est déjà produit avec samsung, si je ne me trompe pas."
+57. "ainsi, openai, en réentraînant leur modèle, s’est retrouvé à intégrer ces données."
+58. ### 6. **transformer les pratiques d'apprentissage**
+59. **verbatims :**
+60. "en voyant des applications d’apprentissage de langues se servir de chatgpt et des différentes intelligences artificielles de génération de texte pour créer des dialogues presque réalistes, au point de croire qu’on parle à une vraie personne, je pense que l’apprentissage va être révolutionné."
+61. "il pourra aussi suggérer des exercices qu’il juge nécessaires pour corriger et cibler les lacunes d’un élève."
+62. ### 7. **régulation et intégration des outils ia dans le cadre académiques**
+63. **verbatims :**
+64. "il faudrait aussi favoriser les évaluations en classe, sans ordinateur, pour éviter la triche et connaître le réel niveau des élèves."
+65. "il faut se poser la question de comment le réguler afin de ne pas créer une génération d’étudiants qui s’appuient uniquement sur lui."
+66. ces thématiques et verbatims peuvent servir de base pour une analyse sociologique approfondie de l'impact de chatgpt sur l'éducation, le travail, et les pratiques d'apprentissage

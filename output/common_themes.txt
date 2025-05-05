@@ -1,0 +1,59 @@
+Les thèmes communs entre Data1 et Data2 porte principalement sur l'éducation et la carrière, avec un focus particulier sur l'éducation et la formation.
+
+### 1. **Éducation et Formation**
+
+#### Codes sociologiques pertinents :
+1. **Formation Supérieure** : Il semble que les deux ensembles de données abordent des préoccupations liées à la formation supérieure.
+2. **Expérience Professionnelle** : Plus précisément, l'intégration de l'expérience professionnelle dans le parcours éducatif est un thème commun.
+3. **Institutionnalisation des Outils** : La manière dont les outils technologiques (comme les GPT dans Data2) sont intégrés dans les institutions éducatives.
+4. **Confidentialité des Données** : Les préoccupations concernant la confidentialité et l'éthique des données, notamment dans le contexte éducatif.
+5. **Particiipation des Enseignants** : Le rôle des enseignants dans la collecte de données et dans l'intégration des outils technologiques.
+6. **Perception et Impact des Outils Technologiques** : Comment les étudiants et les institutions perçoivent et intégrent les nouveaux outils technologiques.
+7. **Aspirations Académiques et Professionnelles** : Les aspirations des individus en matière d'éducation et de carrière.
+8. **Trajectoires Éducatives et Professionnelles** : Les parcours éducatifs et les choix de carrière des individus.
+9. **Accès aux Données** : Les préoccupations concernant l'accès aux données personnelles et académiques.
+10. **Permiison et Consentement** : L'importance de demander la permission et d'obtenir le consentement pour l'utilisation des données.
+
+#### Citations pertinents :
+
+1. **Formation Supérieure :**
+   - Data1 : "Je suis en école de commerce en master spécialisé marketing digital et data."
+   - Data2 : "Ça ne s'est pas encore vraiment complètement institutionnalisé."
+
+2. **Expérience Professionnelle :**
+   - Data1 : "À côté, je suis en alternance dans une entreprise qui est Coinhouse spécialisée dans la vente de cryptoactif."
+   - Data2 : "Finalement un institution qui prennent conscience de la manière dont ça peut affecter le travail, d'autres pas du tout."
+
+3. **Institutionnalisation des Outils :**
+   - Data1 : "Je suis étudiant en école de commerce en master spécialisé marketing digital et data."
+   - Data2 : "Ça ne s'est pas encore vraiment complètement institutionnalisé."
+
+4. **Confidentialité des Données :**
+   - Data1 : Pas de citation directement pertinente.
+   - Data2 : "Tout ce qui va être dit ici ne va pas sortir du contexte du cours pour lequel je fais la récolte de données."
+
+5. **Participation des Enseignants :**
+   - Data1 : Pas de citation directement pertinente.
+   - Data2 : "À part mes camarades et notre enseignant, personne n’aura accès aux données."
+
+6. **Perception et Impact des Outils Technologiques :**
+   - Data1 : Pas de citation directement pertinente.
+   - Data2 : "Des GPT sont de plus en plus utilisés dans de multiples contextes."
+
+7. **Aspirations Académiques et Professionnelles :**
+   - Data1 : "J'ai obtenu un baccalauréat économique et social en 2019."
+   - Data2 : Pas de citation directement pertinente.
+
+8. **Trajectoires Éducatives et Professionnelles :**
+   - Data1 : "Je suis customer success assistant dans cet[te] entreprise depuis maintenant près de 2 ans."
+   - Data2 : Pas de citation directement pertinente.
+
+9. **Accès aux Données :**
+   - Data1 : Pas de citation directement pertinente.
+   - Data2 : "Personne n’aura accès aux données."
+
+10. **Permission et Consentement :**
+    - Data1 : Pas de citation directement pertinente.
+    - Data2 : "Si quelque chose change, je te demanderai de toute façon ta permission et on avisera."
+
+Ces thèmes et codes sociologiques permettent de tisser des liens entre les deux ensembles de données et d'explorer les similarités et les différences dans leurs approches de l'éducation, de la formation et de l'utilisation des outils technologiques.

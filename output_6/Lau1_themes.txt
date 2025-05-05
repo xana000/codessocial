@@ -1,0 +1,230 @@
+1. ### thématiques sociologiques et verbatims associés
+2. **perception de l'ia et de chatgpt**
+3. **définition de chatgpt et de l'ia :**
+4. "chatgpt, c'est un outil qui peut remplacer un moteur de recherche. [...] tu perds moins de temps à chercher sur internet."
+5. "ai de jeux vidéo est béton (sic), du coup... c'était quoi la question ? c'est, oui c’est différent?"
+6. "pour moi, l'ia de jeux vidéo est bête, et du coup... c’était quoi la question ?"
+7. "quand je pense au générateur d'images ou comme ça, elle ne va jamais créer un truc elle-même. [...] il y a le truc d'une ia qui ne va jamais créer [...] parce que elle a été entraîné sur un modèle, sur des créations finies, etc."
+8. **usage et adoption de chatgpt**
+9. **utilisation dans les études :**
+10. "j'utilise chatgpt si j'ai un truc rapide à chercher sur du code ou des programmes [...] j'ai pas envie de m'embêter à fouiller des sites, je vais sur chatgpt, je pose la question et si ça fonctionne c'est cool."
+11. "je pense qu'on est sur du... entre un fois par semaine et une fois toutes les deux semaines."
+12. "j utilise plus sur une logique de nécessité ou de... enfin ça peut être utile pour un cours."
+13. "chatgpt [...] tu ne peux pas générer sur chatgpt et rendre le truc comme chatgpt l'a fait."
+14. "j'utilise chatgpt pour prémâcher le travail."
+15. "chaque fois que je commence à utiliser chat gpt moins j'ai envie de le refermer."
+16. "c'était un peu plus élevé dans le passé"
+17. **utilisation au quotidien :**
+18. "le fait que c'est un outil super intéressant, super puissant et ça peut être très utile n'importe quand."
+19. "ça m'arrive mais rarement."
+20. "c'est l'utilisation."
+21. **réticence et acceptation :**
+22. "moi, en tout cas, je... je pense qu'on a un peu... au moment où il en parlait, les gens étaient un peu réticents."
+23. "mais plus dans le sens, je pense, peur de l'inconnu... ah, mais on s'en fiche, c'est bon, google, ça suffit, et des trucs du genre."
+24. "mais un mois après, deux mois après, tout le monde l'avait au moins utilisé une fois."
+25. **impact de la technologie sur les étudiants et les méthodes d'étude**
+26. **changement des méthodes de travail :**
+27. "ça redéfinit la manière dont les étudiants travaillent, soit rechercher de l'information, soit créer du... pas du contenu, mais genre des... créer des... ce qu'il doit faire en cours."
+28. "avant on n’avait pas le choix, soit on avait internet et on se débrouillait, maintenant on a gpt qui peut prémâcher le travail."
+29. "on ne réfléchit pas nous-mêmes, qu’on demande à chatgpt de nous donner."
+30. "pour l'instant, on est encore sur des gens qui partent de 0, chacun à son niveau."
+31. **relation personnelle à la technologie**
+32. "peut-être 2023, mais ça m'étonnerait beaucoup."
+33. "comparé à la personne moyenne, je suppose que j'ai beaucoup moins… beauco."
+34. **confidentialité et éthique**
+35. "je suis obligé d'être vigilant pour pas mettre des info."
+36. "il y a encore un terme derrière, mais j'ai oublié."
+37. **débats et controverses autour de chatgpt et de l'ia**
+38. "les gens qui trichaient avec... enfin avec... le fait que c'est, je trouve que c'est malgré les controverses que ça peut avoir en ce moment, c'est un outil super intéressant, super puissant et ça peut être très utile n'importe quand."
+39. "et sinon... de danger pour le futur. (rires). parce qu'on sait pas trop ce que openai va faire avec et genre, à voir."
+40. **spécialisation et généralisation des outils technologiques**
+41. "moi, j'aime bien quand il y a une spécialisation, parce que je me dis que de toute façon si tu fais quelque chose trop général on va pas être super efficace, surtout pas avec une ia, surtout le machine learning."
+42. "chatgpt, c'est trop général. du coup, c'est plus prone à l'erreur."
+43. "je me demande à quel point vous pouvez vraiment être proche de la vérité quand vous êtes généraliste." (sic)
+44. ces verbatims permettent d'explorer en profondeur les perceptions, les usages et les impacts de chatgpt et des intelligences artificielles sur le travail et l'apprentissage des étudiants, tout en touchant à des questions plus larges de spécialisation, de généralisation, de confidentialité et d'éthique
+45. ### thématiques sociologiques et verbàtims associés
+46. **adoption et utilisation des technologies**
+47. « et je ne trouve pas le verbe [...] c’est adapter ? adopter des nouvelles technologies. »
+48. « pas l'impression d'avoir la réticence du progrès. »
+49. « je trouve pas le verbe [...] c’est adapter ? adopter des nouvelles technologies. »
+50. « tu peux donner les lois d'azimov, juste pour qu'on soit... »
+51. **réticence à l'ia et éthique technologique**
+52. « sauf dans le cas de l'ia qui dégénère. »
+53. « à quel point on est proche de la science-fiction ou pas dans la vraie vie donc euh... à voir. bah, j'aimerais juste que les gens mettent les lois d'azimov, quoi. »
+54. « qu'est-ce qu'ils ont comme droits, qu'est-ce que cette machine ou truc aurait comme droits et des trucs du genre. »
+55. **impact des technologies sur la société et les droits humains**
+56. « et du coup, ce serait bizarre qu'on arrive à ça dans la vraie vie, quoi. »
+57. « et du coup, il y a le petit coup de pouce chatgpt où du coup tu génères un truc, t'as un peu une phrase, et du coup tu peux recopier ça, écrire, commencer à écrire ta conclusion, et là ça aide. mais comme j'ai dit avant, je dirais pas mettre un truc... copier-coller chatgpt dans une conclusion je trouve parce que même si tu lui fis reformuler tout au final je pense tu perds trop de temps à le reformuler parfaitement comme tu voudrais au lieu de juste l'écrire comme tu voudrais en fait. »
+58. **éducation et technologie**
+59. « il faut coder en python. c'est un cours qui est uniquement du labo, »
+60. « le problème, c'est que la doc est sur internet et du coup c'est une aventure à chaque fois pour comprendre ce que c'est ce x dans l'appel de fonction. »
+61. **utilisation des outils technologiques dans les études**
+62. « j'ai juste besoin de chatgpt pour avoir des parties de code, comme des fonctions. pour du rephrasage et du genre reformuler des trucs ou un peu d'inspiration, je m'en sors
+63. « et des fois, ça peut un peu aider d'avoir chatgpt pour cette partie-là spécifiquement. mais parce qu'une conclusion, c'est un résumé, etc. et du coup, là, c'est un peu plus... c'est un peu plus simple. »
+64. « tout ça parce que matlab, le retour. en gros, de ce que j'ai compris dans l'industrie, il y a team matlab et team python. team matlab, c'est... tu m’interromps si, si c'est pas important. team matlab, en gros, c'est
+65. payer cher pour avoir un logiciel qui est tout intégré, fonctionne bien, quand ça marche. »
+66. **rôle des lois et régulations dans la technologie**
+67. « bah, j'aimerais juste que les gens mettent les lois d'azimov, quoi. »
+68. «  »
+69. **impact des technologies sur la rédaction et la concentration**
+70. « moi quand chatgpt est arrivé, j'ai pas eu beaucoup l'occasion d'utiliser chatgpt comme aide à la rédaction ou un truc du genre. »
+71. « généralement si j'écris un rapport de labo ou de trucs comme ça, c'est... ça sort du cerveau quoi. »
+72. **perception des technologies de chatgpt**
+73. « chatgpt, ça devient... enfin, chatgpt ou l'ami github copilote, qui du coup... enfin bref, c'est à peu près la même chose, on va dire. »
+74. « j'ai trouvé les lois d'azimov sur wikipedia, et ce que je me rappelle c'est qu'il faut que le robot n'ait pas de mal à un humain, ne peut pas se comporter de manière à ce que mal soit fait à un humain de manière détournée. »
+75. ### thématiques sociologiques et verbatims associés
+76. **utilisation de la technologie et outils numériques (chatgpt, google)** :
+77. "si le polycopié, enfin donc les notes de cours, les trucs du genre, sont pas assez développés. ... alors aller chercher des... plus de... plus de détails dans chatgpt quoi."
+78. "je sais pas si j'ai la... discipline d'aller vérifier et sur chatgpt et sur internet. parce que les... les deux infos... enfin, la même info deux fois."
+79. "quand on cherche une... quand on pose une question... ok, je veux pêcher un poisson rouge... enfin un poisson de couleur rouge, donc pas némo. enfin… c'est un clown, mais c'est pas grave, bref. je veux essayer de pêcher un poisson de couleur rouge. j'ai l’impression que google, c'est... je lance ma canne à pêche dans un étang avec plein de poissons de plein de couleurs différentes, et au bout d'un moment, je choppe mon poisson rouge. mais ça prend du temps, des fois c'est un peu embêtant, etc. alors que de chaque gpt, je pêche, et j'ai un poisson, et après il faut que je vérifie s'il est rouge quand même ou s'il est bordeaux ou une autre variante de rouge."
+80. "honteusement, j'ai dit avant de mon cours ou genre c'est compliqué et tout. je sais pas si j'y gagne du temps en général, enfin... on peut perdre du temps parce que on a fait cette première étape, qu'on aurait pu juste annuler, aller chercher des infos, et on les aurait eu quoi."
+81. **évaluation de la fiabilité et de la qualité des réponses de chatgpt** :
+82. "mais du coup, quand je mets une question compliquée à chatgpt, moins il y a de chances que la réponse soit correcte. et du coup, inversement. si je lui demande de... de... toujours en python, j'en sais rien, de dessiner un rond, ça va être super simple, j'aurai mon rond, etc."
+83. "j'ai l'impression que plus on pose une question compliquée à chatgpt, moins il y a de chances que la réponse soit correcte."
+84. "vraiment pas... comme je disais avant, plus la question est compliquée, moins la fiabilité est élevée."
+85. **comparaison entre chatgpt et d'autres sources d'information** :
+86. "des fois, il avait peut-être un peu de la peine, et du coup je crois qu'au final c'est juste... je sais plus."
+87. "on n'est du tout à wikipédia, avec l'expérience que c'est google moteur de recherche et puis on regarde ce qui sort des deux quoi."
+88. **temps et efficacité** :
+89. "puisque justement, j'avais même... j'avais même mentionné d'ailleurs qu'il y a des courses qui sont exagérées, et que je cherche... qui est chargé donc je cherchais des bouts de code ou des types d'applications, mais ça donne un contexte."
+90. "quand on pose une question... ok, je veux pêcher un poisson rouge... enfin un poisson de couleur rouge, donc pas némo."
+91. "mais dans le sens de l'ordre, bah là on a parlé de la résolution problème mais... bon on va juste... oui il faut juste le côté. les résultats sont dans le meilleur type d'application que t'as fait... il a d'abord fait que ces propositions du code."
+92. **éthique et responsabilité dans l'apprentissage et la recherche** :
+93. "et j'essaie d'acheminer que je dois pas... j'en ai tout..." - "c'est un peu le truc de fact-checking derrière, donc c'est un peu à ce sujet et on ne peut pas tourner des vis sans tournevis quoi."
+94. "chatgpt est un marteau."
+95. **impact sur la pédagogie et la méthodologie d'apprentissage** :
+96. "et les études de toutes ces réponses on corrigée, et après on lit les fameuses feuilles de triche, la non mais c'est pas, car c'est des résumés personnels, c'est ce que je veux dire."
+97. "et l'information condensée se fait dans un résumé, on répète en même temps."
+98. **consommation de l'information et recherche** :
+99. "parce que des fois, par contre, en même temps, j'ai l'impression qu'on ne trouve pas trop d'informations, et donc c'est plus un truc d'utiliser chat gpt, par exemple."
+100. "faire un résumé, faire un résumé de toutes les feuilles, donc c'est le seul exo ou... et de j'ai la réponse de l'affaire, je sais que je vais essayer jusqu'à ce que je l'aie, et donc comprendre pourquoi ma démarche était fausse."
+101. ces thématiques permettent de dégager une analyse sociologique approfondie sur l'utilisation des outils numériques dans le cadre de l'apprentissage et du travail, ainsi que sur les perceptions et pratiques des utilisateurs face à ces technologies
+102. en analysant le texte de l'entretien, plusieurs thématiques sociologiques intéressantes émergent. voici les thématiques identifiées ainsi que les verbatims associés :
+103. ### 1. **utilisation des technologies de l'information et de la communication (tic) dans l'éducation**
+104. **"tu as déjà pété, c'est un premier jet, mais dans le sens... on voit en cours un terme ou un sujet ou un truc, et du coup genre, je demande à la chat gpt des précisions sur ça, et après ça s'arrête là mais je vais aller chercher ailleurs ou des trucs du genre."**
+105. **"après ça s'arrête là mais je vais aller chercher ailleurs ou des trucs du genre."**
+106. **"or, je trouve qu'il y a un genre de côté, le polycopié existe, la bibliographie existe, mais au final les deux sont des fois pas très utiles, des fois c'est bien mais des fois c'est pas très utile"**
+107. **"donc tu dois aler faire des recherches à la bibliothèque ou internet, parce qu'on n'a plus trop le choix... ça se complique un peu même ."**
+108. **"plus tu posais des questions précises, moins tu avais de bons résultats."**
+109. **"qu'est-ce que j'avais fait vachement plus de recherches dans des livres ou des trucs comme ça au gymnase qu'en école d'ingénieur."**
+110. **"plus de recherches dans des livres ou des trucs comme ça au gymnase qu'en école d'ingénieur."**
+111. ### 2. **conduites éducatives et pratiques de recherche**
+112. **"à chaque fois je me pose la question est-ce que j'envoie un mail juste pour dire merci ?"**
+113. **"quand tu lui poses des questions précises, est-ce que t'es satisfait de ce que t'obtiens ?"**
+114. **"je sais pas si ça donne vraiment un avantage vu que moi je n'ai pas fini mon bachelor."**
+115. **"je pense qu'il y a quand même un avantagé à l'utiliser."**
+116. **"parce qu'on s'approche du rendu et du coup j'ai pas bien assez de travail et du coup faut que je me dépêche."**
+117. **"ahh ! non, je crois que je n'avais pas de nécessité"**
+118. ### 3. **relations et interactions sociales**
+119. **"je sais pas si ça peut s'appliquer à toutes les écoles ou plus que mon école, mais j'ai l'impression qu'on... alors tant mieux, on nous fait pas acheter des livres."**
+120. **"et genre... je trouve que dans mon école, il y a un peu ce côté, le polycopié existe, la bibliographie existe, mais au final les deux sont des fois pas très utiles, des fois c'est bien"**
+121. **"c'est un peu compliqué je trouve, je sais pas comment c'est en tout cas."**
+122. ### 4. **perception et utilisation de l'intelligence artificielle**
+123. **"le fait d'être dans un cours où à la fin il faut coder, et moi, je crois que j'aurais jamais pu le faire "surmonter" sans ça."**
+124. **"et du coup j'ai l'impression que même d'un côté... ah non, pas d'un côté, mais d'un cours... d'un cours précis et puis dans un cours des maths"**
+125. **"fin si je devais faire une matrice et comme des trucs de calculs de variables et puis il y a des trucs de...de vecteur ou je sais pas quoi, ça oui je suis plus "pas perdu" et je peux "résoudre sans dépendance""**
+126. ### 5. **stress et stress éducatif**
+127. **"eh ben le truc c'est que moi j'ai l'impression qu'on l'utilisait en fait à... non"**
+128. **"ah ! non, je dis non non vraiment de l'apprentissage c'est pas un cours précis là où un truc... ou que de la finalité alors que dans de la discussion ça non on est là pour la discussion avec le collègue etc."
+129. **"bien sûr il y a pas de dépendance directe de chatgpt ou pas de dépendance"**
+130. ### 6. **éthique et responsabilité**
+131. **"si je devais refaire les maths maintenant, je ne ferais pas les maths 2. il y a 3. 3-4h de travail ! j'ose même pas me retrouver face à ça. mais il y a des cours où vraiment ça m'ai très utile ."**
+132. **"j'ai de la peine à voir quel est l'avantage puisqu'on l'utilisait tous " lorsque je parle il s'agit d'être vraiment d'avoir des compétences" et qu'on l'utilise, et qu'on ne pratique plus"**
+133. ces thématiques montrent comment les étudiants interagissent avec les technologies de l'information, comment ces interactions influencent leurs pratiques académiques et leurs perceptions de l'apprentissage, ainsi que les implications éthiques et sociales de l'utilisation de l'ia dans l'éducation
+134. ### thématiques sociologiques et verbatims associés
+135. **légitimité et utilisation de chatgpt dans le contexte universitaire**
+136. "je crois que de manière générale, mon école est assez tolérante sur ces outils."
+137. "il me semble, dans mes souvenirs, il y avait un mail qui était passé, justement, c'était plus... bah, qu'ils aimeraient éviter que les élèves se retrouvent dans une situation de... de plagiat ou je sais pas quoi, et juste parce qu'ils ont oublié de mentionner que... que c'était de l'intelligence artificielle qui avait sorti les textes ou des trucs du genre."
+138. "en tout cas, c'est plutôt accueillant de l'outil."
+139. **perception des enseignants et influence des institutions**
+140. "il me semble qu'on a même des enthousiastes. je crois qu'on est plutôt, de manière générale, si le spectre il est de « il faut pas du tout l'utiliser jamais etc » à « oui utilise le c'est super » on est plutôt dans la partie « c'est super » du spectre."
+141. "il y a un prof qui était là non non mais faites moi une conclusion avec chat gpt mentionnez le et comme ça je vois à quoi ça ressemble par rapport aux... à une conclusion humaine on va dire."
+142. **éthique de l'utilisation de l'ia**
+143. "il y a un peu coupé ce truc de discussion entre deux personnes, et maintenant on parle avec chatgpt."
+144. "s'il y avait une loi pour bannir ça, je ne serais pas contre."
+145. "le fait qu'il y ait des gens célèbres ou riches qui utilisent des générations d'images pour… enfin… non, qu'ils l'utilisent tout court, je trouve ça un peu dégueulasse alors qu'ils auraient sûrement l'argent pour payer un graphiste ou un truc qui pourrait faire le travail correctement quoi."
+146. "il y a des gens qui ont réussi à forcer chad gpt à sortir. tu as ton dataset pour entraîner ton modèle. imaginons que tu mets des trucs top secret militaire de l'armée américaine dedans. ton modèle, il est entraîné. là, il y a la magie qui opère. et là, il sort un truc. le truc qu'il sort, tu as aussi qu'est-ce que ça devrait être, donc la vérité."
+147. **rôle des politiques et des régulations**
+148. "en tout cas, il devrait y avoir des débats ou des discussions là-dessus."
+149. "la politique ! (rires)"
+150. "enfin, je ne sais pas si ils sont... je ne veux pas porter de jugement de valeur, mais à l'époque de la crypto et tout ça, il y avait le parti pirate en tout cas, pour parler de la suisse, qui avait un peu eu des discussions et tout ça. et là, ça pourrait être pareil."
+151. **efficacité et fiabilité de chatgpt**
+152. "plus sérieusement, c'est pas mal mais ça suffit pas avec des fois jackpot et puis ça marche bien quoi. (il poursuit) bien sûr, c'est un coup de poker."
+153. "le but c'est quand même que tu aies eu ta réflexion, que tu crées ton texte et tout ça, et genre, c'est pas... on te demande pas d'aller faire tourner un moteur..."
+154. "ma réflexion, que je crée mon texte et tout ça, et genre, c'est pas... on te demande pas d'aller faire tourner un moteur... enfin, la finalité c'est d'avoir le texte, c'est pas de... pour moi, ma finalité c'est de faire tourner un moteur, du coup, la manière dont j'y arrive, avec des guillemets importe peu."
+155. **légitimité des utilisations académiques de chatgpt**
+156. "mais du coup, justifie une ia dedans. pour une génération de textes."
+157. "il y a peut-être ça en ingénierie… bref. je ne sais pas comment expliquer. en fait, pour moi, si le but de tes études, c'est d'être bon avec du texte, j'ai de la peine à justifier chaque gpt dedans."
+158. "pour une génération de textes. si c'est, comme toi avant tu parlais de philo, si chatgpt peut mieux résumer la pensée d'un philosophe que wikipédia ou une autre source, ce que j'ai de la peine un peu à croire, pour ça, ça peut m'aller. mais que, on va dire, un élève génère un texte qu’il rend, ça je trouve ça un peu... je trouve le but des études est un peu... mal atteint."
+159. "le but c'est quand même que t'aies eu ta réflexion, que tu crées ton texte et tout ça, et genre, c'est pas... on te demande pas d'aller faire tourner un moteur..."
+160. ces thématiques et les verbatims associés permettent d'explorer les perceptions, les pratiques et les débats autour de l'utilisation de l'ia dans le contexte académique
+161. ### thématiques sociologiques et verbatims associés
+162. #### 1. **impact de l'ia sur l'éducation et l'apprentissage**
+163. "ça ne devrait pas être autorisé dans ce cas-là, par exemple."
+164. "l'ia ne te fait pas apprendre."
+165. "imaginons dans 10 ans, 20 ans... est-ce que le jour où l’ia fait une meilleure dissertation qu'un... qu'un élève en master, en lettres, est-ce que du coup c'est ok ?"
+166. "ça décrédibilise un peu les études, je trouve."
+167. "ça pourrait être un prof ou un... un élève, enfin un élève... un autre élève ou un truc du genre."
+168. "je pense qu'il y a toujours l'élève qui va devoir... enfin, c'est un peu... à me mettre à la place d'un élève, je trouverais ça bizarre parce qu'en fait, autant tu poses la question à chatgpt, autant est-ce qu'il va pas juste te biaiser et te dire « ouais c'est super ! »"
+169. "si 20 élèves font... en plus, on est à l'uni. si 100 élèves font un truc par rapport à un philosophe et que chatgpt dit tout le temps c'est ok, peu importe le truc."
+170. "si c'est un modèle juridique, entraîné avec que du texte juridique, et que c'est des lois qui se ressemblent, pourquoi pas, mais je sais pas."
+171. "je pense qu'il y a une tension dans plusieurs secteurs entre l'utilisation qui devrait ou pourrait être faite."
+172. "si c'est un modèle juridique, entraîné avec que du texte juridique, et que c'est des lois qui se ressemblent, pourquoi pas, mais je sais pas."
+173. "je pense qu'il va s'installer et en gros avoir un faible impact, dans le sens qu'il va pas devenir nécessaire."
+174. #### 2. **utilisation de l'ia dans différents contextes professionnels**
+175. "dans le cadre de l'administratif, tout est très protocolaire, est-ce que ça te paraît normal que de l'un coup, la plupart des... enfin, certaines tâches, en arrivent à être substituées par... parce que chatgpt tu lui demandes de faire une lettre type pour x tâche, et puis il te la fait très bien."
+176. "il y a toujours eu des gens qui ont partagé du code, qui ont partagé leurs connaissances."
+177. "si c'est un modèle juridique, entraîné avec que du texte juridique, et que c'est des lois qui se ressemblent, pourquoi pas, mais je sais pas."
+178. #### 3. **considérations éthiques et d'intégrité académique**
+179. "ça décrédibilise un peu les études, je trouve."
+180. "autant tu poses la question à chatgpt, autant est-ce qu'il va pas juste te biaiser et te dire « ouais c'est super ! »"
+181. "si 20 élèves font... en plus, on est à l'uni. si 100 élèves font un truc par rapport à un philosophe et que chatgpt dit tout le temps c'est ok, peu importe le truc."
+182. "pour moi, il y a toujours un humain derrière qui contrôle quoi. que ce soit dans la traduction en tout cas."
+183. "il y a une inconscientisation dans ce secteur de l'intelligence artificielle particulièrement de l'impact et du coup le fait qu'on va devoir l'arrêter."
+184. #### 4. **perceptions du progrès technologique et de l'ia**
+185. "moi j'aurais trop peur de... de... c'est traduit, le texte est utilisé comme ça et genre... digitec est pas foutu d'avoir des bonnes traductions, donc... elles sont incroyables les traductions de digitec."
+186. "chatgpt, c'est juste un outil qui est spécialisé à faire la traduction mais fondamentalement, est-ce que demander de traduire des textes à ce genre d'outils c'est quelque chose qui est problématique ou pas?"
+187. "peut-être que je confonds mes chiffres, mais 4.0, c'est les ia et tout ça. et j'ai vraiment l'impression que tout le monde en met partout."
+188. "il y a d'autres... enfin, un de mes souhaits, on va dire, ce serait que tu dois pouvoir quand même compléter tes études et tout avec la possibilité de jamais toucher à ça."
+189. "à un moment où t'as besoin de chatgpt pour réussir ton bachelor master en lettres. c'est un peu... un peu bête…"
+190. #### 5. **conséquences écologiques et socio-économiques de l'ia**
+191. "c'est pour ça que ça devient populaire, et pour le grand public, et pour ceux qui font des modèles, etc."
+192. "les algorithmes et tout ça, ils existent depuis longtemps, avec les scientifiques fous, tout ça, que j'ai cité avant. enfin, les informaticiens fous."
+193. "j'ai l'impression que ce sera aussi beaucoup lié à la question écologique, parce que... enfin… on trouve une source magique d'énergie infinie, et machin... ok, bah cool, on peut faire utiliser tous les modèles d'ia et tous les trucs qu'on veut, c'est sympa. mais, je sais pas, moi j'ai peut-être un point de vue sur le futur un peu trop négatif."
+194. "on a réchauffement climatique, guerre et tout ça qui approchent. et du coup, je me demande... (rires) est-ce qu'il y a un futur dans l'ia, peut-être dans un futur proche, mais peut-être qu'on s'en fout de l'ia quand il y a une guerre ou je sais pas quoi."
+195. à partir de ce texte extrait d'un entretien sociologique, plusieurs thématiques intéressantes peuvent être identifiées pour une analyse sociologique. voici ces thématiques avec les verbatims associés :
+196. ### 1. **utilisation et perception du terme "intelligence artificielle" (ia)**
+197. "c'est genre la mode du moment"
+198. "à l'ancienne, et au final ils re-brandent ça ia"
+199. "le terme est trop général"
+200. "n'importe quoi peut être de l'ia, et ça, c'est un peu..."
+201. "je trouve que le terme est trop général"
+202. ### 2. **évolution des technologies et marketing**
+203. "à l'ancienne, et au final ils re-brandent ça ia"
+204. "le nouveau samsung, c'est genre... non, c'est galaxy ai"
+205. "n'importe où, t'es là, genre... cool, mais c'est... enfin, c'est pas comme"
+206. "pour moi, il y a... enfin... c'est comme, genre là"
+207. ### 3. **précision et clarté des termes techniques**
+208. "ce serait bien de mettre les termes corrects aux bons endroits"
+209. "on est vraiment dans n'importe quoi peut être de l'ia, et ça, c'est un peu..."
+210. "ce serait bien de donner des noms à des trucs, enfin..."
+211. "je sais pas. j'ai pas l'impression que c'était le cas pour les vieilles technologies de web 2, web 3, machin"
+212. ### 4. **débat sur la définition et les applications de l'ia**
+213. "je trouve que le terme est trop général. pour moi, il y a... enfin... c'est comme, genre là"
+214. "toute la régulation de l'injection de l’essence par exemple, dans beaucoup de véhicules, c'est régulé par des algorithmes qui entrent dans une définition très large de l'intelligence artificielle"
+215. "n'importe quel smartphone est déjà une..."
+216. ### 5. **références culturelles et technologiques spécifiques**
+217. "bonjour github copilot mon amour (rires) de me sauver la vie."
+218. "n'importe quel moteur est régulé par un circuit un peu rudimentaire, mais qui a déjà de l'intelligence artificielle selon le terme que tu décides d'utiliser..."
+219. "les vieilles technologies de web 2, web 3, machin"
+220. ### 6. **réactions personnelles et subjectives des interviewés**
+221. "est ce que ça a amené des choses auxquelles tu pensais pas, que tu as trouvées intéressantes... ou…"
+222. "non, c'était nul (rires) ! bah j'ai toujours de la peine dans les interviews et tout ça, mais on l'a dit hors dictaphone, mais bon maintenant c'est bon, c'est enregistré"
+223. "ça t' est cher à cœur, j'aimerais bien qu'ils soient respectés"
+224. ### 7. **interactions et dynamiques de communication**
+225. "t’aurais le droit de dire non hein. (rires)"
+226. "ouais, je suis politiquement d'accord"
+227. "non, non, j'avais pas compris"
+228. "je plaisantais"
+229. "est-ce que t'as envie de rajouter quelque chose?"
+230. ces thématiques et verbatims peuvent servir de base pour une analyse sociologique approfondie, permettant d'explorer les perceptions, les pratiques et les débats autour de l'intelligence artificielle et des technologies associées

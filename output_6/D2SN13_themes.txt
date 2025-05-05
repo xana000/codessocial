@@ -1,0 +1,131 @@
+1. ### thématiques sociologiques identifiées
+2. **perception et usage des intelligences artificielles**
+3. **définition et utilisation**: compréhension de ce qu'est une intelligence artificielle et les usages spécifiques de chatgpt
+4. **impact sur le travail académique**: comment chatgpt influence la rédaction, la recherche d'informations, et la qualité des travaux académiques
+5. **adoption et résistance technologique**
+6. **résistance initiale**: les réserves et les craintes associées à l'utilisation de chatgpt, notamment en ce qui concerne la remplacement de l'effort personnel
+7. **changement de perception**: évolution de l'attitude envers chatgpt avec l'expérience et les retours d'expérience
+8. **intégration dans les pratiques académiques**
+9. **role du professeur et encadrement**: comment les enseignants intègrent et encadrent l'utilisation de chatgpt dans leurs cours
+10. **objectifs d'appropriation**: comment les étudiants utilisent chatgpt pour des tâches spécifiques et les résultats obtenus
+11. **impact sur l'organisation du travail**
+12. **gestion du temps**: comment l'utilisation de chatgpt influence la gestion du temps et l'organisation des tâches académiques
+13. **charge de travail et loisirs**: influence sur la charge de travail et le temps libre
+14. **différences entre niveaux d'études**
+15. **prépa vs l3 vs master**: comparaison de la charge de travail et des méthodes d'apprentissage entre différents niveaux d'études
+16. ### verbatims associés
+17. #### 1. perception et usage des intelligences artificielles
+18. **définition et utilisation**:
+19. "chatgpt il peut faire plus de choses et créer entre guillemets plus de choses. après le mot création il est peut-être pas trop approprié parce que je sais que c'est pas vraiment de la création ce qu'il fait, c'est plus il prend tout ce qu’il connaît, il mélange et il nous donne quelque chose donc il y a pas trop de création."
+20. "donc après, au second semestre, j'ai commencé vraiment à l’utiliser pour rédiger des choses, et je pense qu'aujourd'hui, c'est encore un peu mon activité principale."
+21. "après ma directrice de mémoire qui m'a demandé si j'utilisais chatgpt pour écrire. et du coup je lui ai dit “oui” et elle m'a dit que ça se voyait de temps en temps parce que surtout en sciences sociales chatgpt, parfois il fait des phrases en fait qui veulent rien dire."
+22. #### 2. adoption et résistance technologique
+23. **résistance initiale**:
+24. "au début je l’utilisais un peu comme google, donc je lui posais des questions et du coup c'est sûr que quand on pose une question sur un auteur, un article il répond beaucoup plus facilement que google."
+25. "du coup avec chatgpt, surtout les étudiants, ils vont moins réfléchir et produire des travaux moins bien finalement que s'ils avaient pas utilisé chatgpt."
+26. **changement de perception**:
+27. "après on s’est rendu compte que bah à première vue c'est super chatgpt mais en fait si on creuse vraiment parfois il fait des phrases qui ne veulent rien dire et qui sont un peu louches quoi"
+28. #### 3. intégration dans les pratiques académiques
+29. **role du professeur et encadrement**:
+30. "ils nous le recommandent oui par exemple pour mon premier cours quand ils nous ont présenté comment faire un mémoire etc, ils nous ont dit on est conscients que vous allez utiliser chatgpt et il n'y a aucun souci pour ça mais ils nous ont dit par contre faites attention parce que il ne créera jamais quelque chose. il ne peut que vous aider avec vos idées à vous mais en termes de création d'idées et surtout vu que c'est un master de recherche en plus, ils nous ont dit il va pas vous aider sur ça, donc vous pouvez l'utiliser mais il faut que ça reste vraiment un outil et qui se substitue pas à l'étudiant quoi."
+31. "elle a dit après “vous pouvez demander à chatgpt donc de mettre le fichier dans chatgpt et lui demander 'ben cites-moi 3 atouts et 3 inconvénients de cet article'. elle a dit après vous pouvez présenter ce qu'il vous dit chatgpt et on en discute, est-ce que c'est une bonne réponse, est-ce que c'est pertinent, est-ce qu'il y a un peu n'importe quoi ou pas.”
+32. **objectifs d'appropriation**:
+33. "le contexte était à chaque fois le même, je devais réaliser un travail dans le cadre de mon master, donc un compte rendu des entretiens déjà réalisés pour mon mémoire, et un exposé sur les variétés de capitalisme en économie et sociologie des institutions."
+34. "et c’est une tâche assez ingrate et chronophage qu’il fait très bien à ma place donc voilà"
+35. #### 4. impact sur l'organisation du travail
+36. **gestion du temps**:
+37. "et c'est pour ça que je l'utilise un peu moins surtout pour mon mémoire du coup mais voilà."
+38. "mais depuis que j'ai vu ma directrice de mémoire qui m'a dit que a priori non, du coup je sais plus trop."
+39. **charge de travail et loisirs**:
+40. "je pense qu'elle l’influence pas trop, après par organisation tu veux dire quoi ? hmmm par exemple peut-être qu'avant t'allais consacrer plus de temps à une certaine tâche alors que maintenant comme il y a chatgpt ça va réduire un peu le temps que tu vas y passer par exemple, du coup tu vas pouvoir faire autre chose à côté ou à la place."
+41. "j'ai hérité ça de la prépa mais je fais toujours sur une journée mes petits emplois du temps où je me dis ben je dois faire ça, ça, ça mais du coup en vrai je pense pas que ça ait influencé la manière dont j'organise mon emploi du temps, mais peut-être que je vais plus vite et du coup je me consacre à plus de loisirs mais je pourrais pas trop te dire"
+42. #### 5. différences entre niveaux d'études
+43. **prépa vs l3 vs master**:
+44. "prépa c'était beaucoup d'apprentissage donc là chatgpt il sert à rien quoi, c’est moi qui faisais mes fiches, qui les apprenait voilà et c'était bah énormément de charge de travail."
+45. "ensuite en l3 j'ai eu plus de charge de… fin moins qu’en prépa, mais plus de charge de travail que maintenant parce que j'avais des matières qui étaient très quantitatives donc beaucoup de maths, micro et j'avais un peu plus de mal avec ça donc c'était des exercices, je m'entraînais mais du coup là chatgpt, il était parfois utile quand j'avais des questions mais bon après, c'est toujours moi qui faisais mes exercices et qui comparait avec la correction."
+46. "et aujourd'hui ben en master, j'avoue que charge de travail, y en a pas beaucoup, on a peu de choses à faire à part le mémoire, qui prend beaucoup de temps et par contre là chatgpt est vraiment utile pour mon mémoire ne serait-ce que pour eh.. bah quand c’est que je l’ai utilisé."
+47. ces verbatims permettent de cerner les perceptions, les usages et les impacts de l’utilisation de chatgpt sur les pratiques académiques et la gestion du temps des étudiants
+48. pour une analyse sociologique, plusieurs thématiques intéressantes peuvent être identifiées à partir de cet entretien. voici les thématiques et les verbatims associés :
+49. ### 1. **utilisation de chatgpt dans l'enseignement et l’apprentissage :**
+50. **verbatims :**
+51. "chatgpt il m'accompagne beaucoup plus que google et fiabilité bah je pense que la réponse un peu évidente c'est de dire que google il est plus fiable que chatgpt mais en fait vu que chatgpt il prend ses infos dans google je pense que c’est à peu près pareil."
+52. "ah oui alors oui franchement oui, parce que du coup rien que sur une théorie, j'aurais dû faire peut-être 30 minutes de recherche pour bien comprendre ce que l'auteur voulait dire alors que là avec chatgpt en 10 minutes on comprend quoi, donc oui franchement oui."
+53. ### 2. **fiabilité et qualité des informations fournies par chatgpt :**
+54. **verbatims :**
+55. "mais il s'est trompé genre, il m'avait dit en effet il parle pas explicitement de ton sujet dans tel sens euh voilà."
+56. "du coup parfois il me dit ah finalement non. donc il faut vraiment pousser parce que si j'avais pris son info et que j’avais mis que samuelson avait parlé de mon sujet alors que pas du tout quoi bon."
+57. "parce que parfois il me dit ah ben finalement non. donc il faut vraiment pousser parce que si j'avais pris son info et que j’avais mis que samuelson avait parlé de mon sujet alors que pas du tout quoi bon."
+58. ### 3. **impact sur le processus de pensée et la recherche :**
+59. **verbatims :**
+60. "des fois, il fait des phrases jolies, mais qui veulent un peu rien dire, donc plutôt bon, mais il faut faire attention et repasser derrière."
+61. "l'un quoi ça m'aide vraiment à mieux comprendre. du coup ça m’aide vraiment à mieux comprendre."
+62. ### 4. **dépendance à chatgpt :**
+63. **verbatims :**
+64. "je dirais c'est pareil quoi. du coup je dirais oui je pense que je suis vraiment devenu dépendant à lui."
+65. "mais sinon, s'ils avaient lu l'article, ils auraient fait le résumé eux-mêmes, bon enfin ils savent le faire. c'est pas voilà, c'est vraiment parce qu'ils s’y prennent au dernier moment."
+66. "moi je pense que chatgpt il est un temps, comment dire un outil où bah bon c'est parce que le fait de répéter une phrase j'en suis un peu dépendante."
+67. ### 5. **différences dans l'utilisation entre étudiants :**
+68. **verbatims :**
+69. "je l'utilise vraiment enfin très souvent et pas que du coup pour le scolaire. donc ouais, je suis un peu dépendante à chatgpt."
+70. "ils disent "bah résume-moi cet article." ensuite ils lui donnent un travail à eux, ils disent "ben fais ce résumé mais avec mon style d'écriture" et ils copient collent et ça c'est le rendu."
+71. ### 6. **évolution de l'utilisation de chatgpt :**
+72. **verbatims :**
+73. "ah ouais ouais mais c'est sûr qu’avec chatgpt des fois il est pas bon."
+74. "et c'est vrai qu’avec mes amis on en rigole souvent."
+75. "ben il m'accompagne oui et trouver des réponses je sais pas si on peut dire moins bien, mais en tout cas différentes, c'est par rapport à la comparaison genre google en termes de moins bien ? par exemple ouais."
+76. ### 7. **effet sur les interactions sociales et l'autonomie :**
+77. **verbatims :**
+78. "je lui pose des questions pas vraiment sous forme de questions peux-tu me parler de un tel, voici mes idées, est-ce que tu peux en faire une partie de dissertation ou euh voilà."
+79. "ah ben t'as pas compris ou voilà. on définit, du coup pour ce petit sujet là que je lui avais dit de faire, j'avais dit "cite les entretiens" et en fait il les avaient cité mais il disait ah ben un tel t'as dit que ça ça et je dis non tu cites entre guillemets et tu modifies pas ce que l'enquêté m'a dit"
+80. ### 8. **comparaison avec d'autres outils de recherche :**
+81. **verbatims :**
+82. "mais finalement après vu que je m'en sers pas pour rédiger toute une dissert’ où je mets juste la consigne de mon travail et c'est lui qui me le fait. je m'en suis jamais servi comme ça."
+83. "donc je pense qu'en termes de recherche d'info, je mettrai 9 sur 10 je pense et production d’écrits, euh production d’écrits personnels genre mails tout ça je lui mettrai une bonne note aussi 8 ou 9, et euh peut-être 8, parce que parfois il ne connaît pas notre relation avec la personne à qui on écrit le mail, donc il fait un truc hyper formel alors qu'bah non et pour production d’écrits un peu scientifique, du coup je lui mettrais 6 je pense."
+84. ces thématiques et verbatims permettent d'explorer divers aspects de l'utilisation de chatgpt par les étudiants, y compris ses impacts sur l'apprentissage, la recherche, la dépendance technologique, et les interactions sociales
+85. voici les thématiques sociologiques intéressantes identifiées à partir de l'entretien, avec les verbatims associés :
+86. ### 1. **utilisation des ia en milieu académique**
+87. "ça va vraiment changer la manière dont les gens travaillent et que aujourd'hui c'est encore un peu le début"
+88. "ils nous disent en tant que moteur de recherche, bah vérifier ses sources." "ils nous disent vraiment gardez toujours du recul sur ce qu'il va vous dire parce que bah par exemple on a du mal à critiquer un article"
+89. "ils nous encouragent à l'utiliser"
+90. "l'utilisation de chatgpt elle soit légitime pour toutes les matières"
+91. "ils pensaient que aux états-unis, ils utilisaient les intelligences artificielles dans le domaine de la justice"
+92. "on pense qu'il va vraiment devenir un outil systématique"
+93. "ça serait vraiment bien si leurs profs ils avaient un même discours"
+94. ### 2. **impact sur l'apprentissage et la rétention des informations**
+95. "je me suis vraiment dit tu as rien fait, tu as rendu un papier mais ma contribution elle était nulle vraiment"
+96. "ça va changer la manière dont les étudiants ils travaillent"
+97. "faut faire attention dans la rédaction à toujours vérifier ce qu'il dit"
+98. "ça vous permettait de mieux retenir" "google par exemple les pages google, bah finalement on voyait plusieurs informations plusieurs fois la même."
+99. "quand même, je me dis qu'est-ce que c'est que ces études quoi ?"
+100. ### 3. **éthique de l'utilisation des ia**
+101. "citer son utilisation" "est-ce que tu vas citer chatgpt dans tes travaux ?"
+102. "une personne blanche ou une personne noire, elle avait pas les mêmes probabilités de récidive"
+103. "je me suis vraiment un peu remise en question sur mon initialisation"
+104. "on avait parlé du fait que chatgpt deviendrait payant pour tout le monde"
+105. ### 4. **perception des professeurs et des étudiants**
+106. "ils nous disent vraiment gardez toujours du recul sur ce qu'il va vous dire parce que bah par exemple on a du mal à critiquer un article"
+107. "ça reste vraiment un outil et vu que pour moi il crée rien, c'est vraiment ça qui est important et s'il crée rien bah je vais pas le citer quoi"
+108. "les intelligences artificielles seront utilisés dans le domaine juridique"
+109. "n'hésitez pas à l'utiliser si vous êtes bloqué"
+110. ### 5. **impact sur les pratiques pédagogiques et disciplinaires**
+111. "ça va vraiment devenir un outil systématique"
+112. "en sciences humaines et sociales, tous les étudiants vont progressivement commencer à l'utiliser"
+113. "c'était un cours où on avait vu que aux états-unis, ils utilisaient les intelligences artificielles dans le domaine de la justice"
+114. "en médecine, il y a des discours à ce sujet"
+115. ### 6. **évolution future des outils ia**
+116. "j'ai l'impression qu'il va devenir payant"
+117. "peut-être qu'un jour je l’utiliserai, enfin, je suis pas fermée à l'idée mais juste voir si c'est pertinent ou pas"
+118. "ça devrait l'utiliser dans le cadre académique et scolaire"
+119. "ils utilisaient des intelligences artificielles dans les voitures de taxi sans chauffeur"
+120. "ça sera plus du tout les mêmes méthodes de travail"
+121. ### 7. **autres formes d'intelligence artificielle**
+122. "il y a des autres intelligences artificielles"
+123. "il y en a une qui fait des flashcards ou des fiches"
+124. "microsoft ia qui fait des images"
+125. ### 8. **dilemme moral et légitimité de l'utilisation**
+126. "ça reste vraiment un jugement humain"
+127. "il avait dit "n'hésitez pas à utiliser chatgpt si vous êtes bloqué" "
+128. "payer ou non pour utiliser les outils, si c'est 30€ par mois, on serait prêtes à le faire"
+129. "à l'utilisation dans des voitures de taxi sans chauffeur"
+130. "du coup dans des voitures sans chauffeur, bah ça peut pas être adapté"
+131. ces thèmes et verbatims permettent de structurer une analyse sociologique approfondie sur l'impact des ia comme chatgpt dans les pratiques académiques et sociales, ainsi que les perceptions et préoccupations des utilisateurs

@@ -1,0 +1,68 @@
+1. ### thématiques et verbatims associés :
+2. **utilisation de chatgpt en tant qu'outil**
+3. "je l’utilise pour à peu près tout et n’importe quoi, dès que j’ai une question j’ouvre ma petite appli et je lui pose la question."
+4. "il pourra pas me répondre sur tout bien sûr, mais dans la majorité des cas ça marche super bien."
+5. "chatgpt et je lui pose la question." - "je l’ouvre ma petite appli"
+6. "je sais que je pourrais m’en sortir sans loutil. mais c’est un peu comme une habitude maintenant — dès que j’ai un doute ou que je dois rédiger quelque chose, je me tourne directement vers l’outil parce que ça va plus vite et c’est plus facile"
+7. "ça me fait gagner du temps et de l’énergie"
+8. **impact sur la qualité du travail**
+9. "mais c’est محدودgénérale ça a quand même beaucoup changé ma manière de travailler."
+10. "en fait, c’est un gain de temps incroyable d’utiliser chatgpt pour des tâches un peu ingrates et hyper chronophages."
+11. "dans la forme ça a eu un impact sur ma manière d’exprimer mes idées."
+12. **dépendance et habitudes**
+13. "ça m’a clairement rendue plus flemmarde. ça m’arrive parfois. genre, des fois je me rends compte que j’utilise chatgpt plus souvent que je ne devrais, juste parce que c’est rapide et pratique."
+14. "parfois c’est un peu par flemme ou par confort plus qu’une nécessité réelle."
+15. **impact sur la prise de décision et l'autonomie**
+16. "je me dis "je vais lui poser la question" au lieu de chercher moi-même l’info et de passer du temps à chercher ça sur google ou dans des articles."
+17. "ça me fait gagner du temps et de l’énergie"
+18. **limites et frustrations**
+19. "y’a eu des moments où ça m’a un peu embêtée. par exemple, pour un devoir sur la gouvernance numérique"
+20. "il mélange des concepts ou simplifie trop les idées."
+21. **organisation du travail et stress**
+22. "ça m’a clairement rendue plus flemmarde."
+23. "ça peut alléger la pression, mais faut quand même faire gaffe à pas trop repousser le taf sous prétexte que chatgpt te facilitera le travail."
+24. "je me suis rendu compte que chatgpt, ça me facilitera le travail."
+25. **relations avec la technologie**
+26. "pas de problème on me donne, admettons un nouveau téléphone ou un ordi je saurai m’y retrouver."
+27. "ça a clairement joué dans ma manière d’appréhender le travail" ,
+28. **équité et inégalités**
+29. "ça peut créer une inégalité dans une certaine mesure."
+30. "moi je pense qu’il peut créer une inégalité."
+31. **complémentarité et limite de l'outil**
+32. "je fais de mon mieux pour garder ça sous contrôle, mais faut pas se mentir hein, ça donne envie de l’utiliser tout le temps."
+33. "je le vois plutôt comme un outil d’appoint, c’est pas un accompagnateur à part entière, tu vois?"
+34. "genre t’as toujours chatgpt à portée de main pour t'aider à structurer tes idées ou à gagner du temps, t'as un avantage sur ceux qui ne l'utilisent pas ou qui savent pas comment s'en servir correctement."
+35. ces thèmes couvrent divers aspects de l'utilisation de chatgpt par léna, incluant la dépendance, les bénéfices, les limites, et l'impact sur son travail et son autonomie
+36. ### thématiques et verbatims associés
+37. **utilisation de chatgpt dans l'éducation**
+38. "ils sont au courant que vous utilisez chatgpt pour leurs matières ?"
+39. "bah écoute, pour moi ça dépend vraiment du prof et de son délire sur le sujet."
+40. "y'en a qui sont grave au courant et qui en parlent même en cours."
+41. "moi, j'avoue, j'essaie de m'adapter selon le prof et le contexte,"
+42. "ça crée une sorte de dilemme entre ceux qui se disent « vas-y, profite, c'est l'ère du digital » et ceux qui restent sur du travail à l'ancienne, avec toutes leurs notes et leur réflexion personnelle."
+43. "mais ouais, je pense que la plupart des profs le savent et que ça fait partie du jeu même si … en vrai de vrai c’est pas l’idéal."
+44. "c’est un peu le grand écart, dans ma promo, certains se foutent de l’outil et l’utilisent à fond parce qu’ils savent que leur prof est super relax à ce sujet, alors qu’en y’en a plein d'autres qui sont carrés et qui préfèrent bosser sans tricher entre guillemets avec les ia."
+45. **impact sur l'apprentissage**
+46. "en dehors de tout ce qui est recherche d’info à la limite, je trouve que c’est vraiment pas se faire un cadeau de dépendre autant de chatgpt."
+47. "imagine demain, il disparaît, comment tu fais ?"
+48. "ça pose aussi des questions d’éthique d’utiliser chatgpt."
+49. "c’est choisir la solution de facilité."
+50. "je gagnes vraiment vachement de temps après, genre est-ce que je prends assez de temps pour vraiment comprendre les choses ou bien je me repose trop sur l’outil pour me dépêcher de finir mon travail ?"
+51. "j’ai eu des moments où acheter du temps avec chatgpt m’a permis de me concentrer sur d’autres aspects du devoir, mais parfois, ça peut m'empêcher de vraiment m’investir dans la réflexion pour creuser un sujet plus en profondeur."
+52. "pour les devoirs où on doit montrer une vraie réflexion personnelle ou une analyse critique, là c’est plus compliqué de l’utiliser je trouve."
+53. **éthique et honnêteté intellectuelle**
+54. "par honnêteté intellectuelle, est-ce qu’il faudrait penser à le citer quand on utilise l’ia."
+55. "comment tu te situes par rapport à ça ?"
+56. "comme utiliser un dictionnaire ou un moteur de recherche tu vois, ça serait bizarre je trouve."
+57. "moi du temps qu’on me dise pas explicitement que je dois le faire, je vais pas chercher à me tirer une balle dans le pied quoi."
+58. "moi je me sentirai un peu mal de faire un travail complet avec chatgpt alors que tous les autres font sans, j’ai l’impression de pas jouer le jeu."
+59. "choisir de l’utiliser c’est choisir la facilité dans un sens, et c’est limite si je me sens mal après."
+60. "y’a un dilemme moral pour moi. c'est une sorte de sacrifice."
+61. **évolution future et adaptation des outils**
+62. "ça a déjà tellement changé en deux ans, c’est dingue."
+63. "pour les devoirs où c’est surtout une question de structure ou de mise en forme, par exemple je sais pas, pour trouver un plan ou reformuler des phrases, je trouve que c’est super justifié de l’utiliser."
+64. "les écoles vont devoir s’adapter au fait que les étudiants utilisent l’ia."
+65. "les étudiants vont vraiment finir par abuser des ia tellement ça sera efficace pour absolument tout."
+66. "il faudrait que les universités organisent des ateliers ou des formations pour nous montrer comment utiliser chatgpt de manière critique."
+67. "ça donnerait un cadre plus clair sur l’utilisation de l’ia, sur ce qui est toléré, ce qui ne l’est pas."
+68. ces thèmes et verbatims mettent en lumière les attitudes et réflexions complexes des étudiants concernant l'utilisation de chatgpt dans un contexte académique, ainsi que les préoccupations éthiques et les perspectives futures sur l'intégration des outils d'ia dans l'éducation

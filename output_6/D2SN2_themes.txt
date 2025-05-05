@@ -1,0 +1,105 @@
+1. à partir de l'entretien avec camille, plusieurs thématiques sociologiques intéressantes peuvent être identifiées. voici les thèmes et les verbatims associés :
+2. ### 1. **parcours académique et choix de filière**
+3. **thème : parcours académique et choix de filière**
+4. "j'ai fait un bac général, nous, on avait des spécialités, je sais pas si ça va être très clair pour toi. mais en gros, avant le bac, il choisissait une filière."
+5. "je suis plutôt scientifique. et maintenant cette année, enfin à partir de mon année, on doit juste choisir des matières qu'on a profondi. du coup, j'avais pris math, physique, chimie et donc ses, c'est sciences économiques et sociales."
+6. "j'adore comprendre les autres, les êtres humains. donc je me suis dit 'allez, je tente'."
+7. ### 2. **école et élitisme**
+8. **thème : école et élitisme**
+9. "toi as par exemple ton frère, ta sœur, tes parents ont aussi étudié à ens?"
+10. "beaucoup, c'est une bonne technique si jamais il y en a qui veulent intégrer ens."
+11. "moi en fait ils m'ont pris normalement. ils prennent quelques gens sur le dossier. donc, c'est une bonne technique si jamais il y en a qui veulent intégrer ens."
+12. ### 3. **utilisation de chat gpt**
+13. **thème : utilisation de chat gpt**
+14. "j'utilise pas, je connais que chat gpt."
+15. "chat gpt, pour moi, c'est la seule que j'utilise."
+16. "je lui parle hyper poliment déjà, donc je lui dis coucou, je lui dis s'il te plaît, je lui dis merci."
+17. "je lui demande de corriger les fautes d'orthographe. je lui demande parfois de me traduire, je lui demande de fluidifier mes textes."
+18. "j'ai l'impression que si je vais jamais l'utiliser autrement que académiquement."
+19. ### 4. **relation à la technologie**
+20. **thème : relation à la technologie**
+21. "ma relation à la technologie en vrai, je suis pas hyper douée de manière générale, mais ça va."
+22. "pour tout ce qui est comprendre vraiment, je lui demande de m'expliquer tous les concepts. donc ça m'a beaucoup aidé."
+23. ### 5. **impact de chat gpt sur le travail académique**
+24. **thème : impact de chat gpt sur le travail académique**
+25. "sans doute parce qu'en fait… c'est un peu différent parce qu’en fait moi, j'ai commencé à l'utiliser vraiment en année de master."
+26. "chat gpt, il m’aide beaucoup pour mon travail général? parce que je demandes souvent explanations sur des concepts. "
+27. "du coup, je sais pas si chat gpt ou juste les modalités qui ont changé."
+28. ### 6. **stress et organisation du travail**
+29. **thème : stress et organisation du travail**
+30. "comment chatgpt influence-t-il l'organisation de ton planning de travail? ... “je pense que c'est un petit peu mieux.”"
+31. "chat gpt a-t-il changé votre façon de travailler?” oui, sans doute.”
+32. "mais on a des semaines intenses parfois.”
+33. "en fait on y passe toute la nuit parce que c'est à rendre pour le lendemain matin."
+34. ### 7. **sélection en fonction de contexte d'utilisation**
+35. **thème : sélection en fonction de contexte d'utilisation**
+36. "c'est c'est bizarre, mais j'ai l'impression que si je suis poli, ben la limite pour payer, elle va arriver plus tard."
+37. "il est fort, gpt."
+38. ces thèmes et verbatims peuvent servir de base pour une analyse sociologique plus approfondie, permettant d'explorer des aspects tels que l'adoption des technologies, les pratiques académiques, les dynamiques de sélection et les perceptions des étudiants face aux outils de l'intelligence artificielle
+39. ### thématiques sociologiques identifiées et verbatims associés
+40. **utilisation et perception de chatgpt**
+41. **niveau de maîtrise et utilité perçue :**
+42. "je pense que je commence à savoir comment bien l’utiliser là où il est fort, là où il est pas moins fort etc."
+43. "je pense qu'en ayant eu en fait l’ens, on a eu un cours là-dessus où il expliquait qu'en fait, mine de rien, chat gpt, ça crée des inégalités entre les étudiants parce qu'il y a ceux qui savent l'utiliser, ceux qui ne savent pas l'utiliser."
+44. "du coup j'ai un pote qui m'impressionne à chaque fois mais une de tes camarades doit l'avoir en entretien donc elle verra. mais lui c'est un peu un pro de chat gpt je trouve. ouais."
+45. **impact sur les inégalités et l'éducation**
+46. **effets sur les inégalités :**
+47. "mine de rien, chat gpt, ça crée des inégalités entre les étudiants parce qu'il y a ceux qui savent l'utiliser, ceux qui ne savent pas l'utiliser."
+48. "ils auront accès à l’information de comment l'utiliser, et il y a toujours des gens qui n'auront pas accès à cette information."
+49. "c'est un peu galère parce que comme j'ai dit tout à l'heure, faut bien l'utiliser."
+50. **transformation des pratiques éducatives :**
+51. "je pense qu’il va être utilisé pour faire tout ce qui est devoir maison, faire des dissertations à la maison, il va être énormément utilisé."
+52. "les professeurs, ils vont changer leur manière de nous examiner."
+53. **éthique et problématiques morales**
+54. **utilisation légitime :**
+55. "je trouve que si on lui on y fait tout à notre place, bah déjà on n'est pas maître de son travail."
+56. "je lui fais pas relire n'importe quoi. je lui fais relire des trucs qui donnent pas des infos sur moi."
+57. **impact écologique :**
+58. "le premier problème c'est l'écologie. parce que ça pollue énormément."
+59. **dilemme moral :**
+60. "je me dis, faut que j'arrête de l'utiliser un peu pour la planète surtout qu'on l'utilise de plus en plus et ça risque d'être un petit désastre écologique."
+61. **impact sur l'appropriation du savoir**
+62. **autonomie et apprentissage :**
+63. "je veux pas augmenter en je veux pas faire plus avec lui parce que je veux continuer à faire des trucs moi-même. sinon j'apprends pas."
+64. "je vais demander à un moment à ton avis j'ai quel caractère et tout. il sait rien non plus."
+65. **compétences acquises :**
+66. "je trouve qu’il est une fois je l'avais à chaque fois je lui dis bon blabla, tu vois ? j'ai écrit qu'est-ce que tu en penses ? il a tendance à me dire ‘c'est super’."
+67. "moi je trouve qu'il est une fois je l'avais à chaque fois je lui dis bon blabla, tu vois ? j'ai écrit qu'est-ce que tu en penses ? il a tendance à me dire ‘c'est super’."
+68. **autres thématiques pertinentes**
+69. **contexte institutionnel :**
+70. "l’ens en fait qu’on m’a recommandé plein de logiciels, plein de trucs qui sont efficaces."
+71. "il y a un truc s'appelle zotero, je sais pas si tu vois."
+72. "il y a une notion d'accès à l'information en fait. je savais pas que ça existait avant de venir ici quoi."
+73. **interactions et comparaisons avec les camarades :**
+74. "le fait d'utiliser chat gpt dans le cadre de travaux universitaires ? bah là je trouve que c'est un peu galère parce que comme j'ai dit tout à l'heure, faut bien l'utiliser."
+75. "les gens qui sont à l’ens sont hyper forts, au début je me suis dit merde moi ce que je fais ça doit forcément être moins bien parce que j'ai pas fait de prépa."
+76. "je savais pas que ça existait avant de venir ici quoi."
+77. ces thématiques et verbatims permettent de mieux comprendre les dynamiques sociales et culturelles liées à l'utilisation de chatgpt dans un contexte académique, ainsi que les implications sociologiques et éthiques de cette technologie
+78. voici les thématiques intéressantes pour une analyse sociologique à partir du texte, ainsi que les verbatims associés à chaque thème :
+79. ### 1. **biais et inégalités sociales**
+80. **verbatims :**
+81. "il a été créé sur des corpus [...] créés par des blancs"
+82. "les corpus sur lesquels il est basé, ils sont socialement situés"
+83. "ceux qui sont automatiques et qui te versent [...] ils ont donné que des mains blanches"
+84. "apprendre aux portes automatiques [...] il ne voyait que des images de blanc"
+85. ### 2. **éthique et responsabilité**
+86. **verbatims :**
+87. "je rigolais mais pas complètement parce qu'en fait il a été créé sur des corpus. qui ont été créés par des blancs."
+88. "dangers, c'est je crois qu'il a pas la vérité de chat gpt, juste il est entré à partir d'un corpus"
+89. "si tu l'entraînes à faire des trucs qui sont faux ou même des mauvaises choses, lui il va être en mode 'très bien, je suis à la base de mon corpus'"`
+90. ### 3. **sens moral et utilisation responsable**
+91. **verbatims :**
+92. "il a pas de sens moral"
+93. "tu peux faire des conneries énormes avec chat gpt"
+94. ### 4. **éducation et compétences**
+95. **verbatims :**
+96. "des cours de profs qui savent comment ça marche"
+97. "forcer des moments où on ne peut pas utiliser chat gpt parce que c'est essentiel quand même de savoir s'en passer"
+98. ### 5. **dépendance technologique**
+99. **verbatims :**
+100. "on fait comment s’il y a une panne mondiale"
+101. ### 6. **interactions humaine-machine**
+102. **verbatims :**
+103. "elle nous a expliqué, par exemple, il y avait une fille qui lui avait dit combien font 2 + 2 ? il lui dit 4 et dit non ça fait 5."
+104. "à chaque fois, il lui disait 'non, ça fait 5' et à la fin il finissait par dire 'non, ça fait 5'"
+105. ces thématiques et les verbatims associés permettent d'explorer les questions sociologiques sur les biais, l'éthique, l'éducation, la dépendance technologique et les interactions humain-machine directement issues de cet entretien

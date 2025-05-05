@@ -1,0 +1,60 @@
+### Classification des thèmes sociologiques dans les extraits
+
+#### 1. Identité
+**Citation :**
+Interviewer : Bonjour, est-ce que tu peux te présenter s’il te plaît ?
+Hassan : Bien sûr. Alors, bonjour. Je m'appelle Hassan, j'ai 24 ans. Je suis étudiant en école de commerce en master spécialisé marketing digital et data.
+**Fichier source :** D2SN1.pdf
+
+**Citation :**
+Interviewer : Donc euh toi, comment tu définirais ChatGPT et tout ce qui est intelligence artificielle en général ?
+Interviewé : Euh je pense que je dirais que c'est une entité numérique. Euh développé et qui qui s'appuie sur des bases de données euh pour répondre aux questions qu'on lui pose et aux problèmes qu'on lui soumet.
+**Fichier source :** D2SN12.pdf
+
+#### 2. Pouvoir
+**Citation :**
+Kevin : Et c’est vraiment trop cool de ta part. Bon, je sais que t’as pas trop le temps, donc je vais sûrement enchaîner les questions désolé, parce que j’en ai pas mal en stock. Bon du coup je vais quand même me présenter rapidement, je suis étudiant à l’université Gustave Eiffel en master Data Science et Société numérique, et on travaille actuellement sur un projet de recherche concernant les usages et les pratiques de ChatGPT par les étudiants. Et j’ai besoin de te prévenir que pour pouvoir retranscrire l’entretien, j’ai besoin de l’enregistrer, en fait
+**Fichier source :** D2SN8.pdf
+
+#### 3. Culture
+**Citation :**
+Oumaima : ...nous allons faire un entretien sociologique sur l'impact de ChatGPT dans le travail et l'apprentissage. L'objectif est de comprendre comment cet outil est utilisé et perçu. Avant de commencer, j'aimerais bien vous faire quelques précisions. En premier lieu, par rapport à la confidentialité, vos réponses seront anonymes et resteront toujours anonymes et il n'y a ni bonne ni mauvaise réponse aussi.
+**Fichier source :** D2SN3.pdf
+
+#### 4. Travail
+**Citation :**
+Hassan : À côté, je suis en alternance dans une entreprise qui est Coinhouse spécialisée dans la vente de cryptoactif et je suis customer success assistant dans cette entreprise depuis maintenant près de 2 ans.
+**Fichier source :** D2SN1.pdf
+
+**Citation :**
+Maëlys : Alors, je m'appelle Maëlys Hamart, j'ai 23 ans et je suis en master de Sociologie contemporaine à l'ENS Université Paris-Saclay. C'est ma dernière année. Avant ça, j'ai fait une licence de communication et en fait je me suis redirigée après vers ce master-là parce que l'aspect sociologique que j’avais vu dans la communication en fait m'intéressait et du coup j'ai eu la chance de pouvoir rentrer à l'ENS.
+**Fichier source :** D2SN6.pdf
+
+#### 5. Genre
+Il n'y a pas de citations directes concernant le genre dans les textes fournis.
+
+#### 6. Éducation et formation
+**Citation :**
+Hassan : J'ai obtenu un baccalauréat économique et social en 2019. À la suite de cela, j'ai effectué un bachelor responsable du développement commercial dans le 19e arrondissement. Du coup, Bachelor en 3 ans, une année en initial et les deux dernières années en tant que business développeur.
+**Fichier source :** D2SN1.pdf
+
+**Citation :**
+Loïc : moi c’est Loïc, je suis étudiant en Master 2 Data Science et Société Numérique à l’Université Gustave Eiffel, et je t’ai convié à cette interview sur le thème de l’intelligence artificielle ChatGPT pour connaître ton ressenti.
+**Fichier source :** D2SN5.pdf
+
+#### 7. Technologie et innovation
+**Citation :**
+Interviewé : Euh je pense que je dirais que c'est une entité numérique. Euh développé et qui qui s'appuie sur des bases de données euh pour répondre aux questions qu'on lui pose et aux problèmes qu'on lui soumet.
+**Fichier source :** D2SN12.pdf
+
+**Citation :**
+Kevin : Et jai besoin de te prévenir que pour pouvoir retranscrire l’entretien, j’ai besoin de l’enregistrer, en fait
+**Fichier source :** D2SN8.pdf
+
+#### 8. Impact de ChatGPT
+**Citation :**
+Oumaima : L'objectif est de comprendre comment cet outil est utilisé et perçu.
+**Fichier source :** D2SN3.pdf
+
+### Conclusion
+Les extraits fournis couvrent une gamme étendue de thématiques sociologiques, incluant l'identité, le pouvoir, la culture, le travail, l'éducation et la formation, ainsi que les technologies et l'innovation. Ces catégories permettent de comprendre comment les individus interagissent avec des outils technologiques comme ChatGPT dans différents contextes sociaux, professionnels et académiques.

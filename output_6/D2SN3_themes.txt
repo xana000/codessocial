@@ -1,0 +1,122 @@
+1. ### thématiques et verbines associées
+2. #### 1. **expérience personnelle avec chatgpt**
+3. **thématique : utilisation initial de chatgpt dans le cadre académique**
+4. **verbatims :**
+5. "c'est lors de mon projet académique sur l'analyse d'un marché financier que j'ai découvert chatgpt."
+6. "mes camarades de classe m'ont parlé de chatgpt et de son usage pour résoudre des problèmes académiques."
+7. "nous étions tous fascinés par chatgpt et nous n'étions pas conscients des conséquences de son utilisation."
+8. **thématique : impact de chatgpt sur la recherche académique**
+9. **verbatims :**
+10. "chatgpt a été utilisé pour la recherche académique, mais aussi pour la rédaction et la structure des mémoires."
+11. "j'ai été exclue pour avoir utilisé chatgpt pour générer la bibliographie de mon mémoire."
+12. **thématique : conséquences de l'utilisation de chatgpt**
+13. **verbatims :**
+14. "j'ai été exclue pour 18 mois pour usage abusif de chatgpt."
+15. "j'avais argumenté que cette utilisation de chatgpt n'est pas cadrée."
+16. #### 2. **perception et usage par les étudiants**
+17. **thématique : perception et usage de chatgpt par les étudiants**
+18. **verbatims :**
+19. "chatgpt est perçu comme un outil intelligent et rapide, mais souvent mal utilisé par les étudiants."
+20. "les étudiants utilisent chatgpt plus pour la facilité plutôt que pour l'apprentissage."
+21. "certains étudiants utilisent chatgpt pour des quiz en classe et des examens."
+22. **thématique : dynamique de l'utilisation de chatgpt entre les étudiants**
+23. **verbatims :**
+24. "certains étudiants abusaient de l'usage de chatgpt."
+25. "les étudiants étaient rusés et attentifs à leur usage de chatgpt."
+26. **thématique : impact de la réceptivité à l'école**
+27. **verbatims :**
+28. “cela dépend aussi de notre perception de la tolérance de l'école, c'est-à-dire, si elle est tolérante à l'utilisation de chatgpt ou non, si elle est plus stricte.”
+29. #### 3. **encadrement et régulation**
+30. **thématique : absence d'encadrement clair**
+31. **verbatims :**
+32. "chatgpt est un nouvel outil et il n'est pas vraiment bien encadré."
+33. "l'école nous avait initié à l'utilisation d'outils d'intelligence artificielle sans bien cadrer leur usage."
+34. **thématique : conséquences de l'absence d'encadrement**
+35. **verbatims :**
+36. "j’ai été exclu pour 18 mois pour usage abusif de chatgpt, alors que d’autres ont utilisé chatgpt sans conséquence."
+37. "il y avait déjà 20 personnes exclues pour un an avant moi."
+38. #### 4. **problèmes spécifiques liés à chatgpt**
+39. **thématique : problèmes techniques et académiques rencontrés avec chatgpt**
+40. **verbatims :**
+41. "chatgpt a généré des hallucinations, ce qui a conduit à des sources non reconnues académiquement."
+42. "chatgpt est répétitif dans son style et dans sa reformulation."
+43. **thématique : problèmes de supervision et d'accompagnement**
+44. **verbatims :**
+45. "non bien accompagné par mon encadrant pour les tâches de programmation et quantitatives."
+46. "certains encadrants tolèrent un pourcentage d'utilisation de chatgpt, d'autres non."
+47. #### 5. **réflexions générales sur l'intelligence artificielle et l'apprentissage**
+48. **thématique : intérêt pour l'utilisation de chatgpt**
+49. **verbatims :**
+50. "chatgpt facilite beaucoup et nous pousse à ne pas trop rassembler nos efforts."
+51. "par nature, le cerveau humain est paresseux et fait recours à des solutions simples."
+52. **thématique : conclusion sur l'apprentissage et l'outil**
+53. **verbatims :**
+54. "il est important que les écoles codifient mieux l’utilisation de chatgpt et d'autres outils d’intelligence artificielle."
+55. "chatgpt doit être utilisé avec précaution et une compréhension claire de ses limites."
+56. ces thématiques et verbatims permettent d'explorer en profondeur l'impact de chatgpt dans le contexte académique et les perceptions et comportements des étudiants et des encadrants
+57. voici les thématiques sociologiques intéressantes qui émergent de l'entretien et les verbatims associés :
+58. ### 1. **impact de l'intelligence artificielle sur le travail et les compétences**
+59. **gain de temps et efficacité :**
+60. "chatgpt m'économise énormément de temps. donc, ça réduit le stress lié aux échéances académiques." (soumaya)
+61. "chatgpt m'a raccourci la durée de réflexion pour moi personnellement." (soumaya)
+62. "chatgpt m'a facilité énormément la vie." (soumaya)
+63. **délégation de tâches :**
+64. "je lui délègue à peu près 60 % de mon travail." (soumaya)
+65. "je suis rassurée de savoir que j'ai toujours accès à chatgpt." (soumaya)
+66. ### 2. **apprentissage et usage de l'ia**
+67. **compréhension et simplification des concepts :**
+68. "chatgpt a une capacité d'explication et aussi de simplification. il simplifie les concepts, expliquant et abordant des sujets d'une manière humaine." (soumaya)
+69. "chatgpt remplace google dans mon processus de réflexion automatique." (soumaya)
+70. ### 3. **fiabilité et critique des réponses de l'ia**
+71. **fiabilité :**
+72. "chatgpt n'est pas très fiable. il faut toujours vérifier ce qu'il est en train de générer." (soumaya)
+73. **critique et vérification :**
+74. "je dois vérifier les ressources sur google pour vérifier la véracité de ce qu'il dit." (soumaya)
+75. ### 4. **dépendance et intégrité académique**
+76. **dépendance :**
+77. "je ressens une dépendance, notamment parce que chatgpt est très efficace pour la conception d'un plan de travail." (soumaya)
+78. "tout est là, le plan, et je peux structurer mes idées." (soumaya)
+79. **intégrité académique :**
+80. "il faut avouer l’usage de chatgpt si la question est posée." (soumaya)
+81. "notre travail doit être fait par nous-mêmes." (soumaya)
+82. ### 5. **éthique et légitimation de l'utilisation de l'ia**
+83. **légitimité de l'usage :**
+84. "il y a des critères de légitimité dans l'usage de chatgpt." (soumaya)
+85. "chatgpt est légitime à utiliser en cas de tâches répétitives, mais pas pour des réflexions purement académiques." (soumaya)
+86. **dilemmes éthiques :**
+87. "chatgpt peut compromettre l’intégrité académique." (soumaya)
+88. "je me pose toujours la question de savoir si utiliser chatgpt est vraiment éthique." (soumaya)
+89. ### 6. **impact sur les pratiques d'apprentissage et l'éducation**
+90. **impact futur :**
+91. "chatgpt va dominer le métier et les processus d'apprentissage." (soumaya)
+92. "dans le futur, chatgpt sera le maître qui nous apprend." (soumaya)
+93. **transformations éducatives :**
+94. "les rôles seront bouleversés vers le futur." (soumaya)
+95. "chatgpt sera véritablement instauré dans les processus d’apprentissage." (soumaya)
+96. ### 7. **régulation et cadre juridique**
+97. **nécessité de régulation :**
+98. "il faut contrôler, superviser son développement ainsi que son impact et son influence." (soumaya)
+99. "chatgpt doit être analysé à mesure de son développement." (soumaya)
+100. ### 8. **perception et acceptance sociale**
+101. **réactions des enseignants :**
+102. "les enseignants sont au courant. ils menacent tout usage de chatgpt." (soumaya)
+103. ### 9. **stratégies d'interaction avec l'ia**
+104. **stratégies pour améliorer l'interaction :**
+105. "il faut bien personnaliser les requêtes." (soumaya)
+106. "chatgpt répond mieux dans la version payante." (soumaya)
+107. ces thèmes et verbatims montrent comment l'ia est perçue, utilisée et régulée par les étudiants, ainsi que les tensions et les dilemmes éthiques liés à son adoption
+108. pour une analyse sociologique, plusieurs thématiques peuvent être explorées à partir des échanges donnés. voici les principales thématiques identifiables et les verbatims associés :
+109. **relations interpersonnelles et communication** :
+110. "merci beaucoup"
+111. "merci pour votre intervention"
+112. "de rien, c'était enrichissant"
+113. **reconnaissance mutuelle et respect** :
+114. "merci beaucoup"
+115. "merci pour votre intervention"
+116. "de rien, c'était enrichissant"
+117. **expressions de gratitude** :
+118. "merci beaucoup"
+119. "merci pour votre intervention"
+120. **interactions professionnelles** :
+121. "votre intervention"
+122. ces thématiques permettent d'explorer divers aspects de la dynamique sociale, tels que les interactions verbales, les mécanismes de reconnaissance et de gratitude, ainsi que les pratiques professionnelles. les verbatims associés montrent comment les individus interagissent dans un contexte social et professionnel, en utilisant des expressions de politesse et de reconnaissance mutuelle

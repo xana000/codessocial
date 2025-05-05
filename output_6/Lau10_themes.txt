@@ -1,0 +1,227 @@
+1. ### thématiques sociologiques et verbatims associés
+2. **utilisation de la technologie et des ia génératives chez les étudiants**
+3. **"chat-gpt"**
+4. "chat-gpt et toutes les ia génératives, voilà, et ça permet d'avoir une conversation avec et sur la base de réponses, donc sur la base d'éléments appris par cette intelligence artificielle. donc ça donne des réponses. donc donner des réponses sur la base de textes, de choses apprises."
+5. "chat-gpt, c'est la production de texte. et… je suis sortie du truc, tu peux me redire la question ?"
+6. "je dirais que c’était un peu une des seules qui était autant compétente, oui."
+7. "du coup, j'ai plus l’impression que c'est une question de cas par cas, je ne sais plus trop."
+8. "je dirais plutôt claude, maintenant, enfin en fait c'était de nouveau par période, au début chat-gpt parce que c'était un peu une des seules qui était autant compétente, oui, et même par rapport à l'année dernière."
+9. **"fréquence d'utilisation"**
+10. "je dirais... pas tous les jours, mais presque. donc au moins 3-4 fois par semaine."
+11. "dans mon quotidien, un peu moins maintenant. mais je l'utilise dans mon quotidien pour des recettes de cuisine ou des... voilà."
+12. "j'utilise vraiment pas pour rechercher de l'information."
+13. "et maintenant, il y en a tellement que du coup des ia génératives, j'ai plus l'impression qu'au début, je l'utilisais parce que je me rendais compte que ça pouvait être utile. maintenant, ce n'est pas croissant, voire plutôt décroissant."
+14. **"découverte et adoption"**
+15. "il me semble que ça a commencé en 2022, en décembre, ou en 2023, enfin en fin d'année. donc à mon avis c'était en 2022, ça doit faire deux ans."
+16. "en fait je l'ai appris par les médias. j'ai découvert ça parce que j'ai commencé à regarder la rts, à voir que ça prenait beaucoup d'ampleur. tout le monde en parlait et du coup je me suis posé la question et je me suis dit bah qu'est-ce que c'est et voilà."
+17. "non non j'ai vu la rts, des sujets rts sur instagram qui parlaient de ça. donc c'est comme ça que j'en ai entendu parler."
+18. "j'ai l'impression que ça peut s'appliquer un peu au journalisme de manière générale."
+19. **impact des ia génératives sur le travail académique et professionnel**
+20. **"utilisation dans le travail académique"**
+21. "est-ce que tu peux me faire cinq propositions de titres, d'articles ?"
+22. "je dirais que c'était un peu une des seules qui était autant compétente, oui, et même par rapport à l'année dernière."
+23. "il m'a donné des idées de titres pour un article sur chat-gpt."
+24. "maintenant ce sont claude, claude ai, ou alors claude le chat."
+25. "donc c'est un peu aléatoire, c'est au cas par cas."
+26. "je l'utilise plus pour me donner des idées de titres, au final."
+27. **"réformulation et créativité"**
+28. "j'avoue que je comprends pas trop, ou pas tout mais il y a quand même une curiosité."
+29. "je l'utilise vraiment pas pour rechercher de l'information."
+30. "ça peut donner des idées de formuler ou de structurer un texte."
+31. "mais ouais."
+32. "je n'ai pas l'impression qu'ils sont plus ou moins créatifs. j'ai l'impression que chacun est différent. du coup, il y a... enfin, j'ai l'impression que les réponses de chat-gpt sont un peu toujours les mêmes, que ce soit dans la structure ou dans la... ouais, dans la structure ou... voilà. dans les idées, voilà."
+33. "ça c'est pour les titres. je l'utilise aussi pour avoir des idées d'angles, donc les angles c'est la manière dont on va aborder le sujet. je l'utilise plus pour me donner des idées. des fois, il y a des bons angles, des fois, il y a des choses que j'ai pas pensées. mais... mais ouais."
+34. **évolution des pratiques pédagogiques et des politiques universitaires**
+35. **"intégration des ia dans l'enseignement"**
+36. "parce que je pense que c'est quelque chose de très puissant et qu'il y a quand même la peur que ça remplace des métiers comme le journalisme ou dans l'édition ou dans la création de contenu."
+37. "je dirais que non ils attendent pas de nous qu'on l'utilise. mais ils sont au courant qu'on va l'utiliser."
+38. "ils attendent pas de nous, ils savent, je pense que les profs sont pas dupes sur le fait qu'on utilise l'ia."
+39. "ils sont au courant qu'on va l'utiliser."
+40. "mais ils sont au courant qu'on va l'utiliser. donc voilà."
+41. **"réglementation et charte d'utilisation"**
+42. "l'université a créé une charte de l'utilisation de l'intelligence artificielle."
+43. "je pense que c'est aussi parce que l'université de neuchâtel, je crois que c'était au début d'année scolaire, le recteur a fait une charte de l'utilisation de l'intelligence artificielle."
+44. "c'est aussi ce qui fait que ça m'intéresse. c'est parce que si on a... ouais, si l'université même prend des mesures pour encadrer, c'est que c'est quand même assez important et assez puissant."
+45. "je sais qu'il y a plein de documentations sur le site de l'uni aussi pour si on n'est pas habitué à utiliser l'ia."
+46. (ou) est-ce que ça parlait de la réglementation des usages... c'est à l'intention de la communauté universitaire."
+47. ces thématiques et verbatims permettent d'analyser comment les étudiants perçoivent et intègrent les ia génératives, ainsi que les implications pour leur travail académique et les réponses des institutions universitaires
+48. pour une analyse sociologique, plusieurs thématiques peuvent être identifiées à partir de cet entretien. voici les thématiques intéressantes et les verbatims associés à chacune d'elles :
+49. ### 1. **utilisation et adoption de l'ia dans le travail journalistique**
+50. **prompt et définition de termes** :
+51. "je sais plus si je l'ai mis ici, mais d'avoir des... de formuler peut-être des idées nouvelles."
+52. "des fois je mets directement la phrase et je demande de reformuler cette phrase."
+53. "tu arrives à formuler des idées, des titres, je trouve que ça me permet au final de reformuler, soit reformuler des phrases, que ce soit des titres, mais aussi des paragraphes, des synonymes."
+54. ### 2. **confiance et vérification des informations**
+55. **vérification de la véracité** :
+56. "je me méfiais très sérieusement sur la véracité de ce qu'il raconte."
+57. "je me suis quand même toujours méfiée sur la véracité de ce qu'il raconte."
+58. "quand je testais un peu, est-ce que ça marche au niveau des faits, est-ce que ça peut dire des trucs faux."
+59. ### 3. **créativité et inspiration**
+60. **créativité et stimulations** :
+61. "non non moi j'ai toujours eu d'abord des idées puis je regarde si chatgpt a des idées qui s'ajoutent."
+62. "je ne sais pas si c'est très clair, peut-être pas trop."
+63. "la créativité, c'est assez... presque intime."
+64. ### 4. **comparaison avec d'autres outils et compétences**
+65. **avantage de chatgpt** :
+66. "et j'avais un cours de journalisme ou je peux pas vraiment dire la différence pour comprendre."
+67. "il propose toujours des critiques, et il offre un outil pour évaluer les idées."
+68. ### 5. **impact sur l'apprentissage et l'autonomie**
+69. **autonomie et apprentissage** :
+70. "l'utilisation de l'ia pour combler des lacunes techniques... de chatgpt"
+71. "je pense que c'est un outil pour renforcer ma créativité."
+72. ### 6. **nature des échanges et qualité des réponses**
+73. **qualité des réponses** :
+74. "je dis oui, honnêtement, je dirais ouais."
+75. "c'est difficile de dire comme ça. je pense que oui."
+76. "je ne croise pas une situation, juste parfois où tu demandes une solution précise."
+77. ### 7. **relation avec chatgpt**
+78. **relation psychologique** :
+79. "il donne souvent des réponses vagues."
+80. "je demande assez rarement, parce que je sais que l'outil donne souvent des réponses vagues."
+81. ### 8. **utilisation pédagogique**
+82. **utilisation dans un cadre académique** :
+83. "utilisation de l'ia pour la création de contenu."
+84. "chatgpt et claude, j'ai l'impression que c'est généralement sympa, et les réponses sont assez vagues."
+85. ### 9. **comparaison avec d'autres technologies**
+86. **comparaison avec google** :
+87. "tu trouves ça un peu amusant que moi je disais que c'était plus du moteur de recherche, que c'était un google amélioré où tu peux vraiment mieux formuler tes demandes et tes problèmes."
+88. "moi je ne l'utilise pas comme google."
+89. en résumé, cet entretien met en lumière divers aspects liés à l'usage de chatgpt dans le contexte journalistique, incluant l'apprentissage, la confiance en l'outil, la créativité, et la qualité des réponses fournies. ces thématiques peuvent servir de base pour une analyse sociologique approfondie sur l'impact de l'ia dans le domaine journalistique
+90. ### thématiques sociologiques et verbaltims associés
+91. **utilisation du temps et efficience**
+92. [speaker_02, 00 :46 :02] : "je crois que j'ai un peu la flemme de faire des longues questions et des longs prompts tout en sachant que 4 réponses sur 5 ne vont pas me convenir. en même temps, c'est hyper contradictoire parce que je sais que plus je précise mes questions, plus les réponses vont être claires et peut-être qu'elles seront toutes géniales."
+93. [speaker_01, 00 :46 :33] : "le rapport au temps, il est intéressant là-dedans. parce que du coup, tu dis que tu as la flemme de..."
+94. [speaker_02, 00:48:55]: "est-ce qu’on bouge maintenant ou tu veux que je finisse, mais... on est à la session 3 sur 10."
+95. [speaker_02, 00 :02 :26] : "mais c'est plus rapide, quoi. c’est je vois les réponses qu'ils me donnent. je suis pas très convaincue."
+96. **relation humaine et politesse**
+97. [speaker_02, 00 :06 :53] : "pour toi, ça reste une machine et c'est tout."
+98. [speaker_02, 00 :07 :16] : "ça m'aide à réfléchir. j'ai plutôt l'impression que c'est ça."
+99. [speaker_02, 00 :07 :00] : "mais je sais pas si peut-être que je pourrais regarder au niveau des dates si je faisais plutôt ça au début. je sais pas si ça peut être intéressant de voir si je faisais ça au début ou pas."
+100. [speaker_02, 00 :08 :04]: "peut-être que là, c'était juste un...c'est presque comme des messages whatsapp, entre guillemets."
+101. [speaker_01, 00 :09 :06] : "et il y a ce truc où on dit salut et merci à la fin."
+102. **impact sur le travail et l'apprentissage**
+103. [speaker_02, 00 :14 :26] : "bah oui, ben voilà. là, on honnêtement je me rappelle plus trop..."
+104. [speaker_02, 00 :15 :29]: "[...] j'ai l'impression qu'on a déjà un peu parlé de ça, parce que tout ce qu'on a dit avant, ça peut rentrer dans ça."
+105. [speaker_02, 00 :16 :52] : "c'est difficile à dire parce qu'en vrai je ne sais pas trop quelle est la qualité de mon travail."
+106. [speaker_02, 00 :18 :23] : "c'est une question difficile, ouais c'est difficile de répondre clairement à la question."
+107. **satisfaication des répontes et utilisation des répontes**
+108. [speaker_02, 00 :05 :25] : "c'est un peu ce qu'on a dit avant par rapport à la créativité et presque une sorte de subjectivité entre guillemets."
+109. [speaker_02, 00 :06 :04] : "j'ai plutôt l'impression que c'est ça."
+110. [speaker_02, 00 :11 :11] : "je crois que ça m'arrive jamais, en plus."
+111. [speaker_02, 00 :12 :49] : "en mode, je dois écrire un message... là, par exemple, je dois écrire un message à l'apiculteur."
+112. [speaker_02, 00 :15 :29] : "[...] au niveau créatif, rédaction..."
+113. **efficacité et qualité du travail**
+114. [speaker_02, 00 :17 :42] : "c'est difficile à dire parce qu'en vrai je ne sais pas trop quelle est la qualité de mon travail."
+115. [speaker_02, 00 :18 :23] : "est-ce que d'avoir plus d'idées, mais des moins bonnes... enfin, tu vois, je sais pas. c'est une question difficile, ouais c'est difficile de répondre clairement à la question."
+116. ces thèmes et verbatim associés fournissent une base solide pour une analyse sociologique approfondie de l'utilisation de chat-gpt par les étudiants. ils offrent des perspectives sur la temporalité, la perception de l'outil, son impact sur le processus de travail et la qualité des réponses fournies
+117. ### thématiques sociologiques et verbatims associés
+118. **utilisation de l'ia dans l'éducation الأكاديمية**
+119. "même si je trouve que c'est un outil, j'ai l'impression qu'on l'utilise plus ou moins tous et toutes."
+120. "c'est vraiment un outil pratique."
+121. "c'est un gain de temps monstrueux et que je me rends compte que je lis plus rapidement que ce."
+122. **efficacité et fiabilité des réponses des ia**
+123. "assez rapidement, je me suis rendu compte de ça et on en a entendu parler aussi."
+124. "je pense qu'on voit assez bien le fait que je continue plus la discussion."
+125. "mais en tout cas, juste que je me rends compte qu'il faudrait que je passe du temps à lui expliquer tout."
+126. "je sais, en fait, je ne suis pas très satisfaite, mais je sais pourquoi je ne suis pas satisfaite."
+127. **confiance et dépendance envers les ia**
+128. "je decide de ne pas l'utiliser pour... je sais pas, me donner des noms d'associations ou des noms de personnes."
+129. "je pense plutôt par flemme."
+130. "c'est pas mal. et si là tout d'un coup on me dit ok, faut arrêter d'utiliser l'intelligence artificielle, je pense que je vais pas mourir."
+131. **impact sur les compétences et les stratégies méta-cognitives**
+132. "j'ai l'impression que je suis moins concentrée par rapport à en bas."
+133. "et en même temps ça me permet de... si je suis pas forcément satisfaite ou si j'ai de la peine à croire, je peux aller directement vérifier par moi-même."
+134. "non c'est assez souvent franchement bien ce que je cherche."
+135. **sentiment de réussite académique et compétences personnelles**
+136. "avec chat gpt et comme les deux profs de cette année mais aussi de l'année dernière, ils sont eux-mêmes et elles-mêmes transparents, sur leur utilisation, bah ça nous permet de se dire en fait tout le monde l'utilise, c'est pas trop grave."
+137. "j'ai plutôt l'impression que... en vrai, ça peut être vachement utile pour le journalisme et même pour d'autres types de métiers."
+138. "et donc je me rends compte qu'au final je vois que c'est quand même plus difficile pour certaines tâches."
+139. **perception et usages des enseignants**
+140. "il y a des profs qui disent qu'on peut et je pense que c'est aussi grâce au fait que les unis se positionnent par rapport à l'ia, les unis et les médias aussi."
+141. "sinon pas tellement. il y a des profs qui disent qu'on peut."
+142. "il y a des profs qui au final sont des journalistes et donc peut-être qu'il y a toujours cette... un peu peur de... que la machine remplace l'homme."
+143. **normalisation et acceptation de l'ia**
+144. "on en parle pas de notre rapport, mais on dit par exemple « ah oui, moi aussi je galère à trouver un titre, viens on demande à chatgpt »."
+145. "je trouve un peu bête mais... c'est mon avis mais je... il y a... j'ai pas... enfin..."
+146. "il y a aussi des profs qui au final sont des journalistes et donc peut-être qu'il y a toujours cette... un peu peur de... que la machine remplace l'homme"
+147. **interaction et pratique des студентых des étudiants**
+148. "parce que je ne savais pas que chatgpt... oui mais du coup je ne sais pas parce que c'est... mais alors... parce qu'en gros la rts... mais tu vois ça je ne sais pas si ça sert à quelque chose ou pas parce que ça... ouais... la rts a créé un logiciel qui utilise chatgpt."
+149. "je trouve ça bien qu'il y ait quand même un cadre qui soit donné si tout d'un coup on a envie, voire besoin d'utiliser l'ia."
+150. ces thématiques et verbatims peuvent être utilisés pour une analyse sociologique approfondie sur l'impact des technologies ia dans l'éducation, les perceptions des étudiants et des enseignants, ainsi que les dynamiques de confiance et de dépendance envers ces outils
+151. ### thématiques sociologiques interessantes et verbatims associés
+152. #### 1. **utilisation de l'ia dans l'apprentissage et la recherche académique**
+153. **transcription et réduction du temps de recherche**
+154. speaker_02: "quand je dois faire un sujet de mémoire, je regarde ce qui a déjà été fait dans les podcasts et les éléments comme ça, au lieu de devoir écouter 100 heures de podcast, je les mets dans le notebook lm et je peux juste retirer les trois citations importantes sans devoir écouter les 20 minutes de podcast."
+155. speaker_02: "mais c'est toujours ce truc d'avoir l'impression qu'il y a des gens qui ont mille idées, on leur propose un sujet, ils ont vraiment 3-4 idées de comment l'aborder, tout ça. et je suis pas non plus quelqu'un... enfin, tout dépend du sujet, mais c'est des fois un peu difficile d'avoir d'autres idées de sujets, ou d'autres angles, comment aborder le sujet de manière un peu originale, ou... voilà."
+156. **générateur de titres et idées**
+157. speaker_02: "dans ce cadre de formulation de mémoire était assez importante pour le noter."
+158. speaker_02: "même si je n'avais pas chatgpt, en fait je ferais le même processus, c'est juste que je discuterais peut-être plus des sujets avec d'autres gens. enfin je sais pas, ça c'est une hypothèse, mais je me dis que... et au final je le fais autant, mais en fait je le vois vraiment comme un plus."
+159. speaker_02: "je pense qu'il y a un élément quand même important, c'est que je pense que si je n'avais pas chat-gpt, en fait je ferais le même processus, c'est juste que je discuterais peut-être plus des sujets avec d'autres gens."
+160. **interactive et apprentissage intellectuel**
+161. speaker_02: "je ne dirais pas que j'ai honte. c'est juste qu'après, c'est toujours difficile de se dire qu'il y a presque un... c'est assez... des fois, c'est des réponses parfaites."
+162. speaker_01: "des fois, c'est un peu honteux de demander des définitions, de concepts, il y a des trucs qu'on sait, c'est plus sur des petites choses comme ça."
+163. #### 2. **transparence éthique et légitimité de l'utilisation de l'ia**
+164. **vérification et manipulation des informations**
+165. speaker_02: "je pense qu'il y a des questions de responsabilité, pour les gens. mais qu'est-ce que c'est, la responsabilité ? il y a aussi une question de vérification des faits et des informations."
+166. speaker_02: "pour la première fois que je voyais ça dans les textes, dans les articles scientifiques."
+167. **responsabilité et transparence**
+168. speaker_02: "je pense qu'il faut être transparent. mais c'est peut-être une déformation potentiellement professionnelle."
+169. speaker_01: "c'est juste que... je me suis aidée de l'ia, donc c'est pas une fraude mais voilà j'ai un peu c'est un super pouvoir quoi voilà j'ai un talent caché."
+170. speaker_02: "je pense qu'il faut être transparent. autant, c'est ce que je disais avant, autant pour la personne qui lit que pour les gens, parce qu'en fait, les gens vont se baser potentiellement sur ce travail."
+171. speaker_02: "je pense qu'il faut être transparent par rapport à l'utilisation de l'ia."
+172. speaker_02: "je pense qu'il faut être transparent par rapport à l'utilisation de l'ia."
+173. #### 3. **biais et limitations de l'ia**
+174. **biais humains et biaiss de l'ia**
+175. speaker_02: "je pense qu’il faut être transparent, surtout au niveau des médias et au niveau des produits et des contenus journalistiques que je peux produire dans le cadre de mon master, il faut aussi l’être."
+176. speaker_02: "si on écrit un texte sur google docs ou sur word, et qu'on le fait corriger grammaticalement. est-ce qu'on doit dire que le texte a été corrigé par word ?"
+177. speaker_01: "c'est presque presque anecdotique, mais en même temps... il faut aussi... quand est-ce qu'on dit qu'on a utilisé l'ia ou pas ? est-ce que c'est..."
+178. speaker_02: "il faut aussi... quand est-ce qu'on dit qu'on a utilisé l'ia ou pas ? est-ce que c'est pour trouver des synonymes, est-ce que c'est important de le noter ?"
+179. **humain et machine vs créativité**
+180. speaker_02: "moi je trouve ça dangereux aussi parce que c'est une façon de remplacer l'humain finalement, c'est qu'on se sert plus de chatgpt comme d'un outil mais d'une machine de réponse, comme un outil de réponse."
+181. speaker_02: "je sais pas, par exemple si on utilise dipple pour traduire, c'est peut-être plus légitime d'utiliser un traducteur dans ce sens-là que, je sais pas, de formuler un titre avec immersion tintin."
+182. speaker_02: "je sais pas, c'est que des fois la réponse qu'il donne est parfaite. et c'est toujours un peu honteux de se dire, en fait, je ne l'ai pas trouvé moi, mais c'est une machine qui l'a trouvé."
+183. speaker_02: "si j'ai honte, je ne l'utilise pas. pour moi c'est la même chose, des fois c'est un peu honteux de demander des définitions, de concepts, il y a des trucs qu'on sait, c'est plus sur des petites choses comme ça."
+184. #### 4. **impact futur des ias sur les pratiques d'apprentissage**
+185. **évolution des outils**
+186. speaker_01: "les méthodes traditionnelles, si on ne les modernise pas, si on essaie pas de les rendre disponibles et accessibles un peu comme la numérisation des revues académiques."
+187. speaker_02: "je vois plus mal comment ce qu'on a fait ça va aller, ben il faut être honnête, ça nous dépasse quand même."
+188. #### 5. **problèmes de propriété et de création**
+189. **créativité et productivité**
+190. speaker_02: "en fait, j'aime bien creuser des sujets, chercher... alors oui, peut-être que j'ai la plume de chercher mille titres et que c'est plus facile de demander à chat-gpt, mais je considère pas que la valeur... enfin, je suis pas sûre que trouver des titres, ça fait vraiment ce qui va me faire me démarquer."
+191. **valeur de la machine vs l'humain**
+192. speaker_01: "des fois, c'est un peu honteux de demander des définitions, de concepts."
+193. speaker_02: "mais je trouve que c'est dangereux le fait qu'on puisse être remplacé par ce type d'outil si l'usage est mal fait, si on n'est pas vigilant. parce qu'on peut être remplacé par une machine qui dit tout, qui répond tout, mais qui manque d'humanité, de sensibilité, d'une dimension émotionnelle, et tout ça."
+194. speaker_02: "en fait, je me dis beaucoup que si je n'avais pas chatgpt, je ferais le même processus, c'est juste que je discuterais peut-être plus des sujets avec l'autres gens."
+195. ces thèmes couvrent les aspects sociologiques clés soulevés par les interviewees qui traitent des implications sociales, politiques et éthiques de l'utilisation de l'ia
+196. l'entretien sociologique abordé dans ce texte révèle plusieurs thématiques intéressantes pour une analyse sociologique. voici les thématiques identifiées et les verbatims associés à chacune d'elles :
+197. **impact de l'intelligence artificielle (ia) sur les pratiques et les méthodes d'apprentissage** :
+198. "c'est en train de révolutionner nos pratiques de manière générale."
+199. "je pense que ça peut révolutionner les techniques d'apprentissage."
+200. "la même chose que quizlet, l'application pour faire des cartes mnémotechniques."
+201. "je pense qu'il faut presque dire que tous les jeunes vont l'utiliser pour au moins une fois écrire une dissertation."
+202. **réglementation et encadrement de l'utilisation de l'ia** :
+203. "moi je pense qu'on est un peu tous et toutes dépassés par ce truc."
+204. "c'est presque un devoir au niveau des chercheurs, des chercheuses, des profs, de réglementer."
+205. "les gens vont continuer à l'utiliser, mais autant qu'ils soient plus ou moins conscients de ce qu'il y a derrière."
+206. "il faudrait presque dire que tous les jeunes vont l'utiliser pour au moins une fois écrire une dissertation."
+207. **conscience et responsabilités individuelles et collectives** :
+208. "de nouveau, je pense que ça peut maybe inciter à utiliser l'ia et donc à changer les pratiques."
+209. "ça peut peut-être même inciter à utiliser l'ia et donc à changer les pratiques."
+210. "si on se rend compte que c'est que c'est très puissant mais que c'est très demandeur et polluant et demandeur en énergie, peut-être qu'on va moins l'utiliser."
+211. "si on se rend compte que ça demande beaucoup d'énergie, peut-être qu'on va moins l'utiliser."
+212. "je pense qu'il y a un autre élément, mais on pourra de nouveau en discuter pendant un moment."
+213. **responsabilité écologique et consommation énergétique** :
+214. "ça n'a pas vraiment à voir, mais peut-être que ça peut aussi changer les pratiques."
+215. "ça consomme énormément d'eau pour refroidir les machines et les serveurs."
+216. "des immenses serveurs qui tournent donc je pense que potentiellement ça peut... avant je disais."
+217. "si on se rend compte que ça demande beaucoup d'énergie."
+218. "ça demande beaucoup d'énergie."
+219. **éducation et formation sur l'ia** :
+220. "je suggère une amélioration de la manière d'intégrer le chat-gpt dans les études, ce serait plus avoir... un cours obligatoire sur l'utilisation."
+221. "un cours obligatoire sur l'utilisation, sur les enjeux, les biais, tout ça."
+222. "je dirais. honnêtement c'était aussi un peu savoir comment ça se passe, est-ce que je peux apprendre de nouvelles techniques et en fait j'ai beaucoup plus appris sur la manière dont c'est construit, qu’est-ce que c'est un algorithme pardon, et ça je pense que c'est quelque chose qui peut vraiment aider les pratiques."
+223. **réglementation et lutte contre l'utilisation de l'ia** :
+224. "si tu devais suggérer une amélioration de la manière d'intégrer le chat-gpt dans les études, ce serait plus."
+225. "ce serait, par exemple, rendre un cours obligatoire sur l'utilisation, sur les enjeux, les biais, tout ça."
+226. "il y a un autre élément, mais on pourra de nouveau en discuter pendant un moment."
+227. ces thématiques et verbatims permettent d'explorer en profondeur les dimensions sociologiques liées à l'utilisation de l'ia dans le contexte académique et économique, en mettant en lumière les défis, les opportunités et les responsabilités qui en découlent

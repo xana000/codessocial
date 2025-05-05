@@ -40,7 +40,7 @@ def extract_themes(api_key, text):
 # Fonction principale
 def main():
     api_key = load_api_key()
-    pdf_path = './data/KanakoINOUE.pdf'  # Adapter au nom réel de ton fichier
+    pdf_path = './data'  # Adapter au nom réel de ton fichier
 
     if not os.path.exists(pdf_path):
         raise FileNotFoundError(f"Le fichier {pdf_path} n'existe pas.")
