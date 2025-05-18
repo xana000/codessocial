@@ -1,0 +1,121 @@
+1. ### thématiques intéressantes pour une analyse sociologique
+2. **adoption et utilisation de la technologie**
+3. **perception et compréhension de l'ia**
+4. **impact sur l'intégrité académique**
+5. **interaction homme-machine**
+6. **évolution et potentiel de l'ia**
+7. **rôle et responsabilité de l'utilisateur**
+8. ### verbatims associés à ces thèmes
+9. #### 1. adoption et utilisation de la technologie
+10. "un outil qui est là pour aider et donner un coup de main" (p. 3)
+11. "en deuxième année, des collègues ont commencé à m’en parler : “c’est un outil magnifique, il faut l’utiliser, c’est essentiel.”" (p. 5)
+12. "ça me permet d’envoyer des documents, ce que je ne pouvais pas faire avant." (p. 4)
+13. "on peut apprendre énormément en restant chez soi, juste avec un téléphone." (p. 6)
+14. "ça prendrait beaucoup de temps de retrouver dans quel module ce cours se trouvait, et en quelle année." (p. 12)
+15. "c’était plus rapide de demander à chatgpt." (p. 12)
+16. #### 2. perception et compréhension de l'ia
+17. "pour moi, chatgpt est surtout là pour m'aider à trouver des idées ou à rédiger." (p. 3)
+18. "je trouvais ça délirant, incroyable. jamais je n'avais imaginé qu'un outil comme ça pourrait m'aider." (p. 3)
+19. "c'est clair. par exemple, mon copain, qui est à l'heg, utilise chatgpt depuis le début de sa formation." (p. 4)
+20. "ils collectionnent sûrement des données, mais c’est quand même génial." (p. 4)
+21. "un moteur de recherche hyper puissant" (p. 12)
+22. "mais je ne l’utilise pas comme une aide-mémoire." (p. 12)
+23. #### 3. impact sur l'intégrité académique
+24. "en master, on nous a clairement dit : “vous avez intérêt à ne pas utiliser chatgpt.”" (p. 6)
+25. "çala fait longtemps qu’il faut faire attention aux sources de chatgpt" (p. 11)
+26. "ça donnes l’impression qu’ils ne font pas confiance à notre capacité à l’utiliser correctement" (p. 6)
+27. #### 4. interaction homme-machine
+28. "ça m'aide à structurer mon discours et à savoir à quel moment parler de la problématique, de qui sont les bénéficiaires, de notre action, etc." (p. 10)
+29. "chatgpt est un outil, et c’est à nous de l’utiliser correctement." (p. 13)
+30. "c’est arrivé plus vite que prévue" (p. 4)
+31. "ça donne l’impression qu’ils ne font pas confiance à notre capacité à l’utiliser correctement" (p. 6)
+32. #### 5. évolution et potentiel de l'ia
+33. "je pense qu'il peut encore faire des choses plus incroyables." (p. 4)
+34. "il me propose des pistes et des idées, ce que je trouve super utile." (p. 6)
+35. "ça, je trouve ça incroyable." (p. 4)
+36. "supérieur à l'humain ? c'est une question compliquée." (p. 4)
+37. #### 6. rôle et responsabilité de l'utilisateur
+38. "pour les interactions humains ou l’empathie, il reste des limites importantes" (p. 6)
+39. "il me laissait décider de ce que j’allais en tirer" (p. 10)
+40. "je mélange toujours à ma manière" (p. 11)
+41. "chatgpt est un outil, et à nous de l’utiliser correctement. il ne fait que ce qu’on lui demande" (p. 13)
+42. ces thèmes et verbatims mettent en lumière les différentes facettes de l'utilisation de chatgpt par les étudiants, ainsi que leurs perspectives sur l'ia et ses implications dans le contexte académique
+43. ### thématiques intéressantes pour une analyse sociologique
+44. **impact de chatgpt sur le travail universitaire et l'apprentissage**
+45. **gestion du temps et de l'organisation académique**
+46. **dépendance à la technologie et compétences métacognitives**
+47. **perception de la compétence et de la réussite académique**
+48. **aspects éthiques de l'utilisation de chatgpt**
+49. **biais et stéréotypes dans les réponses de chatgpt**
+50. **tensions et dilemmes liés à l'utilisation de chatgpt**
+51. **rôle de chatgpt dans la compréhension des tâches académiques**
+52. ### verbatims associées à ces thèmes
+53. #### 1. impact de chatgpt sur le travail universitaire et l'apprentissage
+54. "déjà, au lieu de me retrouver paumée devant une feuille blanche sur word, à réfléchir et me demander par quoi commencer, chatgpt m’aide à me lancer. rien que ça, c’est un gain de temps énorme."
+55. "parfois, ses réponses ne vont pas dans la direction que je veux. donc ce que je fais, c’est rédiger moi-même mes idées principales, puis lui demander de travailler à partir de ce point. ça m’oblige aussi à être plus claire avec moi-même, à mieux cerner ma pensée, et à prendre des décisions sur ce que je veux vraiment dire."
+56. "ça m’oblige à être plus claire avec moi-même, à mieux cerner ma pensée, et à prendre des décisions sur ce que je veux vraiment dire."
+57. "ça m’aide à mieux mieux comprendre les consignes et de me donner des idées sur la façon d’y répondre. par rapport au stress, je dirais que c’est un énorme coup de pouce. je sais que cet outil est là pour m’aider, et ça réduit considérablement mon stress."
+58. #### 2. gestion du temps et de l'organisation académique
+59. "chatgpt m’aide à clarifier les attentes et à organiser mon travail plus rapidement."
+60. "je pense que je suis plus efficace. j’ai l’impression que je comprends mieux les consignes et que je passe moins de temps à rédiger. parfois, je travaille bien à l’avance, mais il y a aussi des moments où je procrastine parce que je sais que chatgpt peut m’aider rapidement. ça dépend des tâches."
+61. "je commence mes travaux beaucoup plus tôt, parce que je sais que je ne serai pas seule face à ce blocage. ça me fait gagner du temps, mais aussi de l’énergie. c’est vraiment agréable."
+62. "ça m’a permis de libérer du temps pour mon week-end."
+63. #### 3. dépendance à la technologie et compétences métacognitives
+64. "je me méfie un peu de ses capacités à inventer ou à fournir des sources, donc je préfère limiter son utilisation à des aspects pratiques."
+65. "je pense que je suis assez bonne, mais si chatgpt ne me donne pas ce que je veux, c’est souvent parce que j’ai mal formulé ma demande."
+66. "je ne suis pas très scolaire de base, donc ça m’arrange."
+67. #### 4. perception de la compétence et de la réussite académique
+68. "et si j’ai une bonne note parce que j’ai utilisé chatgpt, tant mieux pour moi."
+69. "non, exactement. utiliser les outils à disposition ne fait pas de toi une moins bonne étudiante que ceux qui ne les utilisent pas, c’est bien ça ?"
+70. "je sais que chatgpt est là pour m’aider, et ça réduit considérablement mon stress."
+71. "j’ai moins d’anxiété, surtout pour commencer des travaux de rédaction."
+72. #### 5. aspects éthiques de l'utilisation de chatgpt
+73. "oui, dès le moment où ça m’aide, pour moi, c’est légitime."
+74. "on est d’accord, le but, c’est de rendre des travaux et d’obtenir un diplôme. dans le travail social, il n’y a pas que l’académique qui compte. être un bon travailleur social ne dépend pas uniquement de tes résultats sur papier."
+75. #### 6. biais et stéréotypes dans les réponses de chatgpt
+76. "moi, je ne l’ai jamais vécu avec chatgpt, donc ça me touche moins."
+77. #### 7. tensions et dilemmes liés à l'utilisation de chatgpt
+78. "il y a toujours un peu de stress. cela dit, je suis plus rassurée sur la qualité rédactionnelle grâce à chatgpt. mais si tu te trompes dans ton approche, tu te trompes quand même."
+79. "parce que je trouve que c’est un outil formidable. il m’aide beaucoup, il réduit mon anxiété et m’aide à produire des travaux de qualité. pour moi, ce n’est pas une dépendance problématique."
+80. #### 8. rôle de chatgpt dans la compréhension des tâches académiques
+81. "on l’utilisait principalement pour la reformulation. on était deux à rédiger, et quand on n’était pas satisfaites d’un passage ou d’un mot, on demandait à chatgpt de reformuler ou de nous donner d’autres idées."
+82. "chatgpt propose plusieurs solutions et pistes que je n’aurais peut-être même pas envisagées seule. c’est cet aspect qui est particulièrement intéressant."
+83. ces verbatims fournissent une riche matière pour une analyse sociologique approfondie des impacts et des implications de l'utilisation de chatgpt dans le contexte académique
+84. ### thématiques sociologiques et verbatims associés
+85. **utilisation des technologies dans le travail de l'assistance sociale**
+86. "en tant qu’assistante sociale, est-ce que tu utilises chatgpt pour rédiger les questions que tu poses aux personnes que tu rencontres en entretien ?"
+87. "oui, je l’utilise pour formuler les questions."
+88. **dilemmes moraux liés à l'utilisation de chatgpt**
+89. "ressens-tu des dilemmes moraux à utiliser chatgpt dans tes travaux ?"
+90. "au début, oui. il faut un certain temps d’adaptation."
+91. "je ne savais pas vraiment comment utiliser cet outil ni à quel point je pouvais en dépendre."
+92. "j’étais un peu gênée de dire que j’utilisais chatgpt pour mes travaux, même à mes proches."
+93. "je me demandais si c’était éthique d’utiliser chatgpt pour mes travaux."
+94. "est-ce que c’était acceptable d’en parler aux autres ou est-ce que je devais garder ça pour moi ?"
+95. **adoption et adaptation des pratiques académiques**
+96. "comment vois-tu l’impact des outils comme chatgpt sur les pratiques d’apprentissage dans les années à venir ?"
+97. "je pense que l’apprentissage par cœur va être remis en question."
+98. "aujourd’hui, avec ces outils si rapides, on ne se pose même plus la question d’apprendre par cœur."
+99. "cela devient moins pertinent."
+100. **transformations dans les modalités d'évaluation**
+101. "quelles transformations envisages-tu dans les modalités d’évaluation avec l’utilisation de chatgpt ?"
+102. "déjà, on remarque que dans nos travaux à psl, on nous demande moins de définitions et de par cœur, mais davantage de réflexion."
+103. "les professeurs s’adaptent, car ils savent que ces outils existent et peuvent nous aider à rédiger."
+104. "les questions posées vont devenir de plus en plus complexes, nécessitant davantage de réflexion critique."
+105. "on va moins nous demander de mémoriser des choses et plus de faire des recherches approfondies."
+106. **charge de travail et nouvelles formes d'évaluation**
+107. "avec cette complexité croissante, penses-tu que la charge de travail des étudiants va augmenter ?"
+108. "je ne suis pas sûre que la charge augmentera, mais elle pourrait s’équilibrer différemment."
+109. "on nous demandera de plus en plus de développer une pensée critique et de croiser des informations provenant de différentes sources."
+110. "et concernant les formes d’évaluation, l’écrit va-t-il perdre en importance ?"
+111. "oui, je pense que les évaluations orales prendront davantage de place, car elles permettent de mieux évaluer la réflexion et la pensée critique des étudiants."
+112. **défis des nouvelles méthodes d'évaluation**
+113. "quels défis vois-tu dans ces nouvelles méthodes, notamment pour les examens oraux ?"
+114. "il pourrait y avoir une perte de confiance envers les étudiants, ce qui pourrait amener à un retour à des examens sur table."
+115. "enseigner avec ces nouvelles formules pourrait aussi poser des défis, notamment en termes de coût et d’organisation. ce sera un gros chantier pour l’avenir."
+116. **intégration et gestion de chatgpt dans le cadre académiquque**
+117. "as-tu d’autres points à aborder concernant l’impact de chatgpt sur ta manière d’étudier ?"
+118. "l'académie doit faire face à la réalité. il ne faut pas ignorer l'existence de cet outil ni penser qu'il doit être banni."
+119. "ce qui me dérange, c’est qu'on me menace si je l’utilise, au risque d'avoir une mauvaise note ou que mon travail ne soit pas validé."
+120. "il faudrait examiner comment cet outil est intégré dans d’autres formations et même dans d’autres pays, et essayer de s’adapter ici à la hes."
+121. ces thèmes et verbatims peuvent servir de base pour une analyse sociologique approfondie sur l'impact des technologies comme chatgpt sur les pratiques académiques et professionnelles, ainsi que sur les dilemmes étiques et moraux associés à leur utilisation

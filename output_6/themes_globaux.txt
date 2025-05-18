@@ -1,12 +1,12 @@
 Top 10 des thématiques les plus fréquentes :
 
-1. **verbatims :** : 67 occurrences
-2. **verbatims** : : 6 occurrences
-3. verbatim : : 6 occurrences
-4. **verbatim** : : 5 occurrences
-5. ### thématiques sociologiques identifiées : 3 occurrences
-6. **transformation des pratiques d'apprentissage** : 3 occurrences
-7. ### thématiques sociologiques et verbatims associés : 3 occurrences
-8. ### verbatims associés : 3 occurrences
-9. "merci beaucoup" : 3 occurrences
-10. "merci pour votre intervention" : 3 occurrences
+1. **verbatims :** : 51 occurrences
+2. **verbatims** : : 21 occurrences
+3. **verbatims associés :** : 13 occurrences
+4. ``` : 12 occurrences
+5. **transcription:** : 9 occurrences
+6. **verbatims**: : 8 occurrences
+7. **verbats :** : 8 occurrences
+8. ### thématiques intéressantes pour une analyse sociologique : 7 occurrences
+9. ### thématiques sociologiques et verbatims associés : 7 occurrences
+10. **verbatim associés :** : 7 occurrences

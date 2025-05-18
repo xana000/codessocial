@@ -1,46 +1,26 @@
-1. ### thématiques sociologiques et verbatims associés
-2. **parcours universitaire et origines sociales**
-3. **parcours universitaire**
-4. "maëlys hamart, j'ai 23 ans et je suis en master de sociologie contemporaine à l'ens université paris-saclay"
-5. "avant ça, j'ai fait une licence de communication..."
-6. **origines sociales**
-7. "moi, j'ai une mère qui est dans l'administratif, qui travaille dans la fonction publique. et mon père est ingénieur réseau pour une banque privée."
-8. **utilisation de chatgpt et intériorisation de la technologie**
-9. **présentation de chatgpt**
-10. "l'intelligence artificielle, c'est un ordinateur qui a de grandes ressources et de grandes connaissances sur beaucoup de sujets..."
-11. **motifs d'utilisation**
-12. "la rapidité de recherche et d'information."
-13. "je n'utilise pas tous les jours mais je pense que j'utilise au moins toutes les semaines..."
-14. **impact sur la méthodologie de travail**
-15. "au lieu d'utiliser directement google, j'utilise peut-être plus chatgpt."
-16. "ça m'aide un peu à organiser des idées."
-17. **gestion des échéances et stress**
-18. "ça m'aide parce que ça mâche un peu le travail."
-19. "ça m'aide à aller plus vite."
-20. **frustrations et limites**
-21. "en fait, il donnait des fausses sources en fait, des exemples et qu'il n'y avait pas vraiment des vrais travaux sociologiques ou des vrais articles."
-22. "ça peut être un peu frustrant quand on est sur une bonne voie dans quelque chose, dans un sujet."
-23. **conception de l'apprentissage et de l'éducation**
-24. **rôle de chatgpt comme accompagnant**
-25. "ça c'est comme avoir un petit prof avec nous et qui nous aide vraiment."
-26. "c'est vraiment un point très fort, l'accessibilité aussi."
-27. **enjeux éthiques**
-28. "ça pollue pas mal et surtout au niveau rgpd, je sais que c'est pas... en général, j'essaye de pas mettre évidemment de données trop sensibles..."
-29. **représentation de chatgpt dans le cadre académique**
-30. "dans le cadre professionnel, ça peut être non acceptable."
-31. "dans le cadre personnel, ça peut être non acceptable."
-32. **dilemmes moraux**
-33. "je me sens mal dans le travail, en me disant peut-être que le prof va s'en rendre compte."
-34. **évolution des pratiques d'apprentissage et d'éducation**
-35. **transformation des pratiques**
-36. "je me dis que dans certaines filières, ça peut être vraiment utile."
-37. "ça aide à clarifier les attentes liées aux projets académiques."
-38. **formation et développement des compétences**
-39. "on devrait nous apprendre à l'utiliser mieux pour éviter les gens qui font vraiment trop de copier-coller."
-40. **comparaison et synthèse des diverses utilisations de la technologie**
-41. **comparaison avec google**
-42. "j'utilise peut-être plus chatgpt."
-43. **personnalisation et adaptation**
-44. "je fais toujours un peu attention. surtout, comme maintenant, je sais que les citations sont bidons."
-45. "je ne fais pas trop d'efforts. je lui demande vraiment comme je l'entends."
-46. ces thématiques permettent d'appréhender comment les étudiants intériorisent et utilisent les nouvelles technologies dans leur parcours académique, les implications éthiques et les transformations potentiellement induites par ces outils dans les pratiques d'apprentissage
+1. ### thématiques sociologiques et verbatim
+2. **études et parcours académique**
+3. "je m'appelle maëlys hamart, j'ai 23 ans et je suis en master de sociologie contemporaine à l'ens université paris-saclay. c'est ma dernière année."
+4. "avant ça, j'ai fait une licence de communication et en fait je me suis redirigée après vers ce master-là parce que l'aspect sociologique que j’avais vu dans la communication en fait m'intéressait."
+5. "je dirais que maintenant, au lieu d'utiliser directement google, j'utilise peut-être plus chatgpt."
+6. **usage et perception de la technologie**
+7. "ma relation à la technologie est bonne puisque je suis dans une génération qui a quand même baigné dedans depuis tout petit."
+8. "dans ma filière, on utilise beaucoup de logiciels divers? non, pas forcément. à part les logiciels de base pour apprendre des notes en cours ou bien certains sites reliés à notre formation."
+9. **utilisation de chatgpt**
+10. "pour moi, l'intelligence artificielle, c'est un ordinateur qui a de grandes ressources et de grandes connaissances sur beaucoup de sujets et à qui on peut demander plein de choses et toujours avoir une réponse."
+11. "il y a des fois où chatgpt m'aide à avoir des informations rapidement, par exemple sur une simple question, du genre, qui est cet auteur sociologique, pour avoir une petite biographie rapide."
+12. "je n'utilise pas vraiment pour rédiger, parce que j'ai quand même des facilités à rédiger."
+13. **impact sur le travail et le temps**
+14. "chatgpt, c'est un peu comme un petit assistant, donc c'est vrai que je passe moins de temps à travailler."
+15. "je pense que chatgpt m'aide à être plus rassurée sur les deadlines, des rendus, etc."
+16. **dépendances et dépendance technologique**
+17. "je pense qu'il y a des matières où je vais avoir besoin de chatgpt parce que ce sera plutôt pour des projets."
+18. "je pense que ça m'aide parce que ça mâche un peu le travail."
+19. **éthique et intégration académique**
+20. "au début, peut-être un peu. en fait, ça va dépendre à quel point mon travail a été influencé par le chatgpt ou non."
+21. "on devrait nous apprendre à l’utiliser mieux pour éviter les gens qui font vraiment trop de copier-coller."
+22. **prévisions et impact futur de l'ia**
+23. "je me dis que dans certaines filières, ça peut être vraiment utile. je pense aux filières scientifiques ou peut-être rien que, je ne sais pas, pour des formules mathématiques ou des formules chimiques."
+24. "je pense qu'il faut faire attention aux enjeux éthiques et à l'utilisation de chatgpt."
+25. ### conclusion
+26. ces extraits de l'entretien permettront une analyse sociologique approfondie sur l'intégration de l'intelligence artificielle dans les pratiques académiques, les perceptions et usages par les étudiants, ainsi que les implications éthiques et pédagogiques de ces outils. les verbatims soutiennent ces thématiques en offrant des perspectives concrètes sur l'expérience vécue par maëlys, une étudiante en sociologie contemporaine

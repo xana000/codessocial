@@ -1,125 +1,128 @@
-1. découle de l'analyse du texte, plusieurs thématiques sociologiques peuvent être identifiées. voici les thématiques et les verbatims associés :
-2. ### 1. **utilisation de l'ia dans l'apprentissage et le travail**
-3. **chat gpt comme outil d'apprentissage** :
-4. "un outil. qui est pas... qui n'est pas non plus fiable à 100%, mais qui, dans certains domaines notamment… technique. quand je dis technique, je pense surtout à genre de la prog ou des trucs comme ça, où c'est là où il est très... fin chat gpt."
-5. "il me permet de réécrire des parties de rapports parce que… bon là c'est un peu par flemme mais c'est pas une très bonne chose mais c'est que des fois j'ai pas envie de passer 15 minutes à réfléchir comment est-ce que je pourrais dire ça bien et clairement alors que je pourrais juste l'écrire comme je le pense qui est pas forcément clair mais suffisamment clair pour que chat gpt le comprenne et puis je le rephraser d'une meilleure manière."
-6. **fiabilité et vérification des réponses** :
-7. "il y a plein de gens qui disent qu’avec l’ia, il y a plein de… les gens réfléchissent plus, ils demandent juste et tout. donc il faut quand même faire l'effort de… faut pas juste demander à une ia et prendre sa réponse, mais il faut quand même avoir de la réflexion derrière pour comprendre."
-8. "j'estime que c'est un peu de la même manière que tu ferais avec des médias, quand tu t'informes tu… tu pars pas du principe que ce qu'on t'a dit c'est une vérité absolue."
-9. ### 2. **impact de l'ia sur la productivité et la qualité du travail**
-10. **gain de temps et efficacité** :
-11. "d'accord, on va dire que ça dépend de l'importance. genre ouais, est-ce que la réponse... qu'est-ce que c'est ? est-ce que c'est la réponse directe ? est-ce que c'est juste pour... est-ce que c'est juste pour…"
-12. "d'accord, on va dire que ça dépend de l'importance. genre ouais, est-ce que la réponse... qu'est-ce que c'est ? est-ce que c'est la réponse directe ? est-ce que c'est juste pour..."
-13. **qualité du travail** :
-14. "mais je l'utilise souvent pour, dans des rapports, pour réécrire des parties de rapports parce que… bon là c'est un peu par flemme mais c'est pas une très bonne chose mais c'est que des fois j'ai pas envie de passer 15 minutes à réfléchir comment est-ce que je pourrais dire ça bien et clairement alors que je pourrais juste l'écrire comme je le pense qui est pas forcément clair mais suffisamment clair pour que chat gpt le comprenne et puis je le rephraser d'une meilleure manière."
-15. " il y a la qualité et l'efficacité. par exemple, souvent quand tu lis des cours et y a genre 4 mots et les 4 tu n'es pas sûr de la définition. au lieu de taper 4 recherches google et de batailler pour trouver une source où il n'y a pas 18 pubs sur le site et la définition occupe 2% de la page. tu enregistres copie, colle, donne-moi la déf et tu as les 4 définitions."
-16. ### 3. **éthique et responsabilité dans l'utilisation de l'ia**
-17. **équilibre entre assistance et dépendance** :
-18. "ouais, c'était pendant le bachelor, que ce soit à lausanne ou au danemark. mais il y a when même, de nouveau, c'est que dans certains domaines, y a les gens qui se posent pas vraiment la question de la fiabilité. ils se fieront directement aux résultats. et donc y a des conséquences."
-19. "à chat gpt et que, en fonction de la réponse, je vais prendre du temps à chercher. et voir, par réflexe, si je sais en moi que c'est un choix décisif, j’vais pas demander à chat gpt, mais je vais chercher d'abord."
-20. ### 4. **réflexion critique et adaptation des réponses de l'ia**
-21. **méthodes de vérification** :
-22. "donc tu vas faire tes recherches de ton côté, ou tu vas comparer avec ton cours, ou tu cherches d'autres sources. et de nouveau, c'est un peu difficile quand c'est des sujets très spécifiques et tu trouves un peu rien à part des rapports académiques de 500 pages et t'as pas le temps de tout lire."
-23. "si je demande à chat gpt et que, en fonction de la réponse je vais faire un choix décisif sur un projet, je vais prendre du temps à chercher. et voir, par réflexe, si je sais en moi que c'est un choix décisif, j’vais pas demander à chat gpt, mais je vais chercher d'abord."
-24. ### 5. **expérience utilisateur et satisfaction**
-25. **frustration et difficultés** :
-26. "non, jamais de la frustration, mais jamais à cause du chat gpt. j'ai vu les moments où j'aurais pu être frustré mais c'est quand ça fait 3h que tu codes et qu'il y a rien qui marche. mais là ce qui te rend fou c'est le code qui marche pas."
-27. "soit tu lui demandes j'aimerais bien faire ça avec cet outil et il va te dire comment faire, soit tu vas dire j'aimerais bien faire ça, est-ce que je peux le faire et là… tu lui laisses un peu de marge et il te donne 4 manières de le faire."
-28. ces thématiques et verbatims permettent d'explorer les différentes dimensions de l'impact de chat gpt sur le travail et l'apprentissage, tout en mettant en lumière les réflexions critiques et les pratiques d'adaptation chez les utilisateurs
-29. voici les thématiques intéressantes pour une analyse sociologique et les verbatims associés à partir de l'entretien :
-30. ### 1. utilisation et perception de chat gpt dans le contexte éducatif
-31. **remplacement des ressources humaines par chat gpt**
-32. "c'est un peu le même niveau que... t'as un cours de prog. j'avais ça au danemark et... en gros... le code est tellement... long et incompréhensible que t’sais les assistants ils sont là mais ils peuvent pas faire grand chose. [...] et il nous a répondu, « il doit y avoir un problème avec votre code »."
-33. "il y a assez peu d'assistants pour beaucoup d'élèves, j'aurais quand même le réflexe de d'abord regarder sur demander à chat gpt et de voir ce qu’il me dit."
-34. **efficacité et préférence pour chat gpt**
-35. "en fait, ça m'a peut-être amené à avoir moins de... c'est plus compliqué de prendre le temps de lire et comprendre quelque chose. et il y a un peu cette solution de facilité."
-36. "quand tu commences quelque chose, quand tu commences à apprendre quelque chose de nouveau, tu as tendance à vouloir aller trop vite et à sauter les bases. et avec chat gpt, encore plus."
-37. ### 2. impact sur le processus d'apprentissage
-38. **risques d'abus et dépendance**
-39. "chat gpt, il a les bases et il peut t'aider sur la partie où toi t'as pas les bases. si tu n'as pas les bases, sans chat gpt, tu ne vas rien faire."
-40. "je me serais dit, ah ouais, je suis un peu une merde quand même. j'ai pas fait d'efforts."
-41. **répercussions sur la compréhension et l'apprentissage**
-42. "typiquement dans des cours de prog où ça se ressemble. mon cours de c++, typiquement, où à l'examen, au début de l'examen, je n'avais aucune idée. je ne pouvais rien t'expliquer en c++."
-43. "j'ai quand même remarqué qu'il y a des fois où je suis tombé dans ce cas là, c'était ma fondation. gc gang. et c'est pas agréable. t'es bien parce que tu fais moins d'efforts mais quand tu te rends compte de ça, c'est pas un sentiment agréable."
-44. ### 3. contexte culturel et linguistique
-45. **préférence et habitudes linguistiques**
-46. "en fait, bah déjà ça dépend de... parce qu'il y a des mots qui existent en anglais mais pas en français. et en français en fait le mot tu dois le remplacer par une phrase entière. donc dans ces moments-là, je réfléchis en anglais, je l'écris en anglais."
-47. "je faisais un effort conscient pour l'écrire en français. parce qu'il y a certains mots, enfin j'ai plus de conscience de la signification des mots en français qu'en anglais."
-48. ### 4. normes et acceptabilité socio-culturelle
-49. **normalisation de l'utilisation de chat gpt**
-50. "on va dire ce que je comprends pas, c'est les gens qui se battent contre. parce que... enfin pour moi c'est juste perdu d'avance. et que... c'est un peu devenu une norme."
-51. "tout le monde l'utilise. on va dire ce que je comprends pas, c'est les gens qui se battent contre. parce que... enfin pour moi c'est juste perdu d'avance. et que... c'est un peu devenu une norme."
-52. ### 5. inégalités et accès aux technologies
-53. **différences entre utilisateurs**
-54. "je sais pas, l'avantage il se faisait ressentir à ce moment là entre le 4.0 et le 3.5 parce que le 4.0 tu pouvais lui donner des pdf et des documents qu'il pouvait lire. alors que le 3.5 je crois pas que tu pouvais."
-55. "il y a quand même une version gratuite qui n'est pas... ce n'est pas le fond du tiroir non plus. donc t'as pas non plus un avantage de fou."
-56. ### 6. ethique et intégrité personnelle
-57. **conflit entre utilisation et intégrité**
-58. "je me serais dit, ah ouais, je suis un peu une merde quand même. j'ai pas fait d'efforts."
-59. "c'est un peu le feeling de... peut-être t'as fait une connerie mais... mais ça fait du bien. genre t'es content d'avoir fait cette connerie. t'sais un peu comme quand t'es enfant. [...] et t'es en mode, wouah putain, trop bien."
-60. ces thématiques et verbatims permettent d'explorer divers aspects de l'impact de chat gpt sur les pratiques éducatives, les habitudes d'apprentissage, et les perceptions sociales et éthiques des étudiants
-61. les thématiques intéressantes pour une analyse sociologique à partir de ce texte sont les suivantes :
-62. **utilisation des technologies éducatives (chat gpt et intelligenze artificielle)** :
-63. "chat gpt par rapport aux cours"
-64. "c'est le seul cours où on avait le droit, en théorie"
-65. "tu t'es sur eduroam. sauf qu'ils bloquaient ton adresse de l'uni là."
-66. "c'était dit noir sur blanc qu'on a le droit."
-67. "ça m'est pas arrivé."
-68. "parce qu'en fait, il y a d'autres cours où il se trouve que sans faire exprès, j'avais contourné leur blocage wi-fi."
-69. "pendant les exas j'avais accès à internet."
-70. "ça m'est pas arrivé."
-71. "en fait, tu t'es sur eduroam. sauf qu'ils bloquaient ton adresse de l'uni là."
-72. **motivation et intérêt pour les cours** :
-73. "les cours qui ne m'intéressent pas, je ne les suis pas et je lui demande, fais-moi un résumé, explique-moi ça, explique-moi ça."
-74. "explique moi les bases du cours aide moi à ne pas faire de la merde à l'exam, à sauver les meubles."
-75. "je vais essayer de comprendre la base, je vais aller en cours, je vais lire par moi-même et les moments où ça va pas être clair je vais dire ok explique moi plus précisément ça, pourquoi est-ce que ça ça marche pas, pourquoi est-ce que ça ça marche."
-76. "un cours qui m'intéresse, je vais essayer de comprendre la base, je vais aller en cours, je vais lire par moi-même et les moments où ça va pas être clair je vais dire ok explique moi plus précisément ça, pourquoi est-ce que ça ça marche pas, pourquoi est-ce que ça ça marche."
-77. **impact du stress sur l'apprentissage** :
-78. "peut-être dans la révision, quand tu suis un cours par exemple qui t'intéresse, en comparaison par exemple avec un cours qui ne t'intéresse pas, est-ce que..."
-79. "est-ce que du coup je me rends compte... enfin, est-ce que t'as déjà observer le fait que le chat gpt, ça a pu réduire ton stress par rapport à un rendu ou par rapport à une révision d'un examen ou des choses comme ça ?"
-80. **dépendance et autonomie** :
-81. "non... pas jusqu'à une dépendance. je n'en suis jamais arrivé à ce point-là..."
-82. "...et vraiment... enfin... je suis un peu un menteur. j'en suis arrivé à ce point-là mais typiquement pour le c++."
-83. "est-ce que c'est un peu comme quand tu passes de conduire tout le temps avec ton moniteur d'auto-école et que d'un coup t'as ton permis et que t'es tout seul."
-84. "t'es en mode... y a plus de... le filet de sécurité... t'es moi."
-85. **changement de méthodologie et habitat d'étude** :
-86. "mais du coup, il y a des fois où tu peux t'apercevoir que chat gpt, ça a modifié ta manière de travailler ?"
-87. "est-ce qu'il y a une utilisation qui ressortait plus que l'autre ou c’était un peu... "
-88. "est-ce que tu te souviens de peut-être ton état d'esprit un peu à ces moments-là ? est-ce que si t'étais par exemple sous stress, est-ce que t'étais juste tranquille ? est-ce que t'avais du temps ? est-ce que t'avais particulièrement pas de temps?"
-89. **rôle des technologies dans la réduction du stress académiue** :
-90. "mais est-ce qu’il y a en terme d'avantage que ça peut t'apporter ? ouais, mais en fait, genre j'ai... c'est un peu comme si ça avait... euh... changer la... la baseline."
-91. "j’pense que t'as un niveau de stress qui est plus bas parce que t'es en mode j’ai un rendu dans deux jours t'as un thème que j'ai pas compris, je vais demander à chat gpt et je vais être mieux tu vois."
-92. "c'est un peu comme si chat gpt avait changé ton niveau de stress."
-93. "un cours de shs où ça avait rien changé."
-94. "voilà. c'est-à-dire qu'on s'était retrouvés dans la merde."
-95. ces thématiques permettent de comprendre comment les technologies modernes influence les habitudes d'étude, la motivation et le stress des étudiants, ainsi que l'évolution de leurs méthodes d'apprentissage
-96. voici les thématiques intéressantes pour une analyse sociologique et les verbatims associés à ces thèmes :
-97. ### 1. **adoption et usage des technologies numériques dans l'éducation**
-98. **thématique** : l'impact de chatgpt sur les habitudes d'étude des étudiants
-99. **verbatim** : "le fait de plus aller en amphi, tu vois."
-100. **verbatim** : "je comprends pas trop."
-101. **verbatim** : "chat gpt te fait moins aller en amphi parce que t'as moins besoin d'aller à des cours pour lesquels t'as pas l'énergie ?"
-102. **verbatim** : "je vois pas de raison de pas l'utiliser. donc... en un mot, légitime, tu vois."
-103. ### 2. **habitudes et pratiques d'apprentissage en milieu académique**
-104. **thématique** : la fréquence et la manière dont chatgpt est utilisé par les étudiants
-105. **verbatim** : "tous les jours."
-106. **verbatim** : "en termes de quantité... quand j'étais à l'uni, mais dans un contexte de travail tu vois, parce que quand tu bois ton café, que tu manges à midi, c'est un peu en dehors de ça mais c'est au moins une fois par heure je pense."
-107. **verbatim** : "dans ton quotidien ? je pense de 3 à 4 fois par semaine."
-108. ### 3. **impact des technologies sur les modes d'évaluation**
-109. **thématique** : les défis posés par chatgpt pour l'évaluation des étudiants
-110. **verbatim** : "du côté des profs, de l'évaluation du travail, c'est là où il va falloir pointer correctement, savoir évaluer la compréhension et pas le savoir. dans le sens où tu peux le savoir et pas le comprendre."
-111. **verbatim** : "je pense que c'est du côté des profs, de l'évaluation du travail, c'est là où il va falloir pointer correctement, savoir évaluer la compréhension et pas le savoir."
-112. ### 4. **perception sociale et légitimité des outils technologiques**
-113. **thématique** : la perception des étudiants sur l'utilisation de chatgpt
-114. **verbatim** : "à la page. à jour. genre c'est..."
-115. **verbatim** : "je vois pas de raison de pas l'utiliser."
-116. **verbatim** : "en effet, y'en a qui vont plus apprendre."
-117. ### 5. **évolution des pratiques pédagogiques et d'apprentissage**
-118. **thématique** : l'impact futur de chatgpt sur les pratiques pédagogiques et d'apprentissage
-119. **verbatim** : "est-ce que tu penses que des outils comme chat gpt, ça va transformer les pratiques d'apprentissage dans le futur ? enfin dans les prochaines années plutôt, et puis si oui comment ? et puis autant du côté des profs que des étudiants, des personnes qui étudient."
-120. **verbatim** : "je pense que oui. mais... en tout cas du côté des élèves, à mon avis c'est... c'est un... en fait c'est... il va pas apprendre à ta place, donc... donc, in fine, c'est toujours toi qui vas devoir apprendre. donc, pour moi, c'est juste une source d'information supplémentaire."
-121. ### 6. **médias et diffusion des technologies**
-122. **thématique** : la découverte et la diffusion de chatgpt via les médias et les réseaux sociaux
-123. **verbatim** : "on en entendait beaucoup parler parce que... c'est un peu le moment où openai a... a vraiment fait parler d'eux. où les médias se sont plus intéressés à eux."
-124. **verbatim** : "ça a commencé à... je crois que c'est passé au... on en entendait beaucoup parler parce que... c'est un peu le moment où openai a... a vraiment fait parler d'eux."
-125. ces thématiques permettent d'explorer comment les nouvelles technologies comme chatgpt influencent les pratiques académiques, les habitudes d'apprentissage des étudiants, et les processus d'évaluation. elles mettent également en lumière les perceptions sociales et la légitimité des outils technologiques, ainsi que l'impact potentiel sur l'avenir de l'éducation
+1. ### thématiques d'analyse sociologique et verbatim associés
+2. #### 1. **impact de chat gpt sur le travail et l'apprentissage**
+3. **verbatim associés :**
+4. « un outil... très utile... simplifier des tâches » (00:03:28-00:04:00)
+5. « et faut quand même... comprendre » (00:04:35-00:04:47)
+6. « je vais quand même avoir un choix décisif sur un projet, je vais prendre du temps à chercher » (00:08:23,643-00:08:30,267)
+7. « [...] ça me fait quand même [...] gagné du temps » (00:10:37,423-00:12:51,661)
+8. #### 2. **fiabilité et précision des répenses de chat gpt**
+9. **verbatim associés :**
+10. « qui n'est pas fiable à 100% mais qui... très... utile » (00:03:02-00:04:00)
+11. « des fois c'est pas complètement fiable » (00:05:02-00:05:03)
+12. « je vais comparer avec ton cours » (00:05:21-00:05:27)
+13. « on est d'accord c'est... centré sur chat gpt [...] on ne va pas trop... sur la qualité du point de vue de la qualité » (00:10:34,…-00:10:35,…)
+14. #### 3. **utilisation pratique de chat gpt**
+15. **verbatim associés :**
+16. « je l'utilise souvent pour réécrire des parties de rapports » (00:10:44-00:10:48)
+17. « quand tu demandes à chat gpt genre [...] d'améliorer le mail il va te réécrire un mail avec une structure complètement différente » (00:19:34-00:19:48)
+18. #### 4. **évaluation et vérification des informations**
+19. **verbatim associés :**
+20. « tu vas chercher dans le même thème que le thème de la question » (00:05:59-00:06:11)
+21. « le prof ou un expert, quelqu'un qui connaît le sujet » (00:06:07-00:06:12)
+22. « si chat gpt me donne une réponse très floue, je vais chercher moi-même » (00:14:48-00:14:53)
+23. #### 5. **accessibilité et efficacité des répenses de chat gpt**
+24. **verbatim associés :**
+25. « c'est un peu par flemme mais c'est pas une très bonne chose » (00:10:56-00:11:00)
+26. « t'sais [...] si j'ai la flemme [...] j’vais pas demander à chat gpt mais je vais chercher d'abord » (00:07:33-00:08:23)
+27. « [...] je sais pas [...] j'ai pas envie de passer 15minutions à réfléchir »
+28. #### 6. **contribution à la compréhension et à l'apprentissage**
+29. **verbatim associés :**
+30. « [...] ça t'amène à découvrir d'autres approches parce que lui il sait pas que tu vas utiliser la solution » (00:21:25-00:21:46)
+31. « il écrit les solutions ce que tu sais pas et ça peut t’enseigner dessus » (00:21:47,385-00:23,276)
+32. #### 7. **frustration et limitations de l'utilisation de chat gpt**
+33. **verbatim associés :**
+34. « non, jamais de la frustration [...] mais c'est quand ça fait trois heures que tu codes et qu'il n'y a rien qui marche » (00:23:47,348-00:24:03,737)
+35. « souvent il est en fil de la discussion donc il y a déjà le contexte qui est posé » (00:22:59-00:23:00)
+36. ces thèmes permettent d'explorer diverses dimensions de l'impact de chat gpt sur l'apprentissage et le travail, ainsi que les perceptions et pratiques des utilisateurs concernant la fiabilité, la précison, l'efficacité, et les limitations de cet outil
+37. ### thématiques sociologiques intéressantes à partir du texte
+38. **utilisation de l'intelligence artificielle dans l'éducation**
+39. **verbatims** :
+40. "c'est un outil et c'est un outil qui a ses défauts et ses avantages donc si tu l'utilises dans les contextes où il est fort allons-y, mais t'utilises pas de chat gpt pour résoudre des problèmes relationnels."
+41. "si quelqu'un faisait ça, je lui dirais qu'il est con, qu'il n'a rien compris."
+42. "ça m'a peut-être amené à avoir moins de... c'est plus compliqué de prendre le temps de lire et comprendre quelque chose. et il y a un peu cette solution de facilité."
+43. **impact de l'intelligence artificielle sur le processus d'apprentissage**
+44. **verbatims** :
+45. "qu'est-ce que tu trouves pas terrible ? bah... en fait, le fait de... je sais pas, c'est un peu... t'as pas le temps d'avoir le temps, dans le sens où... en fait, typiquement... quand ça fait... t'as fait un 8h, 18h, et t'es à la fin de journée, t'es en train de faire une série d'exos, et... t’as un exercice, tu comprends rien du tout... t’sais t'as pas envie de... t'as pas la force de dire « mmmh je vais aller lire cette théorie de 15 pages », voire même 5, c'est pas non plus énorme. mais pour comprendre et je vais regarder, comprendre et je vais pouvoir faire l'exercice."
+46. "le pas terrible ça correspond, c'est ce que tu utilisais pour... genre t'es dans une situation de pas terrible en mode t'es fatigué, c'est ça que tu voulais dire ?"
+47. **normes et acceptabilité de l'utilisation de chat gpt**
+48. **verbatims** :
+49. "des fois, quand c'est vraiment automatique, je l'écris en anglais, mais des fois, je commence à réfléchir et je... bah oui, en fait..."
+50. "puis peut-être encore si tu te compares un peu à d'autres personnes, par exemple. est-ce que t'avais des gens dans ton entourage qui n'utilisaient pas chat gpt ? ou utilisaient moins, ou utilisaient différemment ?"
+51. **différences entre les générations et les contextes d'utilisation de l'intelligence artificielle**
+52. **verbatims** :
+53. "à part mes parents, non."
+54. "plus je vais pas te... quelque soit la chose que tu lui demandes ou que tu fasses avec chat gpt, je vais pas être là en mode je vais pas comprendre."
+55. "ôte peut-être encore si tu te compares un peu à d'autres personnes, par exemple. est-ce que t'avais des gens dans ton entourage qui n'utilisaient pas chat gpt ? ou utilisaient moins, ou utilisaient différemment ?"
+56. **expérience et perception de l'avantage concurrentiel**
+57. **verbatims** :
+58. "moi c'est tout à fait compréhensible que tout le monde l'utilise. [...] on a quand même une version gratuite qui n'est pas... ce n'est pas le fond du tiroir non plus. donc tu as pas non plus un avantage de fou."
+59. "l'avantage il se faisait ressentir à ce moment là entre le 4.0 et le 3.5 parce que le 4.0 tu pouvais lui donner des pdf et des documents qu'il pouvait lire. alors que le 3.5 je crois pas que tu pouvais."
+60. **évolution de l'usage des outils numériques dans les études**
+61. **verbatims** :
+62. "mais ba haha, c'est quand même un truc sur lequel j'essaie… je suis un peu tombé dedans et je l'ai remarqué et du coup j'essaie quand même de limiter."
+63. "si c'était un cours où j'avais beaucoup d'intérêt et que j'avais fait ça, je me serais dit, ah ouais, je suis un peu une merde quand même. j'ai pas fait d'efforts."
+64. **langage et adaptation culturelle**
+65. **verbatims** :
+66. "de... parce qu'il y a des mots qui existent en anglais mais pas en français. et en français en fait le mot tu dois le remplacer par une phrase entière. donc dans ces moments-là, je réfléchis en anglais, je l'écris en anglais."
+67. "c'est un peu que même un peu l'impression d'être arrogant en disant ça, mais vu que j'étais au danemark pendant un an, et qu'en un an, tous les cours étaient en anglais, donc tous les exos étaient en anglais, toute la théorie était en anglais. bah quand tu lis ta théorie en anglais, t'es en mode..."
+68. ces thèmes et verbatims peuvent servir de base pour une analyse sociologique approfondie sur l'impact de l'intelligence artificielle dans l'éducation, les normes sociales autour de son usage, et les dynamiques culturelles et générationales influençant son adoption
+69. à partir de cet entretien, plusieurs thématiques intéressantes pour une analyse sociologique peuvent être identifiées. voici les thématiques et les verbatims associés :
+70. ### 1. **utilisation des outils numériques dans l'éducation**
+71. **"parce que ... en fait, le c++, c'est le seul cours où on avait le droit, en théorie. c'était dit noir sur blanc qu'on a le droit."**
+72. **"puisque moi de base je m'étais connecté avec mon adresse mail de l'epfl qui était absolument pas bloquée."**
+73. **"du coup je l'ai utilisé de nouveau mais genre j'ai pas utilisé massivement."**
+74. ### 2. **impact de l'intérêt personnel sur l'apprentissage**
+75. **"les cours qui ne m'intéressent pas, je ne les suis pas et je lui demande, fais-moi un résumé, explique-moi ça, explique-moi ça. explique-moi les bases du cours aide moi à ne pas faire de la merde à l'exam, à sauver les meubles. et un cours qui m'intéresse, je vais essayer de comprendre la base, je vais aller en cours, je vais lire par moi-même et les moments où ça va pas être clair je vais dire ok explique moi plus précisément ça, pourquoi est-ce que ça ça marche."**
+76. **"mais de nouveau, c'est les trucs qui m'intéressent."**
+77. **"et je vais être mieux, tu vois."**
+78. ### 3. **relations de dépendance et sentiment de sécurité**
+79. **"déjà, quand tu fais des projets de groupe, qu’il faut s’aider du travail et compter sur les autres pour pas faire de la merde."**
+80. **"à partir du moment où il disparaît totalement c'est tout sur toi."**
+81. **"t'as l'impression de... de pas être en sécurité, t'es pas serein. t'as... t'as... t'as une peur. c'est un peu un stress différent que avant un examen ou t'as peur de l'examen, mais là c'est t'as peur de l'examen parce que... en théorie tout devrait bien se passer, mais que si chat gpt marche pas t'es cuit."**
+82. ### 4. **changement des méthodes de travail et gestion du stress**
+83. **"mais ouais t’est pas non plus très bien quand tu sais que toi tu peux rien faire tout seul."**
+84. **"ça a eu un stress un peu différent."**
+85. **"ça a changé la baseline. c'est le niveau typique de stress. y a un peu ce truc où t'sais si t'as un cours où t'as rien pris et dans deux jours t'as un rendu, à l’époque ton niveau de stress il est énorme parce que tu sais que tu vas devoir bricoler un truc valable."**
+86. ### 5. **impact des ia sur la gestion du temps et l'engagement**
+87. **"avec chat gpt, je voulais tout donner. c'est-à-dire que j'en rêvais la nuit. donc ouais, j'étais les deux pieds et les deux épaules dedans."**
+88. **"je voulais tout donnes."
+89. **"ça va m’ fichtre c’est un truc bizarre que j’avais un d’un tas aussi"** et ca m’avait donné beaucoup plus de temps**
+90. ### 6. **perception des cours et du modèle éducatif**
+91. **"c’est un peu out of scope."**
+92. **"le modèle classique de cours, c'est un modèle qui est absolument pas adapté à tout le monde."**
+93. **"quand j'ai eu l'opportunité de faire autrement, c'est ce que j'ai fait."**
+94. **"j'ai évité d'aller à certains cours et j'ai lu la théorie et appris à ma manière et ça m'a été bénéfique en termes de... de charge mentale."**
+95. ### 7. **impact sur la vie sociale et universitaire**
+96. **"ça m’a lésé sur d'autres points."**
+97. **"ça m'a... après ça m'a lésé sur d'autres points. donc genre typiquement la vie sociale universitaire que j'ai pas eu du tout."**
+98. ces thématiques peuvent être explorées plus en profondeur pour comprendre les dynamiques complexes entre l'utilisation des outils numériques, les méthodes d'apprentissage, la gestion du stress, et les implications sociales et psychologiques pour les étudiants
+99. à partir de cet entretien, plusieurs thématiques sont pertinentes pour une analyse sociologique. voici les principaux thèmes et les verbatims associés :
+100. ### 1. **impact de chat gpt sur les pratiques d'apprentissage**
+101. **verbatims :**
+102. "mais c'est par rapport au fait que... le fait de plus aller en amphi, tu vois."
+103. "si ta méthode d'apprentissage, elle est... enfin, genre, je pense que c'est rare des méthodes d'apprentissage qui sont en totale contradiction avec l'utilisation de chat gpt."
+104. "il va falloir pointer correctement, savoir évaluer la compréhension et pas le savoir."
+105. ### 2. **fréquence et contexte d'utilisation de chat gpt**
+106. **verbatims :**
+107. "tous les jours."
+108. "quand j'étais à l'uni, mais dans un contexte de travail tu vois, parce que quand tu bois ton café, que tu manges à midi, c'est un peu en dehors de ça mais c'est au moins une fois par heure je pense."
+109. "mais… je pense de 3 à 4 fois par semaine."
+110. "tu peux l'utiliser tout en continuant à utiliser la même méthode d'apprentissage."
+111. ### 3. **discover et adoption initiale de chat gpt**
+112. **verbatims :**
+113. "j’peux regarder. ouais... mais yeah plus ou moins quand c’est arrivé, je crois."
+114. "c'est une bonne question ça."
+115. "je crois que c'est pas mal, c'est passé au... on en entendait beaucoup parler parce que... c'est un peu le moment où openai a... a vraiment fait parler d'eux. où les médias se sont plus intéressés à eux. du coup, je sais pas, t'es sur twitter et t'en entends parler. tu vas voir et tu découvres. mais je sais plus comment exactement."
+116. ### 4. **expérience personnelle et perception de l'utilisation de chat gpt**
+117. **verbatims :**
+118. "je vois pas de raison de pas l'utiliser. donc... en un mot, légitime, tu vois."
+119. ### 5. **évolution de l'évaluation et de l'enseignement en réponse à chat gpt**
+120. **verbatims :**
+121. "dans le sens où tu peux le savoir et pas le comprendre."
+122. "et si tu poses les bonnes questions, ça c'est un truc que tu peux reconnaître chez les gens."
+123. "c'est là où je pense que ça va devoir évoluer et s'adapter au fait qu'il y a chat gpt maintenant."
+124. ### 6. **reflexion sur l'avenir de l'apprentissage avec des outils comme chat gpt**
+125. **verbatims :**
+126. "je pense que oui. mais... en tout cas du côté des élèves, à mon avis c'est... c'est un... en fait c'est... il va pas apprendre à ta place, donc... donc, in fine, c'est toujours toi qui vas devoir apprendre."
+127. "je pense que c'est plutôt du côté des profs, de l'évaluation du travail, c'est là où il va falloir pointer correctement, savoir évaluer la compréhension et pas le savoir."
+128. ces thématiques et verbatims peuvent offrir une base solide pour une analyse sociologique approfondie de l'impact de chat gpt sur les pratiques d'apprentissage et d'enseignement, ainsi que sur l'adoption et l'utilisation de cette technologie dans la vie quotidienne

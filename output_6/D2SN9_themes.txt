@@ -1,76 +1,67 @@
-1. à partir de l'entretien sociologique extrait, plusieurs thématiques intéressantes peuvent être identifiées pour une analyse sociologique. voici les thèmes principaux associés aux verbatims correspondants :
-2. ### 1. **utilisation de chatgpt dans la vie étudiante et universitaire**
-3. **verbatims :**
-4. "est-ce que vous définissez l’utilisation de chat gpt ou de l’intelligence artificielle en général ?"
-5. "chatgpt c’est plutôt un outil sympathique. c’est un outil très puissant..."
-6. "il m'aide beaucoup pour lire pour rédiger, faire des bullets points et aussi essayer de pousser un peu plus loin ma pensée en général."
-7. "il me permet de gagner du temps et de me concentrer sur des tâches moins répétitives..."
-8. "c’est un assistant, c’est tout, donc pas de dépendance."
-9. "il m’arrive ça m’arrive en cours par exemple si je ne comprends pas un point et que le professeur n'a pas le temps de me répondre"
-10. ### 2. **impact de chatgpt sur les compétences et l'apprentissage**
-11. **verbatims :**
-12. "je n’ai pas d’ordre d’idées sur vraiment un temps gagné..."
-13. "pour les tâches qui me demandent plus de concentration..."
-14. "il a bien sûr des grandes compétences et c’est fiable."
-15. ### 3. **perception et attitude envers chatgpt**
-16. **verbatims :**
-17. "j’ai mis un peu de temps à l'utiliser parce que je ne voyais pas trop l'utilité."
-18. "je ne m’y connais pas sur le bout des doigts, je n’ai pas une passion débordante mais dans notre monde, surtout avec mes études je suis obligé de me tenir renseigner..."
-19. "quatre gpt est complètement payant, et je suis obligé de me tenir renseigner"
-20. "ce que je disais au début c'est que ça doit être réglementé encadré..."
-21. "sur des travaux ou l’on doit choisir son sujet comme des mémoires, avoir un avis en fonction de données directement de chat gpt m’a déjà fait réfléchir et même reconsidéré certains sujets."
-22. ### 4. **éthique et légitimité de l'utilisation de chatgpt**
-23. **verbatims :**
-24. "je dirai que la qualité des sources qu’est-ce que vous faites avec ça."
-25. "je ne vais pas le faire toute la journée parce que ça ne correspond pas du tout."
-26. "ça doit vraiment pas être interdit mais encadré et, pour tout de suite. donc tout à fait dans le régime d'étudiants."
-27. ### 5. **interaction et apprentissage avec chatgpt**
-28. **verbatims :**
-29. "chez moi, il faut passer par les étapes répétitives, il faut passer parce qu’il y a toujours un ordenner..."
-30. "pour vérifier les sources, ça va jusqu’à il faut vérifier les sources les voir s’il c’est ça va..."
-31. ### 6. **influence sur les performances académiques et le stress**
-32. **verbatims :**
-33. "votre planning de travail il a changé avec la venue de chat gpt? franchement non, par exemple parce que je le fais bien, passer par les étapes répétitives d’ordre."
-34. "il n’y a pas un stress chez moi."
-35. "le rendu académique il n’y a pas de stress lié chat gpt c’est que c’est lié a moi. j’ai un rendu je l’ai fait."
-36. ### 7. **différences entre versions gratuite et payante de chatgpt**
-37. **verbatims :**
-38. "on peut utiliser chat gpt classique ça s’est vraiment très bien."
-39. "un abonnement ça permet d’aller beaucoup plus"
-40. ### 8. **comparaison avec d'autres outils et technologies**
-41. **verbatims :**
-42. "on n'utilise pas quels professeurs ont pas besoin d'être intégrer et je sais qu’ils sont là pour ça, mais l’université elle suit bien comment on peut on peut facilement le vérifier ainsi mais l’université elle ne suit pas donc on n’empêche en général non pour s’exclure mais son université ne suit pas."
-43. ces thématiques et verbatims permettent d'examiner les différentes dimensions de l'utilisation de chatgpt dans le cadre universitaire, depuis la perception des étudiants jusqu'aux implications éthiques et académiques
-44. pour une analyse sociologique, plusieurs thématiques émergent de cet entretien. voici les principales thématiques et les verbatims associés :
-45. ### 1. **utilisation et légitimité de l'ia dans les études**
-46. **"sais bien compris la question que c’est un assistant."**
-47. **"il sert à l’apprentissage bien utilisé et permet de gagner du temps, rien n’est sacrifié."**
-48. **"ce n'est qu’un outil. donc autant l'utiliser, la légitimité ne se construit pas sur cela pour moi."**
-49. **"spécifié l’utilisation d’ia spécial pour certaines domaines est une bonne idée."**
-50. ### 2. **impact sur l'apprentissage et la reflection**
-51. **"comme j’ai déjà dit, si j’ai bien compris la question que c’est un assistant."**
-52. **"rencontrez des tensions entre le gain de temps que vous donne chat gpt et votre apprentissage personnel?"**
-53. **"rencontrez des doutes sur le fait qu’il ne remplace pas la réflexion "**
-54. **"j'ai franchement des fois, je vous avoue, eu l’envie de bâcler certains devoirs pour plusieurs raisons, mais je pense que ça aurait été une erreur."**
-55. ### 3. **questions de sécurité et de contrôle**
-56. **"tant qu’il y a de la réflexion, que l’utilisation de l’ia est légitime et justifier."**
-57. **"il faudrait toujours garder un professeur au cas où pour revérifier avant de distribuer le cours."**
-58. **"un professeur est nécessaire pour revérifier le contenu avant de le distribuer."**
-59. ### 4. **éthique et dilemmes moraux**
-60. **votre utilisation, la légitimité ne se construit pas sur cela pour moi."**
-61. **“dilemmes moraux entre guillemets?** j'ai franchement des fois, je vous avoue, eu l’envie de bâcler certains devoirs pour plusieurs raisons, mais je pense que ça aurait été une erreur."**
-62. **“j'ai franchement des fois, je vous avoue, eu l’envie de bâcler certains devoirs pour plusieurs raisons, mais je pense que ça aurait été une erreur."**
-63. ### 5. **perception de l'ia par les étudiants**
-64. **“en soi un travail de qualité ça sera que ce soit fait avec ou non, ça restera un travail différent."**
-65. **"pour certains travaux et d'autres comme vous avez dit par exemple pour de la recherche ou juste pour clarifier l'enjeu de documents de certains documents."**
-66. ### 6. **évolution de l'ia et pratiques d'apprentissage**
-67. **“les outils comme chat gpt vont elles vont transformer les pratiques d'apprentissage dans les prochaines années?"**
-68. **“ça c'est sûr parce que le progrès ne s'arrête pas."**
-69. ### 7. **propositions et recommandations**
-70. **“il y aurait une évolution peut-être dans son efficacité, pas juste  dans sa manière d'être utilisé, mais est-ce que vous pensez qu'il sera peut-être plus performant, qui va permettre de faire de nouvelles choses?"**
-71. **"mais ce que je pourrais proposer en tout cas c'est de créer un gpt interne à l'université pour qu’il puisse s'adapter au professeur que ça soit on va dire fourni à tout le monde comme ça on part sur la même base chacun."**
-72. **"que le professeur enfin que l'université se mette à jour dessus aussi savoir comment on utilise, comment on surveille, ça pourrait être pas mal."**
-73. ### 8. **autres outil d'ia**
-74. **“je n’ai pas besoin d'utiliser la génération d'image. mais je sais que ça  n'est pas mal. “**
-75. **“pas eu pas eu besoin d'utiliser en tout cas.”**
-76. ces thématiques et verbatims peuvent servir de base pour une analyse plus approfondie des attitudes et perceptions des étudiants envers l'utilisation de l'ia dans le cadre de leurs études
+1. à partir de l'entretien, plusieurs thématiques intéressantes pour une analyse sociologique peuvent être identifiées. voici les thèmes clés et les verbatim associés :
+2. ### 1. **utilisation et perception de chatgpt**
+3. **automatisation et simplification** :
+4. "chatgpt c'est plutôt un outil sympathique. c'est un outil très puissant qui peut nous servir dans la vie de tous les jours, mais surtout dans le cadre de recherche pour se faciliter la vie."
+5. "chatgpt c'est une sorte d’algorithme simplement."
+6. "c’est surtout dans le cadre de cours. maintenant c’est quasiment exclusivement dans un cadre de cours."
+7. ### 2. **impact sur le travail et les études**
+8. **gain de temps** :
+9. "ça me permet de gagner du temps et de me concentrer sur des tâches moins répétitives, beaucoup plus centré sur la recherche, développer mes pensées."
+10. "lire un texte et sortir les idées principales sont simple pour une ia, c’est le meilleur exemple je pense."
+11. **réduction du stress** :
+12. "le stress provenant de l’examen en lui-même ou du rendu et non de la manière de le rendre."
+13. "le stress ne change pas trop mon rapport au cours c'est juste une manière différente d'utiliser vos sources disponibles."
+14. ### 3. **niveau de compétence et adoption technologique**
+15. **niveaux d'utilisation** :
+16. "je n’ai pas d’idée sur vraiment un temps gagné."
+17. "cela supprimer des tâches même si elle n’était pas longue, en le faisant d’une même qualité voir mieux."
+18. "on peut utiliser chat gpt classique, ça suffit largement mais avec l’abonnement, ça permet d'aller beaucoup plus."
+19. **difficultés d'utilisation** :
+20. "la seule difficulté, c'est de se faire comprendre par chat gpt."
+21. "je vais lui dire 'ok, ça je veux faire ça. hop, comment est-ce que tu le tournerais?'"
+22. ### 4. **encadrement et réglementation**
+23. **encadrement universitaire** :
+24. "il faut bien encadrer chat gpt. ça doit être réglementé."
+25. "il ne faut pas juste faire de copier-coller, c'est ça la recommandation et c'est toujours avoir une réflexion de notre côté. en le précisant."
+26. **responsabilité parentale et institutionnelle** :
+27. "les parents, je n’y crois pas trop parce que c'est pas enfin ils ont autre chose à faire en général alors que l’université ils sont là pour ça."
+28. "l’université elle prendra du temps."
+29. ### 5. **enjeux éthiques**
+30. **qualité des réponses et vérification** :
+31. "il faut vérifier les sources qui vous donnent pour voir si ça correspond quand même à ce dont vous avez besoin."
+32. "pour la qualité des réponses de chat gpt, c’est bien, c'est assez pertinent, des fois un peu flippant parce que c'est vraiment pile les réponses que j'attends ou ce que j'aurais fait donc ça me parait assez fiable."
+33. **citation et originalité** :
+34. "ils conseillent de l’utiliser parce que c'est un outil comme un autre, il faut l'utiliser pour pas être en retard sur les autres."
+35. "il ne faut pas juste faire de copier-coller, c'est ça la recommandation et c'est toujours avoir une réflexion de notre côté."
+36. ### 6. **évolution future et adaptation**
+37. **réactions des enseignants** :
+38. "ils nous conseillent de l'utiliser parce que c'est un outil comme un autre, il faut l'utiliser pour pas être en retard sur les autres, on va dire pour les s’y habituer et comprendre en plus les enjeux qui s’y accrochent."
+39. **adaptation institutionnelle** :
+40. "l’université elle prendra du temps."
+41. "il y a des entreprises qui ont des gpt spéciaux à l'entreprise qui limitent donc l'utilisation."
+42. ces thématiques permettent d'explorer les dynamiques sociales, technologiques et éducatives liées à l'utilisation de chatgpt dans un contexte universitaire. elles offrent une riche base pour une analyse approfondie des impacts et des enjeux associés à l'introduction de cette technologie dans le domaine académique
+43. à partir de l'entretien sociologique extrait, voici les thématiques intéressantes pour une analyse sociologique et les verbatims associés à ces thèmes :
+44. **légitimité de l'utilisation de chat gpt en tant que source ou outil d'apprentissage :**
+45. "bah si on autorise l'utilisation, moi ça ne me dérange pas de citer gpt, c'est une source."
+46. "c'est un travail de qualité ça sera qu'il soit fait avec ou non, ça restera un travail différent."
+47. "il y a une différence dans la légitimité à utiliser chat gpt pour certains travaux et d'autres, je ne le crois pas."
+48. **impact sur l'apprentissage et la réflexion personnelle :**
+49. "comme j’ai déjà dit, si j’ai bien compris, c’est un assistant. il sert à l’apprentissage bien utilisé et permet de gagner du temps, rien n’est sacrifié."
+50. "je comprends que ça donne envie [de bâcler] et ces questions existent bel et bien et je comprends que certaines personnes craquent."
+51. **utilisation éthique et d'éventuels dilemmes moraux :**
+52. "j'ai franchement des fois, je vous avoue, eu l’envie de bâcler certains devoirs pour plusieurs raisons, mais je pense que ça aurait été une erreur."
+53. **perception de la légitimité selon le type de travail :**
+54. "spécifié l’utilisation d’ia spécial pour certaines domaines est une bonne idée."
+55. "tant qu’il y a de la réflexion, que l’utilisation de l’ia est légitime et justifier, je ne vois pas le problème."
+56. **rôle et limite de l'ia dans l'éducation :**
+57. "un gain de temps, explications, les explications qui des professeurs qui ne peuvent pas convenir à tout le monde pourront être palliées avec gpt."
+58. "il faudrait toujours garder un professeur au cas où pour revérifier avant de distribuer le cours."
+59. **impact potentiel de l'ia sur les pratiques d'apprentissage futures :**
+60. "comment vous trouveriez l'utilisation de chat gpt si peut-être il soit plus efficace dans un futur où un cours entier serait fait par chat gpt en fonction des élèves ou ça pourrait être le cas?"
+61. "ça reste un outil. il faut en garder le contrôle et ne pas le subir."
+62. **propositions et conseils pour l'intégration de chat gpt dans les universitaire :**
+63. "un conseil, je ne sais pas parce que je suis encore juste un étudiant mais ce que je pourrais proposer en tout cas c'est de créer un gpt interne à l'université pour qu’il puisse s'adapter au professeur."
+64. "que l’université se mette à jour dessus aussi savoir comment on utilise, comment on surveille, ça pourrait être pas mal."
+65. **autres outils d'ia et leurs utilisations possibles :**
+66. "je n’ai pas besoin d'utiliser la génération d'image. mais je sais que c'est pas mal."
+67. ces thématiques et verbatims permettent d'explorer les perceptions, les usages et les implications sociales et éducatives de l'utilisation de chat gpt et des outils d'ia similaires dans le contexte de l'éducation et de l'apprentissage

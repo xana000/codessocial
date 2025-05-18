@@ -1,154 +1,170 @@
-1. ### thématiques sociologiques intéressantes et verbaltims associés
-2. **choix et parcours académique**
-3. "la socio c'est quand je lisais les descriptifs je me disais ah mais c'est ça que j'ai envie de savoir"
-4. "moi c'est surtout pour (nom de ville), donc c'est des études très générales sur la socio."
-5. "et pis là je fais mon master du coup aussi en socio avec une mineure en sociétés numériques."
-6. "j'ai fait un stage relationnel en journalisme, avant mes études. et en fait, je me suis intéressée, enfin par ce stage, je me suis dit, la société c'est tellement vaste. il y a beaucoup de choses, et euh… j'avais l'impression de rien connaître en fait finalement de la société, de ce qu'il fait en fait le monde. et du coup je me suis dit ah bah des études dans la socio pourquoi pas."
-7. **formation et insertion professionnelle**
-8. "je suis tutrice. c'est- c’est encore en dessous, sous-assistante quoi."
-9. "ma tâche principale c'est d'aider les étudiants. donc si j'ai des mails d'étudiants qui me posent des questions, c'est ma priorité je leur réponds."
-10. "madame dubois qui est ma directrice pour mon mémoire."
-11. "de donner des cours, non. je cherche des recherches, des recherches de sources de recherche, des recherches d'étudiants."
-12. **représentations et usages de la technologie**
-13. "c’est fascinant et c'est un bon outil, c'est vraiment la technologie, ça avance, c'est le progrès."
-14. "puis je l’utilise un peu pour des questions quotidiennes. oui, des petites questions aussi par rapport à l'ordi."
-15. "je suis assez à l’aise avec."
-16. "mais je pense que maintenant que je fais mon master, j'ai un peu plus de, comment dire, de recul."
-17. **consommation de l'information et médias**
-18. "en fait, la première personne qui voit la news, elle te dit, ah, t'as vu, machin. du coup, forcément, ça se mélange un peu."
-19. "votre père il a un avis sur tout. ouais, voilà, c'est ça."
-20. "mon père surtout. mon père est très curieux donc en fait il regarde plein de choses à la télé, des discussions, des débats, des documentaires."
-21. **impact de l'intelligence artificielle sur la société et le travail**
-22. "il parle toujours de l’intelligence artificielle, mais c'est normal parce que c'est son domaine."
-23. "une inquiétude, c'est que finalement on puisse perdre notre travail."
-24. "il est question de la protection des données, de la perte des emplois, ça commence à avoir des impacts sur la société, sur la consommation et sur la manière dont les entreprises se développent."
-25. "il dit que c'est quelque chose qui est dangereux. dès qu'on donne des informations sur des réseaux, on peut pas savoir ce qu’il va en faire."
-26. **évolution et adoption de la technologie**
-27. "et en fait, il commençait à dire dans les infos que c'était quand même quelque chose qui devenait assez fiable. il donnait des réponses assez bien finalement, assez étonnantes d'ailleurs."
-28. "tu me disais que c'était 2022 pour chat gpt, et après quelques années…"
-29. "je me suis inscrite et j'ai mis mon mail, mon passeport, euh, mot de passe.”
-30. **engagement et responsabilité**
-31. "on parle souvent aussi du fait qu'il faut une réglementation, il faut quelque chose qui protège les gens."
-32. "c'est une inquiétude pour moi, la qualité de la formation d'un médecin par exemple."
-33. "les ia, elles doivent être bien encadrées, bien encadrées par des cadres."
-34. **inquiétudes et réflexions critiques sur la technologie**
-35. "oh, et il y a même des gens qu'on parle de la surveillance, qu'ils soient surveillés, que tout le monde voit tout le temps ce qu'on fait."
-36. "et c'est aussi la dépersonnalisation de la production. c'est un peu dans ce sens la."
-37. "on voit des robots qui font des tâches humaines. et c'est toujours la même chose. on va toujours trouver quelque chose pour remplacer les travailleurs."
-38. à partir de l'entretien, plusieurs thématiques sociologiques intéressantes peuvent être identifiées. voici les principales thématiques avec les verbatims associés :
-39. ### 1. **utilisation de l'ia et de chatgpt**
-40. **"ça fait pas juste répondre à ta question. ça te donne aussi des trucs en plus, des éléments pour aller plus loin."**
-41. **"je pose des questions un peu basiques, genre 'c’est quoi ça ?', ou 'qu’est-ce que les gens disent là-dessus ?'"**
-42. **"tu vois, c’tait un peu compliqué pour google ou parfois je m’étais perdue sur les termes techniques."**
-43. **"c’est pas juste google qui va te donner ça."**
-44. ### 2. **relation entre utilisation de chatgpt et recherche d'information**
-45. **"je l’utilise pas pour tout en fait. mais, par exemple, là, pour l'informatique, pour certains trucs, j'avais cherché... enfin, j'avais trouvé, une fois, je ne sais plus par quel moyen, j'avais trouvé un site qui était pas mal..."**
-46. **"parce que je ne comprenais rien de ce qu'ils me disaient, j'allais sur chatgpt."**
-47. ### 3. **confiance et validation des connaissances**
-48. **"ça m'a conforté, c.toujours un peu parce que je me demande si c'est pertinent ou pas."**
-49. **"je doute des pertinences de mes questions parce que des fois je me dis c'est juste ma curiosité personnelle, est-ce que c'est vraiment sociologique ?"**
-50. **"du coup, je me disais, ah oui, c'est ça."**
-51. ### 4. **translangage et perception de la langue dans l'utilisation de chatgpt**
-52. **"les termes techniques sont en anglais, les slides aussi, donc parfois je pense directement en anglais. du coup, je formule ma question en anglais..."**
-53. **"des fois je me disais, ah, mais je peux juste laisser chatgpt réfléchir à ma place quoi. il me donnait, par exemple, les rôles des enseignants ou ce genre de trucs."**
-54. ### 5. **changement des pratiques académiques et éducatives**
-55. **"les questions complexes et factuelles que le chatgpt allait me répondre, mais il n'a pas saisi."**
-56. **"ça m помощи à rendre l'apprentissage un peu plus logique."**
-57. ### 6. **confiance et dilemme autour de l'utilisation de chatgpt**
-58. **"est-ce que je fais bien de lui faire entièrement confiance ?"**
-59. **"je sais pas si je ferais confiance, enfin, je sais pas si c’est une bonne idée d’utiliser tout le temps chat gpt."**
-60. ### 7. **impact sur la motivation et la réflexion personnelle**
-61. "\"a un moment, j'me suis dit, non, là, clara, stop, tu t’arrêtes, tu réfléchis un peu."
-62. **"j’ai l’impression qu' à l'amour, je pose mes questions directement à chatgpt au lieu de creuser par moi-même."**
-63. ### 8. **pratiques d'apprentissage et recherche d'information**
-64. **"en fait, je ne lisais pas tout ce qu’il me disait."**
-65. **"il va m'attendre, trop dans les détails, alors que j’ai juste besoin de quelqu’un qui me synthétise les choses."**
-66. ### 9. **étude de cas spécifique : initiation à l'informatique**
-67. **"ce cours c’tait le domaine informatique que je ne maîtrisais pas encore du tout."**
-68. **"puisque j’ai chatgpt, je vais utiliser ça."**
-69. ### 10. **contraintes et opportunités de l'apprentissage en ligne**
-70. **"on a un cours en religion, il y avait un gars à côté, pis...à un moment, le prof nous parlait d’un truc et il posait des questions pour qu’on réfléchisse sur la matière du cours en classe. et là, le gars avec qui je dois travailler il dit: "attends, je vais demander à chat gpt."**
-71. ces thématiques et verbatims pourraient servir de base pour une analyse sociologique approfondie sur les comportements et perceptions des étudiants face à l'ia, l'apprentissage, et l'évolution des pratiques académiques
-72. ### thématiques et verbatims associés
-73. #### 1. **utilisation de chat gpt pour l'économie de temps**
-74. **verbatims :**
-75. "ça me prend du temps, j'ai plus l'impression de perdre du temps."
-76. "ça m'a fait gagner du temps une fois. j'ai fait un... c'était pour un oral."
-77. "ça m'a économisé du temps. j'avais déjà lu le texte, demander à chat gpt de l’écrire m’a économisé du temps."
-78. "le stress, la gestion du stress. cah lié au temps aussi."
-79. #### 2. **fiabilité et vérification des informations**
-80. **verbatims :**
-81. "des fois, quand même, j'ai remarqué qu'ils se trompaient. et du coup, je faisais... tu sais, il y a ce petit machin où tu peux dire... c'est pas bien."
-82. "et d’autres fois, je réalise que ce qu’il m’a dit, c’était complètement à côté de la plaque."
-83. "c’est pas une personne, tu vois, c’est pas quelqu’un en face de toi."
-84. #### 3. **stratégies d'utilisation et limites de chat gpt**
-85. **verbatims :**
-86. "je me dis, mais comment est-ce que je peux poser mes questions pour pas qu'il... qu'il entre dans ce jeu de me dire, oui, c'est ça."
-87. "je sais plus ce que j'allais faire. ou alors j'utilise juste des questions qui paraissent innocentes."
-88. "je l’utilise pas trop pour ça. je préfère faire mes résumés moi-même."
-89. #### 4. **intégration des réponses de chat gpt dans les travaux académiques**
-90. **verbatims :**
-91. "je intègre... en informatique, le contenu n'était pas intégré."
-92. "mais je fais jamais de copy paste, il me semble. tu retravailles ce qu'il dit, avec les infos du cours ou les textes."
-93. "pour les trucs à rendre, j'ai jamais utilisé le texte de chat gpt."
-94. #### 5. **impact sur l'apprentissage et la comportement de l'utilisateur**
-95. **verbatims :**
-96. "un peu, ouais. là, ça m'a permis d'élargir dans cette question-là. oui, ça me permet de voir un peu plus d'aspects peut-être que j'aurais pas pensé."
-97. "ça m'économise de l’énergie peut-être. parce que du coup il réfléchit à ma place."
-98. "je suis dépendante ? je pense pas."
-99. #### 6. **conception de chat gpt comme un outil**
-100. **verbatims :**
-101. "enfin, pour moi, c'est un outil de réflexion."
-102. "ça coûte rien de lui demander."
-103. "c'est plutôt utile, franchement c'est plutôt utile."
-104. #### 7. **relations sociales et communication avec chat gpt**
-105. **verbatims :**
-106. "je l'appelle lya, j'aime pas ce nom... mais bon..."
-107. "c'est pas un humain. il n'a pas besoin de formulation politesse."
-108. "j'essaie de pas... de vraiment être... genre... poser juste des questions."
-109. #### 8. **considérations ethiques et légitimes**
-110. **verbatims :**
-111. "dire que ça vient de chat gpt. parce que ce sont des idées que je pourrais trouver aussi dans les lectures."
-112. "pour le monde universitaire, ce serait de le prendre comme source. comme si c’était un auteur... enfin… dire que c’est légitime de l'utiliser comme source, comme un auteur."
-113. "lui donner des attributs comme si c'était un humain, je pense."
-114. ces thématiques couvrent différents aspects de l'utilisation de chat gpt, allant de la gestion du temps et de l'apprentissage à des considérations éthiques et à la manière dont les utilisateurs interagissent avec cet outil
-115. l'entretien que vous avez fourni permet d'explorer plusieurs thématiques sociologiques intéressantes. voici les thématiques identifiées ainsi que les verbatims associés :
-116. ### 1. **usage et perception des outils d'ia (chatgpt)**
-117. "d'ailleurs, j'essaie de chercher qui a écrit, et pis si je trouve pas d'auteur, c'est la maison d'édition... enfin, c'est pas la maison d'édition, mais le... le nom du site, voir les gens qu’il représente, quoi."
-118. "si c'est quelque chose de généré par une ia, alors il faut le dire, mais c'est dommage."
-119. "il y a une prof qui a dit qu’il fallait faire attention parce que, justement, chatgpt ne donne pas de sources."
-120. "mais y’a aucun prof qui nous dit de ne surtout pas l’utiliser. j'ai pas senti qu’il y avait une interdiction stricte, en fait."
-121. "et comment tu penses que chat gpt ou plus généralement les outils d'ia vont transformer les pratiques d'apprentissage dans le futur ?"
-122. "internet, tu dois toi-même choisir tes sites, machin. là, bah... c'est déjà structuré en phrases, en paragraphes, en idées, tac, tac, tac."
-123. ### 2. **impact environnemental**
-124. "bah oui, et ça... ouais je sais pas, ouais. ouais je me dis mais ce serait bien que ça n'existe plus mais tu peux pas ne pas considérer que ça n'existe pas parce que...comme ça a déjà pété, beaucoup de monde l’utilise."
-125. "chaque recherche que je fais ça a des impacts. c'est comme google hein, enfin c'est comme tout."
-126. "mais ben voilà. ouais. c'est compliqué."
-127. ### 3. **réglementation et règles d'utilisation**
-128. "il n'y a pas de règle qui sont en place sur l'utilisation de chat gpt dans ton université?"
-129. "je sais plus ce qu'ils disaient, mais je suis vite fait aller voir, mais je n'en souviens plus."
-130. "est-ce que tu penses que c'est utile d'avoir un règlement ?"
-131. ### 4. **perception des étudiants et des professeurs**
-132. "je l’associe à ma flemme."
-133. "j’ai vraiment l’impression que j’utilise chatgpt quand je veux éviter de faire l’effort moi-même."
-134. "je pense que plusieurs étudiants, on sent aussi le regard des profs, surtout en master j'ai l'impression."
-135. "tu as quand même envie de donner une bonne image. même si c'est inconscient, t'as quand même cette envie de paraître une bonne étudiante qui réfléchit, qui passe du temps à réfléchir sur des choses."
-136. "je me demande si c'est utile d'avoir un règlement ?"
-137. ### 5. **dilemme éthique et moralité**
-138. "un dilemme moral par rapport à ton utilisation de chat gpt ?"
-139. "non, en fait j'essaye toujours de... de rendre moral le truc."
-140. "je n’aime pas mentir, donc si je devais dire que ça vient de chatgpt, ce serait parce que j’aurais une raison de le faire."
-141. "du coup, c'est pas une si bonne idée que ça."
-142. "c’est super risqué. y’a des risques qu’on connaît pas, et on est encore en train de discuter de ça. c’est pour ça qu’il y a autant de questions éthiques qui se posent."
-143. ### 6. **impact sur les relations humaines et la société**
-144. "du coup je me dis mais les relations humaines elles vont à ressembler quoi si tu te fies plus à ton ordi qu'à ton entourage."
-145. "ça aide à... enfin, ça conforte encore dans cette société où, finalement, tu peux tourner vers quelque chose qui n'est pas humain."
-146. "un des risques, ou en tout cas une des choses qui me préoccupent, c’est l’environnement."
-147. "je pense qu’on a des relations avec les autres qui sont peut-être différentes d’avant. c’est pas forcément mauvais, mais des fois tu te dis : on est quand même un peu trop individualistes, un peu enfermés dans notre propre monde."
-148. ### 7. **avenir de l'ia et règlementation**
-149. "quoi ? de mon côté, je pense qu’on devrait avoir des lois pour réguler l'ia."
-150. "il y a quelque chose à faire au niveau des lois. mais pas que, tu vois. c’est pas juste une question de lois, le droit ou la justice qui régissent tout."
-151. "it’s a question de lois pour réguler l'ia."
-152. "est-ce que ça pourrait ressembler à, on sait ce dont elle est capable, mais on ne va pas la laisser faire ce dont elle est capable ?"
-153. "je me demande pourquoi est-ce qu'on a besoin de faire de nouvelles inventions technologiques ?"
-154. ces thématiques et verbatims peuvent former la base d'une analyse sociologique approfondie sur l'impact des outils d'ia sur l'éducation, la perception publique, les éthiques et la réglementation, ainsi que sur les transformations sociales et environnementales
+1. ### thématiques sociologiques intéressantes et verbatim associates
+2. **choix du parcours universitaire et motivations**
+3. **"c'est tellement vaste la société"** (00:01:04)
+4. **"je me suis dit, ah mais c'est ça que j'ai envie de savoir"** (00:01:19)
+5. **"j'avais regardé en fait les branches ou euh les domaines d'études sur le site"** (00:01:13)
+6. **rôle du tutorat et responsabilités**
+7. **"en fait, elle m'a dit qu'on voudrait des témoignages d'anciens étudiants"** (00:02:56)
+8. **"je dois filmer et pis je dois faire du montage vidéo"** (00:03:05)
+9. **"ma tâche principale c'est d'aider les étudiants"** (00:03:10)
+10. **"mais il n’y a pas beaucoup d’étudiants qui me contactent en fait"** (00:03:39)
+11. **équilibre travail-études**
+12. **"des fois y’a des périodes, c'est un peu chaud"** (00:02:17)
+13. **"il faut que je travaille mon organisation"** (00:02:40)
+14. **relation enseignants-étudiants**
+15. **"comment est-ce qu'ils construisent une relation à travers les outils numériques ?"** (00:05:10)
+16. **"comment est-ce que les rôles sont perçus aussi ? comment est-ce que les enseignants se voient en tant qu'enseignants avec ces outils numériques ?"** (00:05:20)
+17. **utilisation de chat gpt et de l'intelligence artificielle**
+18. **"ça veut dire un chatbot"** (00:06:13)
+19. **"finalement ça a été conçu pour reproduire une forme d'intelligence humaine"** (00:08:56)
+20. **"je ne suis pas allée directement parce qu'au début, j'étais un peu contre, en mode oh non, encore un truc qui va récupérer mes données"** (00:13:25)
+21. **"il me donne un output euh… sensé"** (00:09:20)
+22. **"je me suis inscrite et j'ai mis mon mail, mon passeport, euh, mon password, donc mot de passe"** (00:14:00)
+23. **régulation et éthique de l'intelligence artificielle**
+24. **"c'est vrai qu'il y a encore un manque peut-être de réglementation"** (00:18:04)
+25. **"est-ce qu'on est conscient de ce que les ia peuvent faire ?"** (00:19:00)
+26. **"il faut juste être conscient de ce que ça peut faire, quoi"** (00:19:23)
+27. **relation avec la technologie**
+28. **"je me sens en confiance avec"** (00:16:15)
+29. **"je suis assez à l'aise avec"** (00:16:16)
+30. **"finalement, il y a des trucs, j'ai un peu peur"** (00:20:40)
+31. **"je pense qu'il y a un manque de réglementation"** (00:18:04)
+32. **fonctionnement et utilisation de chat gpt**
+33. **"mais je ne vais pas la poser sur ma barre de recherche, ça ne fait pas de sens"** (00:13:58)
+34. **"ça, et sinon, à quelle fréquence, vraiment ? ça dépend"** (00:15:03)
+35. **"je l'utilisais peut-être de temps en temps, mais c'était une question de préciser tout"** (00:15:25)
+36. **"j'essaie pas trop mettre de contenu sur ça, j'ai déjà fait mon truc"** (00:20:09)
+37. **inquiétudes et récis sur chat gpt et l'ia**
+38. **"cependant, ça peut encore arriver que des études puissent ressortir sur chat gpt des données en particulier"** (00:20:45)
+39. **"j'avais déjà vu que d'autres personnes, elles se plaignaient d'avoir reçu des données, des informations sur leur famille, sur des faits familiaux par exemple"** (00:20:49)
+40. **"ouais, tu vois, c'est les gens qui, qui trouvent des, des résultats sur leur propre identité"** (00:20:54)
+41. ces thématiques et verbatim associés permettent de structurer une analyse sociologique approfondie, en s'appuyant sur les perspectives de clara concernant ses choix académiques, son expérience en tant que tutrice, son utilisation de l'ia, et ses perceptions de la technologie en général
+42. ### thématiques sociologiques intéressantes et verbatims associés
+43. **usage de chatgpt vs. google**
+44. **"du coup, je vais plutôt aller dans une autre direction, plutôt cette direction-là tu vois. donc un peu peut-être ça m'a aidé à réfléchir."**
+45. **"en fait, je pense qu’il n’est pas encore assez formé pour faire des schémas... après, voilà quoi. mais après, voilà quoi."**
+46. **"but j'ai en fait parlé de ça aussi avec ma prof en fait... ça c'est un peu trop informel, en fait, mais j'ai fait comme ça tout seul."**
+47. **perception de l'intelligence artificielle**
+48. **"chatgpt, je trouve que c’est bien, parce que ça fait pas juste répondre à ta question. ça te donne aussi des trucs en plus, des éléments pour aller plus loin."**
+49. **"des fois oui j'allais chercher sur internet. mais après, voilà quoi."**
+50. **"eh je me disais, ah, mais je peux juste laisser chatgpt réfléchir à ma place quoi."**
+51. **influence sur les habitudes de travail**
+52. **"ça a changé ma façon de réfléchir… en fait, ça vaut peut-être pas ça, c’est vraiment... en fait, je suis pas sûr."**
+53. **"ette je me dis mince, c'est pas vraiment moi qui réfléchis."**
+54. **"avec le temps mon esprit s'est comme, j'me suis habituée à ça, je me dis, bon bah si je bloque, bah je demande."**
+55. **apprentissage et compréhension de nouvelles technologies**
+56. **"du coup, je poser mes questions sur les data structures dans chatgpt et j'allais sur le site."**
+57. **"après, y a des fois où je fais des schémas... parce que c'est compliqué aussi... mais en même temps je sais pas si c'est une bonne idée d'utiliser toute les fois chatgpt."**
+58. **langage et communication**
+59. **"j'ai aussi des difficultés pour traduire des mots dans d'autres langues, il y a beaucoup de terminologie chez eux."**
+60. **"et les profs trouvent pas mal notre façon de communiquer, mais ils trouvent nos résultats en générale, bon ba j'sais pas."**
+61. **rôle et attentes des enseignants**
+62. **"mon prof, il est pas accessible du tout… je sais pas, j'ai l'impression que..."**
+63. **"et pareil en cours informatique et après, il y a des profs qui te disent que tu dois aller... donc, ouais, ils sont plus axés sur l’utilité pratique que sur les explications théoriques."**
+64. **paresse et prise de décision éthique**
+65. **"ça m'aiderait un peu sur ce point... mais en même temps je me demande si c'est ça qui me va allaiter plus loin... eh ben, mais comme ça j'me pose la question, est-ce qu'ils trouvent ou pas ?"**
+66. **"mais là, en cours, j'ai pensé à proposer à mon prof... bah, c'est bizarre, j'ai pas vraiment envie."**
+67. **autonomie et dépendance**
+68. **"ça a changé, ma façon de réfléchir, euh... et en même temps, je trouve que c'est pratique."**
+69. **"et je sais même pas ce qu'il ferait en pratique, ça m'a posé plein d'autres questions, c'est peut-être pas la solution."**
+70. **réflexion sur la qualité du travail**
+71. **"et puis après je me demande aussi si j'aurais pas dû plutôt me concentrer que sur... ben, j'aurais pas dû tout lire... donc tu vois un peu, c'est un truc là où... y'a des conversations où c'est un peu la même chose, ça m'a amené à réfléchir."**
+72. **"du coup, j'essaye vraiment de pas me perdre. et je pense que chatgpt m'aidera à synthétiser ce que je pense."**
+73. ces thématiques peuvent offrir une riche matière à l'analyse sociologique, permettant d'explorer les dynamiques complexes entre les étudiants, les technologies de l'information, les pratiques d'apprentissage et les comportements éducatifs
+74. ### thématiques sociologiques identifiées
+75. **utilisation de la technologie dans le travail académique**
+76. **gestion du temps et stress**
+77. **confiance et légitimité des outils technologiques**
+78. **intégration des outils numériques dans les pratiques académiques**
+79. **impact des outils de traduction et de révision sur les compétences personnelles**
+80. **influence des outils numériques sur la perception de soi et l'auto-évaluation**
+81. **stratégies d'utilisation des outils numériques pour améliorer l'apprentissage**
+82. ### verbats associés aux thématiques
+83. #### 1. utilisation de la technologie dans le travail académique
+84. "chatgpt m'a aidée avec des résumés."
+85. "c'était pour un oral. on devait lire des textes."
+86. "j'ai demandé à chatgpt : 'résume-moi cet article.'"
+87. "je l’utilise pas trop pour ça [résumer]. je préfère faire mes résumés moi-même."
+88. "chatgpt me permet de passer moins de temps à me remettre en question."
+89. #### 2. gestion du temps et stress
+90. "oh, s'il me fait des réponses trop longues et finalement ça me sert pas à grand-chose."
+91. "plus je perds ces deux heures à relire pour voir si tes réponses sont bonnes ou non."
+92. "chatgpt m'a économisé du temps."
+93. "plus je suis stressée concernant la gestion du temps."
+94. "il y a des fois où j'ai l'impression qu'il me conforte dans ma vision des choses."
+95. #### 3. confiance et légitimité des outils technologiques
+96. "tant que c'est logique, je me dis 'ah c'est ok'."
+97. "j'ai confiance en chatgpt, mais j'utilise aussi d'autres sources pour vérifier."
+98. "ce serait illégitime de prendre chatgpt comme source."
+99. "chatgpt n'est pas un auteur, c'est un outil de réflexion."
+100. #### 4. intégration des outils numériques dans les pratiques académiques
+101. "je n'utilise pas le texte de chatgpt dans mes travaux."
+102. "je retravaille tout le contenu, je ne copie jamais-colle."
+103. "je l’utilise pas trop pour ça [résumer]. je préfère faire mes résumés moi-même."
+104. "les profs disent qu'ils ne se font plus confiance entre eux."
+105. #### 5. impact des outils de traduction et de révision sur les compétences personnelles
+106. "je lui fais confiance, mais j'utilise quand même d'autres sources."
+107. "je l’ai utilisé surtout pour des traductions parfois."
+108. "je l’ai utilisé surtout pour des traductions de petites phrases et pas pour des grandes choses."
+109. #### 6. influence des outils numériques sur la perception de soi et l'auto-évaluation
+110. "des fois, il raconte des histoires, ce qui est sûr."
+111. "parfois, il raconte des histoires qui sont fausses."
+112. "j'ai l'impression que mes réponses sont biaisées par ce que je dis."
+113. "ah bah il se trompe trop. comment je fais pour lui donner des réponses précises qu'il ne peut pas biaisées par ce que je dis ?"
+114. #### 7. stratégies d'utilisation des outils numériques pour améliorer l'apprentissage
+115. "des fois, j'ai remarqué qu'ils se trompent même dans des schémas d'anglais."
+116. "même si c'est faux, je le vérifie pas directement, mais je m’en rends compte un peu plus tard."
+117. "finalement, je me suis dit quand même que chatgpt était vraiment un outil de réflexion pour moi."
+118. "je préfère poser des questions très précises pour qu'il me donne des réponses."
+119. "du coup finalement, si je veux poser des questions, je pose des questions précises."
+120. ### thématiques sociologiques et verbats correspondants
+121. #### 1. **utilisation des technologies et réflexivité**
+122. **thématique**: comment les étudiants perçoivent et utilisent-ils les outils numériques (comme chatgpt) dans leur pratique académique ?
+123. **verbatims**:
+124. "d'ailleurs, j'essaie de chercher qui a écrit, et pis si je trouve pas d'auteur, c'est la maison d'édition... enfin, c'est pas la maison d'édition, mais le… le nom du site, voir les gens qu’il représente, quoi "
+125. "et en socio, des fois, je me dis que je pourrais m’en passer. j’ai mes propres ressources, donc je pourrais m’en passer."
+126. "je sais que ça existe mais c'est vrai que je sais pas quoi faire avec quoi."
+127. "c'est une bonne question je pense que je le dirai pas de suite si elle me pose la question elle si j'ai trouvé ces idées sur chat gpt bah je dirai oui, mais… mais j'essaierai d’argumenter."
+128. #### 2. **impact environnemental des technologies**
+129. **thématique**: conscience et perception des impacts environnementaux des technologies numériques
+130. **verbatims**:
+131. "et au niveau de l'impact environnemental aussi, je sais pas si c'est quelque chose qui te parle?"
+132. "des impacts environnementaux quoi. oui, je sais que chaque recherche que je fais ça a des impacts."
+133. "mais qu'est-ce qu'en fait ça existe mais c'est vrai que je sais pas quoi faire avec quoi."
+134. "et aussi l’électricité, tout ça."
+135. #### 3. **rapports sociaux et interactions**
+136. **thématique**: evolution des relations humaines dans un contexte numérique
+137. **verbatims**:
+138. "ça aide à... enfin, ça conforte encore dans cette société où, finalement, tu peux tourner vers quelque chose qui n'est pas humain."
+139. "tu as l'impression qu'il te comprend plus qu’un humain finalement."
+140. "ça conforte encore dans cette société où, finalement, tu peux tourner vers quelque chose qui n'est pas humain."
+141. #### 4. **éthique et utilisation des outils numériques**
+142. **thématique**: dilemmes éthiques et moraux liés à l'utilisation des ia
+143. **verbatims**:
+144. "après, je n’aime pas mentir, donc si je devais dire que ça vient de chatgpt, ce serait parce que j’aurais une raison de le faire."
+145. "il vaut mieux éviter de prendre ce qu'il dit mot pour mot et de ne pas faire de copier-coller, parce qu’on sait pas d’où viennent les infos."
+146. "est-ce qu'ils peuvent… qu'est-ce qu'ils peuvent faire avec ? et pour les profs aussi."
+147. #### 5. **attitudes des étudiants et des enseignants**
+148. **thématique**: attitudes des étudiants et des enseignants face à l'utilisation des ia
+149. **verbatims**:
+150. "mais c'est aussi l'idée du fait que les profs, les attentes qu'ils ont, le regard qu'ils ont. et du coup, t'as quand même envie de donner une bonne image."
+151. "mais j'oserais pas vraiment dire que c’est une bonne chose."
+152. "il y a une prof qui a dit qu’il fallait faire attention parce que, justement, chatgpt ne donne pas de sources."
+153. #### 6. **impact et avancées technologiques**
+154. **thématique**: perspectives sur l'évolution et l'impact futur des ia sur l'apprentissage
+155. **verbatims**:
+156. "et je pense que dans le futur, il y aura une aide tout le temps à disposition 24h sur 24."
+157. "ce sera vraiment..."
+158. "et c'est un peu problématique, on arrive déjà pas à tout se contrôler dans la vie, mais si nous-mêmes on crée un truc pour nous contrôler, c’est encore pire."
+159. #### 7. **cadre réglementaire et éthique**
+160. **thématique**: réglementation et éthique de l'utilisation des ia
+161. **verbatims**:
+162. "c'est sûr, mais dans quel cadre faudrait-il la cadrer ?"
+163. "c'est pour ça qu’il y a une réglementation sur les routes et tout ça. et pis je me dis, est-ce que ça pourrait ressembler à ça, la réglementation des ia ?"
+164. "de poser des limites, mais tout en ne limitant pas la créativité."
+165. #### 8. **compétences et formation**
+166. **thématique**: formations et compétences nécessaires pour utiliser les ia dans un cadre académique
+167. **verbatims**:
+168. "mais faut-il former à ça ? je pense que c’est que déjà il y a un cours de compétences numériques ? mais peut-être qu'il en faut un."
+169. "et pis je pense qu'on devrait le promouvoir, on devrait en mettre des affiches, on devrait dire que ça existe parce que je pense que les gens ne savent pas que ça existe."
+170. ces thématiques et les verbatims associés peuvent fournir une base solide pour une analyse sociologique approfondie sur la perception, l'utilisation et les implications des nouvelles technologies dans le contexte académique

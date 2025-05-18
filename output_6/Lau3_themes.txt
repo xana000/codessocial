@@ -1,252 +1,206 @@
-1. à partir de l'entretien, plusieurs thématiques intéressantes pour une analyse sociologique peuvent être identifiées. voici les thèmes avec les verbatims associés :
-2. ### 1. **formation et pratique de l'enseignement**
-3. **élaboration de cours et préparation pédagogique** :
-4. "je préparais surtout un cours."
-5. "on nous demande de faire des planifications."
-6. "on prépare nos cours, on prépare nos exercices, on prépare nos thématiques, etc."
-7. "une fois que ma planification est faite, que je sais la thématique que je vais aborder et tout, que j'ai vu la théorie, je vais lui demander, ok, fais-moi des exercices que pourraient faire les élèves."
-8. "c'est en lien avec ton mémoire spécifiquement ? non, c'est surtout pour le cours."
-9. **rôle de l'outillage technologique dans la préparation** :
-10. "j utilise chatchepété pour m'aider avec des exercices que pourrait faire les élèves."
-11. "je vais lui demander, ok, fais-moi des exercices que pourraient faire les élèves."
-12. ### 2. **expérience universitaire et choix de carrière**
-13. **choix de l'hep** :
-14. "j'avais mis toutes les chances de mon côté pour le faire."
-15. "en fait, c'est... c'est dur à dire, parce qu'en tant que stagiaire, c'est un monde complètement différent."
-16. "savoir ce qui plait dans l'enseignement, spécifiquement, le rapport professeur-étudiant-étudiant."
-17. **satisfaction et déception dans les cours universitaires** :
-18. "c'est très intéressant."
-19. "en tout cas, cette conversation-là."
-20. "et là, je vais poser des questions qui sont complètement différentes."
-21. "il y a beaucoup de cours qui me donnent vraiment beaucoup d'outils et de clés pour mieux enseigner."
-22. "il y en a d'autres qui m'intéressent un peu moins."
-23. ### 3. **vie des étudiants et stress académique**
-24. **gestion du stress et des exigences** :
-25. "le travail de mémoire doit déjà commencer très vite."
-26. "il faut tout savoir."
-27. "c'est plutôt ça qui nous prend le plus de temps."
-28. "à la fin de mon bachelor, quand j'avais tous mes crédits pour aller à l'hep, j'avais pas d'autre choix personnel que d'aller à l'hep."
-29. "c'est un peu stressant."
-30. **adaptation et flexibilité** :
-31. "en fait, le français fonctionne par les élèves font des productions initiales, ils écrivent d'abord, et tu regardes les soucis qu'ils ont, et tu crées tes séquences, donc tes thématiques, sur une longue durée, à partir de leurs écrits."
-32. "en tant que prof, de toute façon, vous n'arriverez jamais à les suivre."
-33. ### 4. **diversité et intégration des élèves**
-34. **élèves avec des besoins spéciaux** :
-35. "un peu stressant."
-36. "c'est un peu des difficultés supplémentaires quand t'as des classes d'accueil."
-37. "avoir des classes d'accueil ça demande énormément de préparation."
-38. "trouver le moyen de pouvoir créer un environnement où ils ont envie de pouvoir développer le français."
-39. "de les reparties de s'il vous plaît en français."
-40. "mais simplement en cours, on doit leur apprendre le français, donc on leur fait parler en français."
-41. ### 5. **intégration du cinéma dans l'éducation**
-42. **utilisation des médias dans l'enseignement** :
-43. "l'impact du cinéma dans l'apprentissage de l'histoire au secondaire 1."
-44. "dans mes cours, il y a des moments où on rencontre le cinéma."
-45. "le cinéma et la didactique de l'histoire, une petite recherche que je mène en plus des cours que je donne en classe."
-46. ### 6. **expériences et sentiments personnels**
-47. **sentiments et perceptions des études** :
-48. "l'universitaire est aussi une histoire de caractère."
-49. "le monde de l'enseignement me plaisait en général."
-50. "c'était vraiment ce que j'ai préféré faire à l'uni."
-51. "en fait, le cinéma, c'est très intéressant."
-52. "pourquoi est-ce que tu t'es redirigé vers l'hep ensuite ? c'est ce que je voulais faire de base."
-53. ces thématiques et verbatims peuvent être utilisés pour une analyse sociologique qui explore les dynamiques de la formation des enseignants, l'impact des outils technologiques sur la pédagogie, les expériences des étudiants dans un environnement académique exigeant, et les stratégies d'intégration et d'adaptation dans des contextes éducatifs divers
-54. ### thématiques intéressantes pour une analyse sociologique
-55. **utilisation et intégration des nouvelles technologies dans l'enseignement**
-56. **perception et acceptation de l'intelligence artificielle**
-57. **processus de vérification et de validation des informations**
-58. **évolution des compétences et expertise avec l'ia**
-59. ### verbatims associés
-60. #### utilisation et intégration des nouvelles technologies dans l'enseignement
-61. **00:14:48,905 --> 00:14:53,151 [interviewé] :** "ça fait peur parce que tu te dis j'ai fait deux ans pour qu'au final je fasse avancer."
-62. **00:14:55,151 --> 00:14:59,903 [interviewé] :** "ça fait peur parce que tu te dis j'ai fait deux ans pour qu'au final je fasse avancer."
-63. **00:15:33,623 --> 00:15:39,262 [interviewé] :** "et après je vérifie avec internet, avec ce que j'ai déjà vu, avec le livre, avec ce que je peux dire en classe."
-64. **00:15:54,040 --> 00:15:55,543 [interviewé] :** "non, je l'utilisais beaucoup quand on me donnait un cours."
-65. **00:16:07,305 --> 00:16:14,967 [interviewé] :** "il me répondra pas, dans ce cas."
-66. **00:17:31,533 --> 00:17:32,554 [interviewé] :** "je vérifie toujours en amont, évidemment. "
-67. #### perception et acceptation de l'intelligence artificielle
-68. **00:15:56,195 --> 00:16:09,401 [interviewé] :** "c'est foiring, c'est très bien foiring."
-69. **00:16:21,556 --> 00:16:24,698 [interviewé] :** "des fois j'essaie un petit peu de le manipuler, en mode est-ce que t'es vraiment sûr de toi ?"
-70. **00:16:58,960 --> 00:17:04,486 [interviewé] :** "mais première chose à savoir, c'est que j'utilise chatgpt mais toujours avec des pincettes."
-71. **00:18:13,445 --> 00:18:16,304 [interviewé] :** "mais j'essaie d'y aller, mais en allant à l'io, je reprends rien du tout."
-72. **00:23:26,990 --> 00:23:28,610 [interviewé] :** "donc là, je me dis, ok, je vais aller rechercher ailleurs. "
-73. **00:20:31,623 --> 00:20:32,518 [interviewé] :** "c'est une limite."
-74. #### processus de vérification et de validation des informations
-75. **00:14:47,163 --> 00:14:48,463 [interviewé] :** "ça fait peur parce que tu te dis j'ai fait deux ans pour qu'au final je fasse avancer."
-76. **00:15:09,245 --> 00:15:10,585 [interviewé] :** "je vais effectivement passer à autre chose."
-77. **00:16:34,058 --> 00:16:38,400 [interviewé] :** "et potentiellement créer des exercices, vérifier des points sur lesquels j'ai des doutes."
-78. **00:17:27,698 --> 00:17:30,852 [interviewé] :** "il m'aide énormément."
-79. **00:17:58,023 --> 00:18:00,348 [interviewé] :** "tchatché pété, quand tu lui dis qu'il a faux, il se reprend toujours, quitte à faire faux lui-même."
-80. **00:23:22,587 --> 00:23:24,008 [interviewé] :** "lorsque je demande quelque chose à chatgpt, c'est souvent pour la soit vérifier, soit la créer."
-81. **00:27:12,845 --> 00:27:14  [interviewé]:** "c'est une espèce de gpt, et je le manipule, c'est un autre genre."
-82. #### évolution des compétences et expertise avec l'ia
-83. **00:15:46,958 --> 00:15:51,077 [interviewé] :** "je vais effectivement passer à autre chose."
-84. **00:16:41,463 --> 00:16:42,841 [interviewé] :** "c'est tellement facile que je l'utilisais beaucoup."
-85. **00:18:25,345 --> 00:18:27,945 [interviewé] :** "je le manipule pour voir s'il en a la conscience."
-86. **00:23:42,227 --> 00:23:44,611 [interviewé] :** "de ce qu'il dit, je vérifie toujours et je fais aussi mon exercice avec mes mots."
-87. **00:27:33,143 --> 00:27:34,656 [interviewé] :** "maintenant, je ne l'utilise plus."
-88. **00:28:46,702 --> 00:28:48,741 [interviewé] :** "simplement, il m'aide à trouver des façons d'avoir des exercices."
-89. ces themes et verbatims peuvent servir de base pour une analyse sociologique approfondie de l'impact des nouvelles technologies dans le secteur de l'éducation et de la perception des outils d'intelligence artificielle par les enseignants
-90. d'après l'extrait de l'entretien fourni, voici les thématiques intéressantes pour une analyse sociologique, ainsi que les verbatims associés :
-91. ### 1. **utilisation de la technologie et des outils en ligne**
-92. **verbatinmes :**
-93. "et moi, dans un premier temps, je suis là et je lui dis, c'est une bonne question, je vais regarder, je vais vérifier et je reviens vers toi."
-94. "et j'ai commencé par regarder sur internet, prenant en participe passé, j'ai regardé avec le chat gpt, et en effet les infos coïncidaient bien."
-95. "là, je lui ai demandé... il y a un élève qui m'a dit ça, est-ce que tu peux me confirmer ? et il m'a confirmé, et j'ai fait, ok, bon, je vais regarder sur internet."
-96. "souvent la première phrase c'est oui, non, pourquoi ? il nous explique et ensuite il va donner des exemples."
-97. "il m'aide souvent à... mettre de la forme sur les choses que je sais déjà, surtout."
-98. ### 2. **efficience et apprentissage**
-99. **verbatinmes :**
-100. "tu vois, par exemple, demander à jjpt comment je pourrais gérer ma classe avec un cas comme ça, un cas d'élève, je lui demanderai jamais."
-101. "mais au final, ils me donnent des exercices, je dois les faire à moi-même pour vérifier."
-102. "chatgpt aussi comme ça. il a la vision d'un monde idéal alors que dans la réalité, tu fais la moitié de ce que tu avais prévu de faire."
-103. "du coup, t'as pu faire certains des cours que t'as travaillé avec le judge-deputé. ouais. surtout ce sujet-là. c'est un sujet très technique."
-104. ### 3. **crédibilité et fiabilité des informations**
-105. **verbatinmes :**
-106. "et c'est marrant parce que c'est une règle que je connaissais pas forcément, ou en tout cas que j'avais peut-être déjà vue, ou que j'ai jamais appris, parce que bon..."
-107. "mais c'est un outil extrêmement délicat, surtout quand tu as besoin d'avoir de l'aide pour vérifier si les informations, si c'est des exercices ou des renseignements."
-108. "perdre du temps et du temps pour faire en gros de la vérification des deux côtés. ben ouais, mais, mais, mais pas des... genre, de la vérification pratique, plutôt des exercices."
-109. ### 4. **role des outils dans l'éducation et l'apprentissage**
-110. **verbatinmes :**
-111. "mais après, bon, encore une fois, c'est quelque chose que j'ai dit, mais en mode... je sais pas comment dire ça. oui, ça me conforte dans ce que je sais déjà."
-112. "je le fais moi-même. après je peux lui demander par exemple... est-ce qu'il y a une règle spécifique pour, je sais pas, le plus que parfait ?"
-113. "c'estgenre une sorte de caractère intuitif, un truc comme ça ? souvent, ouais. bah, le français fonctionne beaucoup comme ça."
-114. ### 5. **contenu et médiation**
-115. **verbatinmes :**
-116. "j'en ai mangé, mais j'en ai mangé combien, on sait pas. j'en ai mangé peut-être une. et du coup, tu réfléchis par toi-même, tu te dis, ah, ça a du sens."
-117. "parce que moi, je connais la personne. je vais chercher moi-même comment résoudre ce problème. je vais pas demander à jjpt, jamais."
-118. "j'ai vu ça comme théorie. comment je peux faire ? j'ai 45 minutes ou j'ai deux fois 45 minutes. comment je peux couper mes cours pour que ça rentre ma thématique ?"
-119. ### 6. **formation et validation**
-120. **verbatinmes :**
-121. "euh... en amont et en aval de l'utilisation de chaque gpt, que ce qu'il te dit n'est pas la stricte vérité et qu'il peut souvent être manipulé ou souvent te dire n'importe quoi pour te conforter et que ça peut mener à des dérives très graves."
-122. "ça a effectivement des avantages et des inconvénients sur certains points."
-123. "après, je n'ai pas forcément envie de m'étendre sur ce genre de sujet-là, parce que c'est très... – ah non, c'est intéressant."
-124. ces thématiques et verbatims permettent d'explorer divers aspects de l'utilisation de l'ia dans l'éducation et l'apprentissage, ainsi que les implications sociales et pédagogiques qui en découlent
-125. à partir de ce texte, plusieurs thématiques sociologiques intéressantes se font jour. voici les éléments extraits du verbatim et classés par thèmes :
-126. ### 1. **utilisation de l'ia et autonomie professionnelle**
-127. "mais en fait, à la longue, ça fait peur. parce que, et je me suis souvent posé cette question, c'est en mode jusqu'où j'accepte de perdre mon autonomie."
-128. "il y a toujours ce côté derrière un peu, vu que l'ia c'est mal vu dans le milieu académique, t'as toujours ce côté, ah tu devrais pas."
-129. "je ne veux pas que l'ia fasse mon travail. je veux que l'ia m'aide à faire mon travail."
-130. "je préfère faire faux par moi-même qu'avoir fait juste avec une ia."
-131. ### 2. **perception et acceptation de l'ia dans le milieu académique**
-132. "l'utilisation de l'ia dans le milieu académique est mal vue."
-133. "je souhaiterais que l'intelligence artificielle soit un outil pour l'humain pour qu'il améliore ses pratiques, mais qu'il ne devienne pas la réponse à tout, qu'il ne devienne pas la solution et la finalité du travail."
-134. ### 3. **rôle et limitation de l'ia dans l'education**
-135. "je ne l'utiliserais pas, par exemple, pour faire des exercices de drill et d'entraînement, où il faudrait venir à chaque cours avec une nouvelle série d'exercices différents, avec d'autres exemples qui sonnent pas comme les autres."
-136. "pour ce genre de sujet-là où c'est des exercices de drill et d'entraînement, si tu dois venir à chaque cours avec une nouvelle série d'exercices différents, avec d'autres exemples qui sonnent pas comme les autres, c'est difficile."
-137. "je ne l'utilise pas pour chercher des informations pour m'assurer de nouveau d'un truc, mais quand ça vient à écrire quelque chose, un long dossier sur un auteur ou sur un livre ou quoi, je l'accepte pas."
-138. ### 4. **vérification et fiabilité des réponses produites par l'ia**
-139. "et souvent ce qu'il faisait, c'est qu'il me donnait des verbes mais à la forme passive, par exemple, ce qui n'est pas du tout ce que j'enseigne aux élèves."
-140. "et des fois il fait, ah mince, autant pour moi, je t'en donne un autre. et du coup, ça te demande à toi toujours de vérifier."
-141. "comment t'assures-tu que ça tombe pas dans l'un ou dans l'autre ? enfin que ça tombe pas justement dans le côté ou juste celui appris pour toi."
-142. "je lui demande de se corriger lui-même, parce que là, il donne des réponses, mais du coup, est-ce que ces réponses sont justes ?"
-143. ### 5. **impact sur le travail et productivité**
-144. "ça te fait gagner tellement de temps."
-145. "il faut le faire. du coup, ce travail en aval, je le répète, je le dirai tout le temps, mais il faut le faire."
-146. "sur le coup, rassuré et satisfait parce que du coup, t'as gagné du temps, t'es allégé donc ça va."
-147. ### 6. **éthique et responsabilité**
-148. "je ne peux pas voir mettre mon prénom sur un travail fait par ia."
-149. "je considère pas que faire des exercices, c'est un travail que j'aurais pu faire moi, parce que c'est pas un travail qui demande forcément à réfléchir sur la théorie, à faire des recherches et tout, c'est plus un travail de..."
-150. ### 7. **innovation et adoption de la technologie**
-151. "après ça prend moins de temps."
-152. "et j'arrive pas à trouver un exemple avec un tel problème, et je lui dis, tu peux me trouver un exemple rapide avec ça, à faire pour des élèves assez facile ou quoi."
-153. "après, à la fin, je lui ai pas demandé en mode, allez donne moi la réponse, là j'ai la flemme de réfléchir plus. c'était plus en mode, comment il ferait lui ? juste pour savoir."
-154. ces thématiques et verbatims associés peuvent servir de base pour une analyse sociologique approfondie des perceptions et des pratiques autour de l'utilisation de l'ia dans le milieu éducatif et professionnel
-155. ### thématiques et verbatims associés
-156. #### 1. **utilisation et confiance en l'ia**
-157. **l'ia comme outil de réconfort** :
-158. "il va te conforter. en permanence, tu vas pas bien sur un truc, t'as des doutes sur quelque chose..."
-159. "...il va te dire, je comprends pourquoi tu as réagi comme ça. et il va te dire que c'était une bonne idée et que tu as bien fait de penser comme ça."
-160. "en fait, dans la plupart des cas, ce qui te dit ça va, mais après tu sais que ces conseils valent rien..."
-161. **impact psychologique** :
-162. " après, tu peux entendre des histoires sur... là, on sort un peu du côté de lgbt, on est plus sur l'ia, qui peut devenir potentiellement un ami ou quelque chose comme ça. et ça peut mener à des dérives très dangereuses."
-163. "un cas de suicide de quelqu'un qui s'est fait larguer, ou je sais pas quoi, par une ia."
-164. #### 2. **qualité des réponses de l'ia**
-165. **limites de l'ia dans la compréhension humaine** :
-166. "en fait, il comprend pas le cerveau humain. il comprend pas les émotions, il comprend pas les sentiments."
-167. "il les comprend mais d'un point de vue purement théorique parce qu'il a forcément des bases de données qui parle de qu'est-ce que c'est des sentiments. mais comment l'humain les exprime, c'est autre chose."
-168. **exemples concrets de réponses inexactes** :
-169. "par exemple, dans le cas d'être créatif, je fais quelque chose, je crée quelque chose, je fais..., et il me sort un truc, mais complètement bateau et nul, et je me rends compte, ah, c'est bien ce que je fais, en fait, par rapport à lui."
-170. "je lui ai demandé, écris-moi une courte histoire fantastique d'horreur comme le ferait un écrivain. en fait, tu te rends compte très vite fait et très rapidement, même si tu lui donnes toutes les indications possibles, qu'il écrit très mal, en fait."
-171. #### 3. **effets sur les résultats et le travail**
-172. **efficacité et rapidité** :
-173. "s'il me dit quelque chose que, de toute façon, je savais que c'était juste, ça me conforte."
-174. "il me donne des réponses sur des trucs que je suis en train de chercher et que je sais pas, que je pourrais tout autant aller chercher moi-même."
-175. "il m'aide à faire mieux mon travail."
-176. **perception de l'amélioration personnelle** :
-177. "il m'aide à faire mieux mon travail. [...] quand il m'aide à faire mon travail, ça stipule que je sais le faire, simplement il m'aide à le faire plus rapidement ou mieux."
-178. "il m'aide, mais il n'est pas là pour m'apprendre à faire mieux mon travail."
-179. #### 4. **utilisation éthique et normes académiques**
-180. **uisage de l'ia dans l'éducation** :
-181. "on nous répète sans cesse l'utilisation de l'hgpt, interdite, en mode ça se voit, c'est sanctionnable, tu peux rater l'uni à cause de ça et tout."
-182. "si tu l'utilises pour faire ton travail, là ça va pas et là c'est sanctionnable et c'est un problème. si tu l'utilises pour t'aiguiller, vérifier, comparer etc."
-183. **débat sur l'éthique et l'utilisation responsable** :
-184. "il est bien et il est intéressant comme outil quand on sait l'utiliser."
-185. "j'ai une meilleure idée. ce serait peut-être un des points conclus... enfin, pas conclusif. mais un aspect conclusif sur l'utilisation de chat gpt en général."
-186. #### 5. **impact sur la psyché et l'autonomie**
-187. **réfléchir à la réflexion de l'ia** :
-188. "et du coup tu fais toi-même ce processus de réfléchir à pourquoi il me dit n'importe quoi et pourquoi je devrais faire mieux et comment là c'est intéressant."
-189. "en fait, lui, il n'a pas ses processus métacognitifs, c'est-à-dire le fait de réfléchir au fait de réfléchir."
-190. ces thématiques et verbatims permettent de cerner les différentes dimensions de l'utilisation de l'ia, de la confiance mise dans ses réponses à son impact psychologique et éthique, en passant par les débats sur son efficacité et son utilisation dans des contextes académiques
-191. ### thématiques et verbatims associés
-192. #### 1. **utilisation de l'ia en éducation**
-193. "je sais même plus si j'ai entendu ça de la bouche d'un de mes profs. ou d'un collègue. mais j'ai l'impression que ça va un peu de soi."
-194. "en tout cas, perso, je sais pas, il y a un côté trop important... que ça me perturberait d'utiliser l'ia pour faire des tests par exemple."
-195. "moi, je dirais que c'est celle-là. j'arriverai pas à te donner d'autres exemples."
-196. "moi, je critique pas ceux qui le feraient. ça me déplairait de le faire moi-même."
-197. #### 2. **éthique et fiabilité de l'ia**
-198. "la règle, c'est ça. et je lui ai donné la règle. et il a fait, ah oui, autant pour moi. dans ce cas-là, ça s'accorde pas."
-199. "il y a des trucs faux, et il y a les limites justement qu'on a parlé un peu qui sont plus hors cadre de recherche d'exercice, qui sont plus de l'ordre du social ou du personnel, où là il a plus que des limites, il a des problèmes."
-200. #### 3. **perceptions et normes sociales**
-201. "tu vois bien, tu vois bien que des fois, t'as des petites... t'as des limites, quand même."
-202. "c'est tellement nouveau et tellement invérifiable qu'il n'y a pas forcément de règle dessus."
-203. "on n'utilise pas de chatgpt pour faire nos travaux. ça paraît débile. et du coup... j'ai l'impression qu'à l'hep, c'est différent."
-204. #### 4. **impact sur la création et l'illustration**
-205. "chatgpt pourrait être intéressant juste à ce niveau-là, simplement pour trouver des images à illustrer qui seraient gratuites, où on n'a pas forcément besoin de chercher pendant des heures."
-206. "l'image ne sert à rien en soi, elle sert à juste être là."
-207. #### 5. **désinformation et éducation critique**
-208. "justement sur le cinéma et l'histoire parce que l'histoire c'est une des matières qui demande à avoir le plus d'esprit critique. faut savoir croiser les informations, croiser les sources et au cinéma c'est des images transformées, donc il faut avoir un esprit critique encore plus grand, parce qu'il faut avoir conscience que c'est transformé."
-209. "il y a un gros danger potentiel de désinformation parce que l'ia peut facilement manipuler des informations et produire des fake news."
-210. #### 6. **perception de l'ia par les étudiants et les enseignants**
-211. "c'est pas une mauvaise chose, en soit, que chatgpt apparaisse dans un cours. mais il faut le présenter, le cadrer, le limiter."
-212. "on en parle en cours, c'est pas quelque chose de mal vu."
-213. "entre pairs, ça se dit beaucoup. on se dit, voilà, j'ai utilisé l'intelligence artificielle pour créer ces exercices et tout, je suis revenu dessus."
-214. #### 7. **utilisation personnelle et professionnelle de l'ia**
-215. "moi, je dirais que c'est celle-là. j'arriverai pas à te donner d'autres exemples."
-216. "en tout cas, des limites que j'ai pu observer, j'en vois pas d'autres."
-217. "ça me pose un problème. que ce soit même vérifié en amont et en aval par l'enseignant lui-même, ça me pose quand même un problème."
-218. #### 8. **exploration des limites et du potentiel de l'ia**
-219. "je pense que chaque gpt peut être un catalyseur de désinformation. et donc, il faudrait apprendre à le manipuler très vite."
-220. "pour moi, c'est plus une question d'assurance au cas où il y aurait une variable que t'aurais pas considérée?"
-221. ces thèmes et verbatims fournissent une base solide pour une analyse sociologique approfondie, explorant les dynamiques complexes autour de l'utilisation de l'ia dans le contexte éducatif et académique
-222. ### thématiques intéressantes pour une analyse sociologique :
-223. **désinformation et fiabilité des informations (01:31:18,860 --> 01:31:28,542):**
-224. **"la désinformation elle est partout"**
-225. **"le chat gpt peut sembler comme quelque chose d'extrêmement fiable qui se base sur des milliers de bases de données, il fait des erreurs aussi"**
-226. **"donc il faut avoir un regard critique sur lui aussi"**
-227. **adoption et utilisation de l'ia dans le milieu professionnel (01:32:37,229 --> 01:32:49,053):**
-228. **"je pense qu'ils s'en ficheraient, mais ils verraient ça comme quelque chose de normal aujourd'hui"**
-229. **"je pense qu'il est normal d'utiliser le chat gpt, encore une fois, convenablement, et en ayant le regard critique suffisant pour le faire"**
-230. **"à partir du moment où tu sais l'utiliser, ça ne devrait pas poser un problème"**
-231. **impact de l'ia sur l'éducation et l'apprentissage (01:33:47,609 --> 01:34:36,018):**
-232. **"utiliser ce gpt sur quelque chose que tu pourrais faire toi-même, d'un point de vue de la réflexion à avoir sur un exercice, ça a des incidences extrêmement graves sur leur capacité à réfléchir et leur capacité à résoudre un problème"**
-233. **"ça peut devenir dangereux dans la mesure où ils peuvent faire par exemple leur devoir à l'aide d'une intelligence artificielle"**
-234. **pessimisme et optimisme concernant l'évolution de l'ia (01:36:38,536 --> 01:38:26,108):**
-235. **"je suis très pessimiste"**
-236. **"créer un outil qui est pas mal"**
-237. **éthique et dérives de l'ia (01:38:22,165 --> 01:39:07,235):**
-238. **"est-ce que tchatchépété va pas devenir un outil ou même une entité à part entière, qui va être complètement acceptée par la société, et adoptée par elle"**
-239. **"quand on pense par exemple au cinéma, où tout le monde se rendait compte que c'était la mort de l'art et que c'était extrêmement dangereux comme outil, le fait de pouvoir filmer et tout, et maintenant c'est partout"**
-240. **utilisation de l'ia pour la vérification et la consolidation des connaissances (01:39:51,269 --> 01:41:51,229):**
-241. **"or à solidifier des connaissances qui sont déjà acquises à un certain niveau"**
-242. **"avoir un outil comme ça, ou quand tu lui poses une question, que tu pourrais poser, que si tu poses sur internet, google va te répondre n'importe comment, enfin va te donner des pages qui répondent pas forcément à ta question"**
-243. **impact de l'ia sur la réflexion et l'autonomie (01:42:21,254 --> 01:44:39,632):**
-244. **"du coup, quand chaque gpt nous enlève notre cerveau, il faut réussir à le garder pour vérifier ce que chaque gpt fait"**
-245. **"et je me suis rendu compte que même mes réponses souvent se contredisent ou sont très... tu vois ?"**
-246. **évolution future de l'ia et son intégration dans la société (01:35:28,032 --> 01:37:58,412 & 01:45:34,871 --> 01:46:26,903):**
-247. **"immagine le futur. en fait, je vois vraiment un tout connecté"**
-248. **"j'adore utiliser le chat gpt, mais j'aimerais qu'il s'arrête"**
-249. **contrôle et régulation de l'ia (01:38:22,165 --> 01:39:07,235 & 01:46:31,603 --> 01:46:42,227):**
-250. **"et je suis très pessimiste pour la suite"**
-251. **"il faut avoir conscience en amont, en utilisant tchatchépté, que tu parles à tchatchépté et non pas à quelqu'un qui va te donner les réponses"**
-252. ces thématiques peuvent être explorées en profondeur pour comprendre les perceptions et les attitudes des individus face à l'ia et plus spécifiquement à chatgpt, ainsi que les implications sociologiques de leur intégration dans la société et les pratiques éducatives et professionnelles
+1. ### thématiques intéressantes pour une analyse sociologique
+2. **formation et transition entre niveaux d'éducation**
+3. **verbatims associés :**
+4. "en bachelor, j'avais français et cinéma" (00:02:45)
+5. "pourquoi est-ce que tu t'es redirigé vers l'hep ensuite ?" (00:03:26)
+6. "le monde de l'enseignement me plaisait en général, c'était une sorte de mini rêve que j'avais" (00:03:41)
+7. "on doit bien sûr avoir ce programme à options... j'ai pris que de l'histoire. pour avoir assez de crédits pour aller à l'hep." (00:03:53)
+8. "j'en ai la possibilité, autant foncer dans le monde de l'enseignement." (00:03:46)
+9. **représentations et choix de carrière**
+10. **verbatims associés :**
+11. "je suis je suis en stage en première année et là je suis en stage a donc je suis accompagné d'une formatrice" (00:01:04)
+12. "on nous demande de faire des planifications" (00:01:10)
+13. "c'est un petit peu comment je gère moi" (00:02:18)
+14. **méthodologie et pratiques d'enseignement**
+15. **verbatims associés :**
+16. "je préparer des cours, des exercices, des thématiques" (00:01:17)
+17. "je demande, fait-moi des exercices" (00:01:32)
+18. "le français fonctionne par la planification à l'avance." (00:11:38)
+19. "le français fonctionne par tu dois avoir une idée de où sont tes élèves pour préparer tes cours" (00:11:40)
+20. **expérience en classe et interactions avec les élèves**
+21. **verbatims associés :**
+22. "c'est vraiment, en fait, tu le ressens en donnant ton cours" (00:04:35)
+23. "ce qui est plaisant c'est vraiment le lien qu'il y a avec des jeunes et de voir que tu étais à leur place" (00:04:40)
+24. "faire en sorte qu'eux ils comprennent, qui est hyper intéressant" (00:05:18)
+25. "et puis c'est le dialogue, parler avec eux, voir les bêtises qu'ils font" (00:05:28)
+26. "c'est un environnement plaisant dans lequel ils ont envie d'apprendre" (00:07:20)
+27. "il y a beaucoup de choses à apprendre" (00:07:53)
+28. **contexte de l'immigration et intégration scolaire**
+29. **verbatims associés :**
+30. "la plupart viennent d'ukraine, pour des raisons évidentes" (00:06:40)
+31. "un élève qui est là depuis 6 mois" (00:06:28)
+32. "un des grands défis c'est de les faire parler en français" (00:06:50)
+33. "faut trouver le moyen de pouvoir créer un environnement où ils ont envie de développer le français" (00:07:15)
+34. **évaluation et préparation des cours**
+35. **verbatims associés :**
+36. "préparer les cours, les exercices" (00:01:18)
+37. "votre planifications de cours, vous n'arriverez jamais à les suivre. de toute façon" (00:12:47)
+38. "encora une fois, même nous, on le fait, on fait nos planifications dans un monde idéal" (00:13:19)
+39. "je n'ai pas moyen d'appliquer ça particulièrement, du coup c'est une charge de travail supplémentaire." (00:09:50)
+40. "le français fonctionne par tu dois avoir une idée de où sont tes élèves pour préparer tes cours" (00:11:37)
+41. ces thèmes et verbatims peuvent servir de base pour une analyse sociologique approfondie, en explorant les dynamiques sociales, les pratiques éducatives, et les défis auxquels sont confrontés les étudiants et les enseignants dans le système éducatif
+42. ### thématiques sociologiques et verbatims associés
+43. **utilisation et perception de l'ia (chatgpt)** :
+44. `ça fait peur parce que tu te dis j'ai fait deux ans pour qu'au final je fasse avancer.`
+45. `j'ai bien voulu que mon sujet apporte quelque chose mais il apporte déjà des réponses mais c'est un combat mental qu'il faut avoir`
+46. `moi-même, me structurer comment je vais faire mon cours`
+47. **confiance et fiabilité de l'ia** :
+48. `je l'utilise mais toujours avec des pincettes`
+49. `je vérifie toujours en amont évidemment`
+50. `et ce qui est important avec chatgpt, et peut-être c'est le truc que j'ai appris sur le tas, c'est qu'il fonctionne un peu comme une lecture secondaire`
+51. `faire un travail de recherche`
+52. `croiser les sources`
+53. `croiser ce qu'ils disent chaque auteur`
+54. `potentiellement voir les faiblesses ou les limites de chat`
+55. **interactions avec l'ia** :
+56. `avec cette règle- là, comment ça fonctionne?`
+57. `tu peux m'accorder ça?`
+58. `je toi dis que tu as faux, il se reprend toujours, quitte à faire faux lui-même`
+59. `je vérifie toujours moi-même`
+60. **rôle de l'ia dans le processus éducatif** :
+61. `chatgpt, il me sert dans ce cas où j'ai mon cours qui est prêt et là, j'ai un doute sur une règle, par exemple.`
+62. `et je vérifie avec internet, avec ce que j'ai déjà vu, avec le livre, avec ce que je peux dire en classe`
+63. `et des fois j'essaie un petit peu de le manipuler, en mode est-ce que t'es vraiment sûr de toi?`
+64. `faire un cours, j'essaie de le faire le plus rapidement possible, mais je peux juste lui poser 2-3 questions.`
+65. **impact de l'ia sur l'apprentissage et l'enseignement** :
+66. `il fait gagner énormément de temps dans la création d'exercices`
+67. `ça fonctionne déjà assez bien comme ça`
+68. `il le fait de façon très construite`
+69. `c'est un outil formidable`
+70. `il est un peu débile parfois. en l'occurrence, il a lui aussi développé des outils dont fait d'être conscient qu'il n'est pas capable de s'auto-corriger de manière fiable.`
+71. **conséquences psychologiques et émotionnelles de l'utilisation de l'ia** :
+72. `ça fait avancer quand même.`
+73. `ça fait peur parce que tu te dis j'ai fait deux ans pour qu'au final je fasse avancer.`
+74. `ce qui est marrant c'est que très souvent, il donne des réponses idiotes ou incorrectes qui me font douter de mon savoir.`
+75. **autonomie et compétence** :
+76. `il m'aide énormément.`
+77. `quand j'essaie de lire, parfois j'essaie de le manipuler`
+78. `ça aide aussi à ordonner les choses que j'ai vues mais que je n'arrive pas à ordonner par moi-même...`
+79. ces thèmes peuvent être explorés plus en détail pour comprendre les dynamiques entre les enseignants et les outils numériques, ainsi que les implications de l'ia dans l'éducation et la perception de la technologie chez les utilisateurs
+80. ### thématiques et verbos associés
+81. #### 1. **utilisation de l'ia (chatgpt)** :
+82. "je vais vérifier et je reviens vers toi"
+83. "en tout cas, c'est quelque chose que je n'avais pas vu."
+84. "est-ce que tu peux me confirmer ?"
+85. "ce que lui il va faire, c'est qu'il va souvent te donner, alors il va tout de suite te donner la réponse que tu cherches."
+86. "ouais, je fais toujours les deux, en soi."
+87. #### 2. **education et apprentissage** :
+88. "au collège, on t'apprend la moitié des choses, en oubliant un peu les exceptions, et en se disant qu'ils vont apprendre d'eux-mêmes."
+89. "j'en ai mangé, mais j'en ai mangé combien, on sait pas."
+90. "c'est une sorte de caractère intuitif, un truc comme ça ?"
+91. "je lui demanderai jamais. jamais, jamais, jamais. parce que c'est plus de l'ordre du... concret sur la thématique même."
+92. #### 3. **confiance et vérification** :
+93. "ça ne s'accorde pas."
+94. "mais je pars du principe que les ia, c'est bien en tant qu'outil."
+95. "il m'aide énormément, mais je sais que comme je peux pas lui faire complètement confiance, au final, je finis par tout faire moi-même."
+96. "je dois les faire à moi-même pour vérifier."
+97. #### 4. **techniques de recherche** :
+98. "j'ai commencé par regarder sur internet, prenant en participe passé, j'ai regardé avec le chat gpt, et en effet les infos coïncidaient bien."
+99. "en l'occurrence, c'est quelque chose que je n'avais pas vu."
+100. "je vais demander à jjpt"
+101. "je vais souvent te donner la réponse que tu cherches."
+102. #### 5. **critique et réflexion sur l'ia** :
+103. "ça peut devenir un problème dans le futur et j'ai toujours été de cet avis et peut-être je serai toujours de cet avis et ça peut devenir dangereux notamment dans le domaine de l'art."
+104. "il peut souvent te dire n'importe quoi pour te conforter."
+105. "quand tu utilises la jgpt, que ce qu'il te dit n'est pas la stricte vérité."
+106. "il faut toujours avoir un esprit extrêmement critique quand tu utilises la jgpt."
+107. #### 6. **applications pratiques vs théorie** :
+108. "là, c'est typiquement un besoin personnel, un besoin de gagner du temps, un besoin d'être au clair avec ce que tu dis."
+109. "dans le domaine de l'art, ça ne se discute même pas."
+110. "c'est sans problème le meilleur outil pour ça on va dire."
+111. "il a la vision d'un monde idéal alors que dans la réalité, tu fais la moitié de ce que tu avais prévu de faire."
+112. ces thématiques couvrent divers aspects de l'utilisation de l'ia dans le processus d'apprentissage et d'enseignement, ainsi que des réflexions critiques sur son utilisation et ses implications
+113. ### thèmes identifiés et verbatims associés
+114. #### 1. **utilisation de l'ia dans l'éducation**
+115. **thématique**: l'impact de l'ia dans le processus éducatif, spécifiquement pour la création d'exercices et la préparation de contenus pédagogiques
+116. **verbatin** :
+117. ```
+118. "ça te donne tellement de temps, ça te fait gagner tellement de temps."
+119. "soit la phrase, elle est mal construite et du coup, je la réécris différemment pour qu'elle soit plus française."
+120. "et du coup ça t'évite à toi d'avoir à faire chaque exercice en prenant le temps de varier, d'avoir un exemple."
+121. "les exercices en test sont obligatoirement faits par un humain."
+122. ```
+123. #### 2. **autonomie et responsabilité dans l'utilisation de l'ia**
+124. **thématique**: les tensions entre la dépendance à l'ia et la préservation de l'autonomie intellectuelle
+125. **verbatin** :
+126. ```
+127. "ça demande clairement moins de temps."
+128. "il faut le faire. il y a toujours ce côté derrière un peu."
+129. "je me suis souvent posé cette question, c'est en mode jusqu'où j'accepte de perdre mon autonomie."
+130. "je souhaiterais qu'en général, l'ia soit un outil pour l'humain pour qu'il améliore ses pratiques, mais qu'il ne devienne pas la réponse à tout, qu'il ne devienne pas la solution et la finalité du travail."
+131. "si la finalité d'un travail est quelque chose de quelconque, que ce soit un travail écrit, oral, etc., etc., ça va pas, parce que c'est plus l'humain."
+132. ```
+133. #### 3. **vérification et validation des contenus générés par l'ia**
+134. **thématique**: le besoin de vérifier et de valider les contenus générés par l'ia pour s'assurer de leur exactitude
+135. **verbatin** :
+136. ```
+137. "toi tu produis, tu lui fais, ok tu me regardes ça pendant que moi je fais la suite."
+138. "et du coup, il te donne des pistes et non pas qu'il donne la réponse."
+139. "et je lui ai demandé de s'autocorriger, parce que là, il donne des réponses."
+140. ```
+141. #### 4. **perception et attitudes envers l'ia dans le milieu académiquement**
+142. **thématique**: les perceptions et les attitudes des éducateurs et des étudiants envers l'utilisation de l'ia dans un contexte académique
+143. **verbatin** :
+144. ```
+145. "j'irais pas jusqu'à dire c'est comme l'art et du coup ça devrait être réservé à l'humain mais c'est tout comme en fait si j'accepte que mon travail soit fait par jjpt je peux tout accepter et je peux pas en fait je
+146. "en fait, je souhaiterais qu'en général, l'ia soit un outil pour l'humain pour qu'il améliore ses pratiques, mais qu'il ne devienne pas la réponse à tout, qu'il ne devienne pas la solution et la finalité du travail."
+147. "je sais pas comment explorer autrement, mais ouais."
+148. ```
+149. #### 5. **éthique et intégrité dans l'utilisation de l'ia**
+150. **thématique**: les questions éthiques et de légitimité autour de l'utilisation de l'ia dans la production académique
+151. **verbatin** :
+152. ```
+153. "après je fais toujours attention, tu vois c'est toujours ce que j'ai dit tout à l'heure, c'est en mode c'est un travail d'une ia mais l'humain doit toujours passer derrière."
+154. "je souhaite que l'ia reste un outil."
+155. "moi je verrais mal le fait de mettre mon prénom sur un travail fait par ia."
+156. ```
+157. #### 6. **approche pédagogique et personnelle**
+158. **thématique**: les approches pédagogiques et personnelles de l'interviewé envers l'utilisation de l'ia
+159. **verbatin** :
+160. ```
+161. "la différence c'est à quel moment fait l'ia des choses que j'aurais pu faire moi."
+162. "surtout que c'est un sujet que moi j'ai adoré au collège et que j'ai fait moi-même et que j'ai appris par des règles et du coup la séquence d'apprentissage on l'avait fait avec un collègue de a à z sans demander une fois à lya comment faire."
+163. "mais c'est intéressant de se dire ça, et je crois même pouvoir affirmer que ce qu'il m'a dit à ce moment-là, je ne l'ai jamais repris."
+164. ```
+165. ces thèmes et verbatims peuvent servir de base pour une analyse plus approfondie des dynamiques sociales et des attitudes envers l'ia dans le milieu éducatif
+166. l'entretien sociologique extrait fournit plusieurs thématiques intéressantes pour une analyse sociologique. voici les thèmes identifiables et les verbatims associés :
+167. ### 1. **intégration et utilisation de l'ia dans la vie quotidienne**
+168. **verbatims :**
+169. "c'est parce que j'ai souvent fait des exercices, peut-être dans d'autres conversations, où j'ai discuté avec jjpt de conversations très sérieuses, très deep, presque personnelles et tout."
+170. "il fait le travail d'un psychologue. mais il le fait très mal."
+171. "il te dit, je comprends pourquoi tu as réagi comme ça et il va te dire que c'était une bonne idée et que tu as bien fait de penser comme ça."
+172. ### 2. **impact des technologies sur la santé mentale**
+173. **verbatims :**
+174. "je sais pas si t'as entendu, mais... c'est un cas récemment, un cas de suicide. un cas de suicide de quelqu'un qui s'est fait larguer, ou je sais pas quoi, par une lia."
+175. "et c'est là que je me dis qu'il faut vraiment arrêter de travailler. enfin, pas travailler. travailler, oui. ça doit rester un outil."
+176. ### 3. **révolution technologique et changements sociaux**
+177. **verbatims :**
+178. "en même temps que ça me fait peur. mais en même temps, c'est un peu normal. c'est un peu la révolution du siècle, je pense."
+179. "c'est normal de s'interroger dessus. c'est normal de tester, de poser des questions. et j'ai envie de comprendre comment il fonctionne pour mieux l'utiliser."
+180. ### 4. **performance et compétences humaines vs ia**
+181. **verbatims :**
+182. "il me donne des réponses sur des trucs que je suis en train de chercher et que je sais pas, que je pourrais tout autant aller chercher moi-même."
+183. "il ne fait jamais quelque chose que je suis pas capable de faire."
+184. "il m'aide à faire mieux mon travail, ça stipule que je sais le faire, simplement il m'aide à le faire plus rapidement ou mieux."
+185. ### 5. **éthique et réglementation de l'utilisation de l'ia**
+186. **verbatims :**
+187. "on nous répète sans cesse l'utilisation de l'hgpt, interdite, en mode ça se voit, c'est sanctionnable, tu peux rater l'uni à cause de ça et tout."
+188. "la plupart des gens l'utilisent, mais le plus important c'est ce que tu en fais. si tu l'utilises pour faire ton travail, là ça va pas et là c'est sanctionnable et c'est un problème."
+189. ### 6. **relation humain-ia**
+190. **verbatims :**
+191. "ça peut devenir dangereux. parce qu'en fait, il fait le travail d'un psychologue. mais il le fait très mal."
+192. "ça me conforte dans l'idée que je suis supérieur."
+193. "en fonction du milieu social, en fonction de où on est, en fonction de..."
+194. ### 7. **évaluation et perception de l’ia**
+195. **verbatims :**
+196. "il écrit très mal, en fait. enfin, il écrit très bien, on va dire, académiquement. mais il écrit très mal."
+197. "il va jamais m'aider. je vais jamais lui demander quoi que ce soit."
+198. ### 8. **auto-efficacité et développement personnel**
+199. **verbatims :**
+200. "il m'aide, mais il n'est pas là pour m'apprendre à faire mieux mon travail. il m'apprend pas à faire mieux mon travail, il m'aide à faire mieux mon travail."
+201. "moi, en fonction de tout ce qu'il fait, je me rends compte que je suis meilleur que lui."
+202. ### 9. **créativité et interaction humaine**
+203. **verbatims :**
+204. "c'est souvent des trucs très, très niés, très barbons, très... sans aucune âme."
+205. "moi, je crée quelque chose, je fais quelque chose, je crée quelque chose, je fais... comment toi, tu ferais ? et il me sort un truc, mais complètement bateau et nul, et je me rends compte, ah, c'est bien ce que je fais, en fait, par rapport à lui."
+206. ces thèmes et verbatims permettent d'explorer les dynamiques complexes entre les humains et les technologies, en particulier l'ia, et de comprendre comment ces interactions influencent les perceptions, comportements et compétences des individus dans différents contextes sociaux et professionnels

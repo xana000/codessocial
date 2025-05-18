@@ -1,127 +1,138 @@
-1. à partir de ce texte, plusieurs thématiques sociologiques intéressantes peuvent être identifiées. voici les thèmes principaux et les verbatims associés à chaque thème :
-2. ### 1. **le parcours scolaire et la sélection académique**
-3. **verbatims** :
-4. "j'ai intégré l'université après le bac, l'an dernier, après avoir passé le concours commun"
-5. "mon autisme ne me permettait pas de supporter les trajets ou même d'aller vivre là-bas en termes d'autonomie."
-6. "je suis en première année à sciencepo, j’ai intégré l'université après le bac, l'an dernier, après avoir passé le concours commun"
-7. "sciencepo parce que c'était mon premier choix"
-8. ### 2. **perception de l'ia et de chatgpt**
-9. **verbatims** :
-10. "je décrivais l'ia de manière générale comme… après, ça dépend aussi de ce qu'on entend par "ia"."
-11. "l’ia générative qui, pour moi, consiste en un programme pas forcément intelligent, mais qui apprendra selon les interactions qu'il aura avec... son programme mais aussi avec les autres utilisateurs"
-12. "chatgpt, c'était juste une sorte... enfin pas d'assistant mais de tu lui poses une question... elle te répond de façon plus ou moins intelligent."
-13. "on en parlera après"
-14. ### 3. **utilisation de chatgpt dans le contexte universitaire**
-15. **verbatims** :
-16. "les premières choses qui me vienne à l’esprit. moi honnêtement, je vois le concept d’ia générative je dis chatgpt mais moi dans mon esprit c'est tout ce qui est gemini ia etc."
-17. "les deux premières années sont générales, à savoir que tu as un socle commun, par exemple 5 de matières d'économie, droit, sociologie politique, sociologie et j’ai oublié le reste et j’ai oublié la dernière."
-18. "dans le cadre de sciencepo c’est tout comme tout le monde, j’ai pu lui demande « hey trouve moi des problématiques sur tel ou tel truc » dans de rare occasion."
-19. ### 4. **éthique et stratégies métacognitives (impact sur l'apprentissage)**
-20. **verbatims** :
-21. "je ne veux pas la chose comme sortes de messi, salvateur ou quelque chose de ce type, mais dans la mesure où l'usage que l'on a actuellement de l'ia génératif c'est de nous aider à résoudre des problèmes sur lesquels on n'arrive pas à plancher"
-22. "je suis fermement opposé à l'idée qu’une ia ou que quelqu'un d'autre puisse faire un travail que moi j'aurais l'affaire."
-23. "ça veut dire que ton travail ne sera pas le tien mais celui d'une intelligence autre."
-24. "je trouve ça absolument sans honneur ni mérite parce que ça veut dire que ton travail ne sera pas le tien mais celui d'une intelligence autre."
-25. ### 5. **impact de l'ia sur la compétence et la réussite académique**
-26. **verbatims** :
-27. "je me limite à la recherche d’info ou l’extrême rigueur, bon je faisais ça au lycée mais bon j’ai arrêté, parce que je trouve ça sans honnée, j’ai eu une dicerte sur tel ou tel truc"
-28. "donner des bonnes notes à la fin mais je pense à mon avis que quand tu entreras, enfin je ne sais pas moi, que si j'entre dans le ministère des armées et que le mec me dit "bah réfléchis sur cette question" ce n'est pas l'ia qui m'aidera sur ce point."
-29. ### 6. **les tensions et dilemmes éthiques**
-30. **verbatims** :
-31. "tensions et dilemmes liés à l'utilisation de la chatgpt, parce que ça peut ne pas être évident pour tout le monde"
-32. "moi je dirais non. par des tensions là, il y a quelque chose de moral."
-33. "éthiquement, par le éthique, j’y pensais tout à l’heure vis-à-vis de l’interview"
-34. "il y a un réel effort qui est en train d'être investi, d'être fait par le ministères des armées pour justement investir sur des ia avec des usages… fin modernisés les armées grâce à l'ia, pour avoir des programmes plus intelligents notamment vis-à-vis de la détection des cibles et autres."
-35. ces thèmes et verbatims peuvent servir de base pour une analyse plus approfondie des perceptions et des usages de l'ia et de chatgpt dans le contexte universitaire et scolaire
-36. voici les thématiques intéressantes pour une analyse sociologique et les verbatim associées :
-37. ### 1. **utilisation de l'ia dans le travail académique**
-38. **thématique** : comment l'ia influence-t-elle le travail académique et l'apprentissage des étudiants ?
-39. **verbatim** :
-40. « moi, je dirais que ce qu'il a modifié ma façon de travailler ? en vrai pas tellement... » (27:55-28:26)
-41. « j’ai utilisé l'ia pour m'expliquer certaines notions que j’avais du mal à comprendre. » (28:02-28:10)
-42. « chatgpt m'a aidé à gagner du temps dans les recherches. » (29:11-29:46)
-43. « de comprendre le cours en entier, non » (35:35-35:36)
-44. « l'ia m'a aidé à comprendre certaines notions, certains éléments, dans le domaine économique ou autre. » (35:37-35:40)
-45. ### 2. **confiance et réticence vis-à-vis de l'ia**
-46. **thématique** : les perceptions et les préoccupations des utilisateurs concernant la fiabilité et l'origine des ia
-47. **verbatim** :
-48. « j'ai l'attention de me méfier et surtout de ceux qui proviennent de chine, et surtout en de l'ia. » (25:53-25:59)
-49. « dans la mesure où je l'ai utilisé non-stop, mais de façon assez récente depuis quelques années, depuis que le concept s'est démocratisé... la qualité des réponses est meilleure. » (40:27-41:41)
-50. « par exemple, quand je demandais qu'il était au pouvoir en france et en angleterre lors de la crise des sudètes, je demandais bah donne moi, certes tu m’as donné pour la france et l’angleterre mais donne moi par exemple qui était, enfin... aux usa et ainsi de suite. » (42:39-43:44)
-51. ### 3. **stratégies de vérification et de critique des informations fournies par l'ia**
-52. **thématique** : les méthodes utilisées pour évaluer la qualité et la fiabilité des réponses de l'ia
-53. **verbatim** :
-54. « je vérifie systématiquement les informations fournies par l'ia sur des sites plus crédibles. » (42:28-42:32)
-55. « je demande à l'ia de détailler sa démarche et je vérifie les informations avec des sources secondaires. » (42:39-43:44)
-56. « j'ai un regard critique sur les informations fournies par l'ia. » (44:36-44:39)
-57. ### 4. **impact de l'ia sur le temps de travail et l'organisation**
-58. **thématique** : comment l'ia affecte-t-elle le temps de travail et l'organisation des tâches ?
-59. **verbatim** :
-60. « l'ia ne l'a pas accourci ou modifié mon planning de travail, j'ai gardé ma méthode. » (32:28-32:38)
-61. « l'ia est un gain de temps important, mais je ne me suis pas converti à son usage courant. » (31:54-32:06)
-62. « l'ia est un complément et non un substitut de mes méthodes de travail. » (28:38-29:11)
-63. ### 5. **perception de la qualité des réponses de l'ia**
-64. **thématique** : comment les utilisateurs perçoivent la qualité et la pertinence des réponses fournies par l'ia ?
-65. **verbatim** :
-66. « les réponses de chatgpt et gemini sont de plus en plus développées et fines. » (40:31-41:41)
-67. « la qualité des réponses est en amélioration au fil du temps. » (40:27-41:41)
-68. « les réponses peuvent être satisfaisantes pour des questions simples et factuelles. » (23:58-24:09)
-69. ces thématiques et verbatims permettent de mener une analyse sociologique approfondie sur l'utilisation et la perception des ia dans le contexte académique, en tenant compte des aspects tels que la confiance, la fiabilité, l'impact sur le travail et les stratégies d'utilisation
-70. ### thématiques sociologiques et verbatim associés
-71. **utilisation et perception de l'ia dans l'éducation**
-72. **thématique :** comment les étudiants perçoivent et utilisent les outils d'ia comme chatgpt dans leurs études
-73. verbatim :
-74. "je lui demande de détailler, ou alors je reforume de sorte, à ce que ce soit plus clair. mais pour moi comme dit ia, c'est un gain de temps, donc j'en fais moi le moins possible."
-75. "je suis sûr, aller à 90% que dans ma promo l’utilise, à une moindre mesure mais voilà. honnêtement, ça me donne pas d’avantage, dans le sens ou ça va me gagner du temps."
-76. "un monde où l’ia serait proéminente, où nous inspirerait nos idées, pour moi, ça n'a pas de sens."
-77. **dépendance et critique de l'ia**
-78. **thématique :** les perceptions de dépendance et la capacité critique des étudiants face aux réponses de l'ia
-79. verbatim :
-80. "dépendance ça... non. dans le sens ou pour moi l’ia est un gain de temps."
-81. "je te dis ce qu’y est, augmente tes sources, va voir ailleurs…"
-82. "je refuse d'avoir un outil dont on ne comprend pas tout."
-83. **éthique et légitimité de l'utilisation de l'ia**
-84. **thématique :** les questions éthiques et la légitimité de l'utilisation de l'ia dans les travaux académiques
-85. verbatim :
-86. "il n'y a aucun mal et aucune [inaudible] à demander un gain de temps, pour plusieurs raisons, mais si ce gain de temps est légitime et est raisonnable."
-87. "tu ne peux pas faire une dissert de droit constit ou alors de sociopo sans connaissance, mais ce qu'il va joué, et c'est ça qui par ailleurs qu'il va valoriser pour le concours commun, pour les questions contemporaines, c'est que certes pour le concours tu vas devoir des connaissances, mais ce qui va compter, c'est comment est-ce que toi tu traites le problème qu'on te poses."
-88. "quel monde ça serait ? un monde où toutes tes idées, tout ce qui est fait, tout ce qui est construit, qui est bâti, viendrait de l'esprit, viendrait de 1 et 0. pour moi ça n'a pas de sens."
-89. **impact sur l'apprentissage et la reflexivité**
-90. **thématique :** comment l'utilisation de l'ia affecte l'apprentissage et la capacité de réflexion des étudiants
-91. verbatim :
-92. "les tensions… quand j’utilise l’ia j’ai le choix entre avoir une réponse qui sera claire, qui sera concise, mais pas forcément si détaillée que je ne l'aurais souhaité. ou alors prendre plus de temps, y passer éventuellement quelques heures, mais avoir des pavés et des pavés à lire, qui là en complément, m’apporteront plus de réponse et plus également de fiabilité, que ne l’aurai apporté l’ia."
-93. "je suis athée donc je n'ai pas de conviction religieuses ou d'autres. quel monde ça serait ? un monde où toutes tes idées, tout ce qui est fait, tout ce qui est construit, qui est bâti, viendrait de l'esprit, viendrait de 1 et 0. pour moi ça n'a pas de sens."
-94. **réactions des enseignants et régulation de l'utilisation de l'ia**
-95. **thématique :** les réactions des enseignants et les régulations potentielles concernant l'utilisation de l'ia
-96. verbatim :
-97. "tous les profs s'accordent à mon sens de dire, enfin...s'accord à dire que c'est un outil qui est arrivé de façon fulgurante, et qui est arrivé de façon extrêmement récente."
-98. "lui étant en mode "écoutez, sachez que j'utilise un logiciel pour détecter le plagiat et l’ia, et que si vous le utilisez, je vous tuerai" "enfin non, vous tuerai non, mais vous serez fonctionné."
-99. **transformation des pratiques d'apprentissage**
-100. **thématique :** comment les outils comme chatgpt pourraient transformer les pratiques d'apprentissage à l'avenir
-101. verbatim :
-102. "à l'heure actuelle et au vu de la proportion que ça a pris. je ne peux pas m'imaginer une éducation ou alors un enseignement sans usage de l'ia."
-103. ces thématiques et verbatim permettent d'explorer les dimensions sociologiques de l'utilisation de l'ia dans le contexte académique, en mettant en lumière les perceptions, les usages et les implications éthiques et éducatives
-104. ### thématiques intéressantes pour une analyse sociologique
-105. **rôle des technologies dans l'éducation**
-106. **impact de l'ia sur les relations humaines et sociales**
-107. **dépendance et autonomie dans l'apprentissage**
-108. ### verbatims associés
-109. #### 1. rôle des technologies dans l'éducation
-110. "pour moi, l'ia est vouée... non, au mieux compléter les professeurs, les raisonnements au pire petit à petit a grignoter le rôle et la place des profs"
-111. "on peut se poser des questions sur soit les niveaux cp etc et aussi dont sur la façon dont les professeurs auront de faire cours ou de préparer leurs cours"
-112. "le fait qu'un professeur puisse préparer son cours avec de l’ia, ça me semble tout sauf réaliste."
-113. "est-ce qu'il y a d’autres points que tu aimerais aborder par rapport à l'utilisation et son impact dans ta manière d'étudier"
-114. "mais moi, une chose que je redoute un peu, c'est que, on en vienne à considérer l’ia comme... la base de ma réflexion c'était un livre qui s'appelle 'american gods'"
-115. "des suggestions ? eventuellememnt, ça dépend des attentes qu'auraient, je pense, les enseignants ou les structures mais dans la mesure où l'ia est en un sens extrêmement doué pour synthétiser ... je dis pas que l’ia peut faire des leçons mais on pourrait trouver une sorte d'usage synthétique à savoir à apprendre aux étudiants à bien utiliser leurs notes ou leurs cours."
-116. "et l’ia peut t’apprendre à les synthétiser, à te dire « tu pourrais prendre tel éléments… » pour ensuite faire un cours plus simple à apprendre."
-117. #### 2. impact de l'ia sur les relations humaines et sociales
-118. "je me demande un peu et je redoute un peu que ça devienne un peu de ces nouveaux dieux aussi"
-119. "aujourd'hui l'usage de ce démocrate est de plus en plus, on l'utilise de plus en plus pour tout et rien"
-120. "à un point ou des genss en viennent à carrément être dépendants"
-121. "des gens qui sont dépendant de l’ia ou discuter avec des personnages de manière… je ne pourrai pas te donner des exemples plus concrets, mais j'ai vu des témoignages de gens... qui carrément en viennent à entretenir entre guillemets des relations amoureuses avec des ia"
-122. "et moi je me pose la question de… « voilà, est-ce que c'est pas un peu triste que ce côté illusoire, que ce côté, disons-nous illusoir de cette réalité sur la vie réel face le pas..."
-123. "est-ce qu'on n'est pas en entrain, est-ce qu'on n'est pas voué, à s'incliner devant ce nouveau dieu qui prendra la place de notre vie réelle."
-124. "est-ce qu'on ne peut pas redouter le fait de rester toute la journée devant un écran à discuter avec les 1 et des 0 plutôt que de se morcer à sortir, se développer et autres ?"
-125. #### 3. dépendance et autonomie dans l'apprentissage
-126. "si je peux dire, il faut vivre avec ton temps signifie devenir dépendant à un programme ou à une société, je ne pense pas personnellement…"
-127. "une chose aussi que je redoute pour l’entretien, j’ai un peu dit tout au long de l’entretien c’est ce côté [?] de l’ia potentiellement que de plus en plus d’étudient pourrait à l’avenir et au fur et à mesure des âges, ne se fier qu'à l'ia, ou en oublier les vieilles méthodes."
+1. à partir de l'entretien sociologique extrait, plusieurs thématiques intéressantes peuvent être identifiées pour une analyse sociologique. voici les thèmes principaux avec les verbatims associés :
+2. ### 1. **perception et réception de l'ia et de chatgpt**
+3. **définition et compréhension de l'ia :**
+4. "je décrivais l'ia de manière générale comme… je peux entendre l'ia, par exemple, comme l'ia des jeux vidéo où ça sera du coup…"
+5. "le terme est vieux comme le monde."
+6. "je vois l’ia générative comme un programme pas forcément intelligent, mais qui apprendra selon les interactions qu'il aura avec…"
+7. **première rencontre avec chatgpt :**
+8. "chatgpt, c'était juste une sorte… final pas d'assistant… tu lui poses une question… elle te répond de façon plus ou moins intelligente."
+9. **évolution de l'utilisation de l'ia :**
+10. "moi je suis pas un pro mais voilà il y a cinq ans par exemple je pense qu'on entendait beaucoup moins parler à mon sens."
+11. "chatgpt, c'est venu à une façon assez étrangère, on va dire. enfin, je n'avais jamais entendu parler avant…"
+12. ### 2. **utilisation de chatgpt dans le contexte universitaire**
+13. **rôle d'aide et de recherche :**
+14. "moi honnêtement, je vois le concept d’ia générative… c'est tout ce qui est gemini… moi je vois ça comme une sorte… d'assistant, en un sens, dans les tâches…"
+15. **préparation et recherche d'informations :**
+16. "au quotidien… non, pas tous les jours. mais cela arrive à vrai dire assez souvent. pour plusieurs points."
+17. "moi en général ça passe surtout dans des matières un peu plus techniques comme l’économie ou je lui demande de me réexpliquer certains concepts…"
+18. **dilemme moral et éthique :**
+19. "je suis fermement opposé à l'idée qu’une ia ou que quelqu'un d'autre puisse faire un travail que moi j'aurais l'affaire."
+20. "je considère que le travail qui doit être rendu… doit être le fruit de ma réflexion et pas celle d'une intelligence autre."
+21. ### 3. **impact de chatgpt sur l'apprentissage et le travail universitaire**
+22. **gain de temps :**
+23. "ce qui est vrai… le truc de l’ia générative c’est qu’elle te fait gagner un temps absolument monstre."
+24. **réflexion personnelle :**
+25. "c'est bien beau de créer une chose, une arme, ou ce que tu veux. si ton arme ou ta création parvient à t’échapper, ça veut dire que…"
+26. **rôle de l'ia dans la résolution de problèmes :**
+27. "en général, ça passe surtout dans des matières un peu plus techniques comme l’économie ou je lui demande de me réexpliquer certains concepts que j’ai pas compris."
+28. ### 4. **compétences et stratégies métacognitives**
+29. **rôle spécifique de chatgpt :**
+30. "elle te donne quelque chose et te sors. bon certes, c’est un culte de la feignantise… je regardais une émission justement. est-ce que tu peux pas sacrifier ce temps pour une efficacité qui serait mieux."
+31. **préférence pour le travail personnel :**
+32. "j'aurai pas cet assistant là ou cette aide avec moi."
+33. ### 5. **perception de chatgpt vis-à-vis de la compétence et de la réussite académiques**
+34. **verdict sur la qualité du travail :**
+35. "je ne considère pas que le travail qui doit être rendu ne devrait jamais être le fruit d'une intelligence autre."
+36. ### 6. **tensions et dilemmes liés à l'utilisation de chatgpt**
+37. **prise de décision éthique :**
+38. "est-ce que ça aurait été si à la place du pilote, il y aurait eu une ia. bon certes, elles sont programmées pour faire x ou y chose mais est-ce qu’elles auraient eu la conscience de se dire…"
+39. **dilemme moral :**
+40. "je suis fermement opposé à l'idée qu’une ia ou que quelqu'un d'autre puisse faire un travail que moi j'aurais l'affaire."
+41. ces thématiques et verbatims offrent une base solide pour une analyse sociologique approfondie de la perception, de l'utilisation et des conséquences de l'ia et de chatgpt dans le contexte académique et quotidien
+42. ### thématiques sociologiques et verbale à partir du texte
+43. #### 1. **utilisation de l'ia dans l'éducation et le travail universitaire**
+44. **gouvernement d'utilisation de l'ia** :
+45. "moi je dirais que ce qu'il a modifié ma façon de travailler ? en vrai pas tellement..." (28:38)
+46. "moi je dirais que ce qu'il a modifié ma façon de travailler ? en vrai pas tellement parce que moi, si je dois prendre l’exemple de mes partielles, pour réviser je me suis d'abord, enfin à partir du semestre 1 je veux dire." (28:38)
+47. **utilisation pour comprendre des concepts complexes** :
+48. "dans mon cas, j’ai un peu de mal à cause de l'économie à cause de ma dispraxie dans le sens où... à chaque fois qu’il y aura des nombres." (28:45)
+49. "après ya pas motif j'ai pas modifié drastiquement ma façon de travailler honnêtement. comme un complément oui mais pas comme un tout je dirais." (28:38)
+50. **impact sur le temps de travail** :
+51. "dans qu'elle te fait gagner du temps, surtout dans le terme, et surtout dans les recherches de faits et pour l'impact sur son utilisation... c’est un gain de temps." (29:05 et 30:49)
+52. **utilisation pour la préparation des examens** :
+53. "je m’en suis servie uniquement en économie, je voulais vous demander de m'expliquer certaines notions que j’avais du mal à comprendre. en tout cas, l'économie, dans mon cas, j’ai un peu de mal à cause de l'économie à cause de ma dispraxie dans le sens où..." (28:47)
+54. "par exemple, quand j’avais préparé le concours pour sciencepo l’an dernier. j’avais demandé de me poser des questions sur tels ou tels sujets." (37:55)
+55. #### 2. **perception et confiance en l'ia**
+56. **méfiance envers certaines ias** :
+57. "je m’en méfie fortement même si j’ai eu ouï dire qu’elle était extrêmement performante mais dans la mesure où fin… je sais pas… c’est comme les téléphones." (25:15)
+58. "je sais que d'autres gens quand tu sais l'utiliser l’ia ce que j'entends, peut-être, mais il y a un truc de fou à mon sens. mais moi, de l'usage du rendu modeste et humble que j'en ai." (41:34)
+59. **qualité et fiabilité des réponses** :
+60. "et est-ce que je me sens satisfait par la réponse qui me donne... en me donnant trois critères..." (40:05)
+61. "... quand je demandais je sais pas moi. explique-moi tel truc selon tel truc. ou encore quand je me bossais sur une questions de réflexion en hlp en première, il y avait des moments où je disais 'et tu connes dis-moi ?" (33:07)
+62. #### 3. **comparaison avec d'autres sources d'information**
+63. **vérification des informations** :
+64. "je parle surtout pour deepseek mais je pense pas qu’il y ait une notion de neutralité restons dans l’ia que je pense que deepseek sera beaucoup moins encline à me dire que taiwan est un pays. là où par exemple j'ai mis à gemini son problème." (44:37)
+65. "je parle surtout pour deepseek mais je pense pas qu’il y ait une notion de neutralité restons dans l’ia que je pense que deepseek sera beaucoup moins encline à me dire que taiwan est un pays." (44:40)
+66. #### 4. **stratégies et habitudes d'utilisation**
+67. **précision dans les questions posées** :
+68. "la ou pour le coup d’aujourd'hui chatgpt mais surtout gemini, surtout chatgpt qui était le modèle de base à l’époque. la réponse que les deux me sortes m'apparaissent de plus en plus développées, de plus en plus, je dirais, fines en un sens." (40:11)
+69. #### 5. **impact psychosocial de l'utilisation de l'ia**
+70. **stress et confiance en soi** :
+71. "honnêtement, dans la mesure où je l’utilise sans vrai... je pense que ... dans une moindre mesure, ça pourrait mais avec un usage extrêmement raisonné et extrêmement précis... après honnêtement, enfin voilà, je ne pense pas que à court, à moyen ou à long terme je l'utiliserais pour préparer les entretiens ou autre. a la rigueur le seul usage que j’en avais fait à ce propos." (36:29)
+72. "qu’est-ce que je veux ? et dans la mesure où je l’utilise sans vrai... je pense que... dans une moindre mesure, ça pourrait mais avec un usage extrêmement raisonné et extrêmement précis, aider justement des personnes autistes, qui sont pas forcément à l’aise avec les conversations et autres. mais moi, honnêtement, pour le coup encore une fois." (36:41)
+73. ### conclusion
+74. ce texte offre une multitude de thématiques sociologiques intéressantes, notamment l'utilisation de l'ia dans l'éducation, la perception et la confiance en l'ia, la comparaison avec d'autres sources d'information, les stratégies et habitudes d'utilisation, et l'impact psychosocial de l'utilisation de l'ia. les verbatims associés à ces thématiques permettent de mieux comprendre les dynamiques complexes entre les individus et les technologies, et de voir comment elles peuvent influencer les processus d'apprentissage et de travail
+75. à partir de cet entretien sociologique, plusieurs thématiques intéressantes pour une analyse sociologique émergent. voici les thèmes identifiés et les verbatims associés :
+76. ### 1. **utilisation et perception de l'ia dans le contexte académique**
+77. **perception de l'ia comme un outil de gain de temps :**
+78. "je lui demande de détailler, ou alors je reforume de sorte, à ce que ce soit plus clair. mais pour moi comme dit ia, c'est un gain de temps"
+79. "si c'est sa réponse que j'ai convient, bah tant mieux, et sinon je vais laisser tomber je vais voir sur d’autres sources, d’autres sites."
+80. "plus tard, j'ai pensé que la perception de chatgpt et l’usage que c’est un gain de temps, un gain de temps et uniquement un gain de temps."
+81. "ça m’embêterait, parce que, pour moi, encore une fois c'est un gain de temps et un gain de temps qui par moment est non négligeable."
+82. **utilisation de l'ia pour la compréhension de langue et la vérification de sources :**
+83. "pour la traduction ou la compréhension de langue est très utile. donc, enfin, quand j'ai la flemme de lire un texte en anglais, ou alors de lire un texte que j'aurais mal compris ou autre, je vais lui demander au pire de me réexpliquer"
+84. "quand je parle sur un mot, je vais demander directement à elle, au lieu d'ouvrir un google trad ou un reverso, et marquer."
+85. ### 2. **impact de l'ia sur les pratiques académiques et la réflexion critique**
+86. **réflexion critique et ajustement des pratiques :**
+87. "en résumé, non, dans le sens où je prends l'ia pour ce qu'elle est, à savoir un gain de temps et uniquement un gain de temps."
+88. "je vais demander de m'expliquer un truc rapidement. donc j’aurai une information qui serai faits pour euh… voilà, par exemple, si je lui demande « explique moi la théorie marginaliste simplement ou explique moi ce concept simplement. »"
+89. "surtout de l’honneur de manière général. dont je considère que de mon point de vue. si ce gain de temps est légitime et est raisonnable."
+90. ### 3. **dépendance et éthique de l'utilisation de l'ia**
+91. **dépendance vis-à-vis de l'ia :**
+92. "dans le sens ou pour moi l’ia est un gain de temps... enfin voilà... si par exemple du jour au lendemain, on disait « non tu n'utilises plus l’ia.""
+93. **éthique de l'utilisation de l'ia :**
+94. "car si par exemple mon camarade me dit « écoute, j’ai utilisé que l’ia, tout ce que je vais te dire durant l’exposé, ça sera l'ia qui me l'a dit et y compris ma réflexion » mais là... je ne pourrais pas dans le sens où il y a une différence entre être aidé et faire quelque chose à sa place."
+95. "sciencepo quand même c'est d'amener l'individu à la réflexion, à l'aide de connaissances certes mais les connaissances sont entre guillemets cette… fin oui … tu ne peux pas faire une dissert de droit constit ou alors de sociopo sans connaissance, mais ce qu'il va jouer, et c'est ça qui par ailleurs qu'il va valoriser pour le concours commun, pour les questions contemporaines, c'est que certes pour le concours tu vas devoir des connaissances, mais ce qui va compter, c'est comment est-ce que toi tu traites le problème qu'on te poses. et l’ia dans mon sens… par exemple, si j'avais fait le concours commun avec l’ia mais non, pour moi l’intérêt n'aurait pas été là."
+96. ### 4. **tensions et dilemmes éthiques**
+97. **tensions entre gain de temps et apprentissage personnel :**
+98. "quand j’utilise l’ia j’ai le choix entre avoir une réponse qui sera claire, qui sera concise, mais pas forcément si détaillée que je ne l'aurais souhaité. ou alors prendre plus de temps, y passer éventuellement quelques heures, mais avoir des pavés et des pavés à lire, qui là en complément, m’apporteront plus de réponse et plus également de fiabilité, que ne l’aurai apporté l’ia. "
+99. **reflexion sur l'intelligence artificielle et son rôle dans la société :**
+100. "moi, je sais que l'ia mon sens est conçu. moi, c'est ce que je vois. et comme on l'a présenté, c'est conçu comme une sorte de... pas de messie, mais enfin si. quand je vois certains mecs qui en parlent, pour moi, j'ai littéralement l'impression d'assister, je sais pas moi au retour... du jésus, du prophète ou autre. mais à mon sens pour moi il y a certes être voué à entrer dans nos vie, à être un accompagnement ou une aide, mais l'idée qu'elle soit premier dans notre vie c'est pas quelque chose que je pourrais accepter. "
+101. ### 5. **opinion sur les enseignants et les pratiques académiques**
+102. **réaction des enseignants à l'utilisation de l'ia :**
+103. "moi ce que je constate c’est qu’il y a eu une prise de conscience extrêmement rapide sur les dangers que ça pourrait avoir que ça pourrait avoir."
+104. **perception de l'utilisation de l'ia dans les écoles d'élite :**
+105. "dans la mesure où sciencepo paris, les limites sont les mêmes. dans la mesure où sciencepo est supposé former, autant sciencepo que l'ena, que x, que polytechnique ou autres, que toutes ces écoles-là sont supposées former les élites de la nation, comme par exemple à sciencespo, est supposé former les futurs cadres dirigeants de notre pays. les écoles de commerce, hec etc les financiers dans la mesure justement enfin je pense que je serais un petit peu moins enclin à ce que l'ia soit utilisé là dans le sens où les élites de demain seront les élites qui pensent par eux même et pas les élites qui seront assistées ou qui ne devront leur ascension que parce que un programme leur a dit quoi faire."
+106. ### 6. **perspectives sur l'évolution des pratiques d'apprentissage**
+107. **impact futur de l'ia sur l'éducation :**
+108. "dans la mesure où l'éducation nationale y investit fortement, je pense que oui."
+109. ces thèmes et verbatims permettent de mieux comprendre les attitudes et perceptions des étudiants vis-à-vis de l'ia dans le contexte académique, ainsi que les dilemmes éthiques et les tensions qui en découlent
+110. l'entretien sociologique extrait du fichier pdf aborde plusieurs thématiques intéressantes pour une analyse sociologique. voici les thèmes identifiés et les verbatims associés :
+111. ### 1. **rôle et place des ia dans l'éducation**
+112. **"le rôle et la place des profs"**
+113. **"une ia ne remplacera jamais un prof de sciencepo ou de lycée mais on peut se poser des questions"**
+114. **"soit les niveaux cp etc"**
+115. **"ça me semble tout sauf réaliste que ça prenne beaucoup plus de place"**
+116. **"non pas irréaliste et probable. c’est voué à arriver"**
+117. ### 2. **dépendance aux technologies et danger de l'illusoire**
+118. **"je redoute un peu que ça devienne un peu de ces nouveaux dieux aussi"**
+119. **"l’usage de ce démocrate est de plus en plus, on l'utilise de plus en plus pour tout et rien"**
+120. **"des gens qui sont dépendant de l’ia ou discuter avec des personnages de manière…"**
+121. **"des témoignages de gens... qui entretiend des relations amoureuses avec des ia"**
+122. **"est-ce qu'on ne peut pas redouter le fait de rester toute la journée devant un écran"**
+123. **"se morcer à sortir, se développer et autres"**
+124. ### 3. **impact sur les méthodes d'étude**
+125. **"une chose que je redoute un peu c'est que, on en vienne à considérer l’ia comme"**
+126. **"un peu moins dans le cadre de l’entretien mais je vois carément ce que tu veux dire par rapport à ça"**
+127. **"de plus en plus d’étudiants pour l’avenir et au fur et à mesure des âges, ne se fier qu'à l'ia, ou en oublier les vieilles méthodes"**
+128. **"il faut vivre avec ton temps signifie devenir dépendant à un programme ou à une société"**
+129. ### 4. **suggestions pour l'intégration de l'ia dans l'éducation**
+130. **"des suggestions pour améliorer l’intégration pour améliorer de chatgpt dans le cadre académique ?"**
+131. **"je pense, les enseignants ou les structures"**
+132. **"l'ia est en un sens extrêmement doué pour synthétiser"**
+133. **"apprendre aux étudiants à bien utiliser leurs notes ou leurs cours"**
+134. **"l’ia peut t’apprendre à les synthétiser"**
+135. ### 5. **réflexions sur l'utilisation singulière de l'ia**
+136. **"ta réflexion, merci pour ton utilisation qui est pour moi singulière"**
+137. **"c’est super intéressant de pouvoir voire ton point de vue et ta manière d’utiliser"**
+138. ces thématiques et verbatims permettent d'examiner les perceptions et les préoccupations des étudiants concernant l'intégration de l'ia dans le domaine éducatif, ainsi que les implications sociales et psychologiques de l'utilisation croissante de cette technologie
